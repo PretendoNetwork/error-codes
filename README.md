@@ -2,23 +2,24 @@
 Translated JSON files for known error codes used by the Wii U and 3DS
 
 ## Path Structure
-There are paths: modules and codes. The top level of this repository contains the modules. Inside each module folder are the translation files for the module and folders for each of the module's error codes. Inside each module error code folder are the translation files for the error. Example path structure:
+There are paths: modules and codes. The `data` folder contains the error code data. The root of the `data` folder contains the modules. Inside each module folder are the translation files for the module and folders for each of the module's error codes. Inside each module error code folder are the translation files for the error. Example path structure:
 
 ```
-102
-├── en_US.json
-├── 2482
-│   └── en_US.json
-├── 2483
-│   └── en_US.json
-└── etc
-103
-├── en_US.json
-├── 0504
-│   └── en_US.json
-├── 1101
-│   └── en_US.json
-└── etc
+data
+├── 102
+│   ├── en_US.json
+│   ├── 2482
+│   │   └── en_US.json
+│   ├── 2483
+│   │   └── en_US.json
+│   └── etc
+└── 103
+    ├── en_US.json
+    ├── 0504
+    │   └── en_US.json
+    ├── 1101
+    │   └── en_US.json
+    └── etc
 ```
 
 ## Translation Files
