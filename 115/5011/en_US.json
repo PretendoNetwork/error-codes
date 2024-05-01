@@ -1,0 +1,13 @@
+{
+	"115": {
+		"5011": {
+			"name": "Unknown",
+			"message": "In order to use this online service,\nthe other person must first set up\nMiiverse.",
+			"short_description": "Juxtaposition account not initialized",
+			"long_description": "",
+			"short_solution": "Boot the Miiverse applet from the home screen and complete setup",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2501": {
+			"name": "DEVICE_MISMATCH",
+			"message": "This Nintendo Network ID cannot\nbe used on this console.",
+			"short_description": "The console certificate sent in the request was invalid or missing",
+			"long_description": "",
+			"short_solution": "Ensure your console certificate is untampered with and try again later. If using Cemu, dump your system files again",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

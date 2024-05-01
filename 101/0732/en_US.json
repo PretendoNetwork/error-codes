@@ -1,0 +1,13 @@
+{
+	"101": {
+		"0732": {
+			"name": "FPD_REQUEST_LIMIT_EXCEED",
+			"message": "This user cannot receive any\nmore friend requests.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

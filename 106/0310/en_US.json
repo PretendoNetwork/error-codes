@@ -1,0 +1,13 @@
+{
+	"106": {
+		"0310": {
+			"name": "RendezVous::InvalidPID",
+			"message": "",
+			"short_description": "The operation specifies or accesses an invalid PrincipalID",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

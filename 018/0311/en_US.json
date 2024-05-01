@@ -1,0 +1,13 @@
+{
+	"018": {
+		"0311": {
+			"name": "Unknown",
+			"message": "Unable to connect due to the software\nversion being out of date.\n\nA software update is required",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

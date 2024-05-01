@@ -1,0 +1,13 @@
+{
+	"022": {
+		"2802": {
+			"name": "BANNED_ACCOUNT_ALL",
+			"message": "This Nintendo Network ID\ncannot be used.\n\nPlease make a note of the error code\nand visit support.nintendo.com",
+			"short_description": "Your PNID is permanently banned from all aspects of the network",
+			"long_description": "",
+			"short_solution": "Don't do whatever you did to get banned",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

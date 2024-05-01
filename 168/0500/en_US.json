@@ -1,0 +1,13 @@
+{
+	"168": {
+		"0500": {
+			"name": "Unknown",
+			"message": "The amiibo data is corrupted.\n\nWould you like to restore it with\ndata saved on this console?",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

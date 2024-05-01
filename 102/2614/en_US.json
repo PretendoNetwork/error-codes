@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2614": {
+			"name": "WRONG_CONFIRMATION_CODE",
+			"message": "",
+			"short_description": "The email confirmation code entered does not match your account",
+			"long_description": "",
+			"short_solution": "Check your confirmation code and try again",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

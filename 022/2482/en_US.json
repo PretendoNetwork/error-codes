@@ -1,0 +1,13 @@
+{
+	"022": {
+		"2482": {
+			"name": "INVALID_GAME_SERVER_ID",
+			"message": "",
+			"short_description": "The game server requested could not be found. Either the game is not supported or is tester-only",
+			"long_description": "",
+			"short_solution": "Check to see if your game is supported at https://pretendo.network/progress. If you're a tester, check your account is set to Beta at https://pretendo.network/account",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2676": {
+			"name": "INVALID_CREDIT_CARD_PIN",
+			"message": "Please check the credit-card\nPIN and try entering it again.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

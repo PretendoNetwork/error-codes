@@ -1,0 +1,13 @@
+{
+	"101": {
+		"0811": {
+			"name": "AUTHENTICATION_UNDER_MAINTENANCE",
+			"message": "Due to server maintenance, the service\nyou attempted to access is not available\nat this time.\n\nPlease try again later.",
+			"short_description": "Server maintenance",
+			"long_description": "",
+			"short_solution": "Serverside maintenance. Please wait and try again later.",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

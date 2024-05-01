@@ -1,0 +1,13 @@
+{
+	"012": {
+		"1506": {
+			"name": "SSLMOD_CERT_HAS_EXPIRED",
+			"message": "The certificate has expired.\n(Please check that date\nand time settings on your\nNintendo 3DS system\nare correct.)",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"102": {
+		"1022": {
+			"name": "NOT_LOCAL_ACCOUNT",
+			"message": "The current user already has\na Nintendo Network ID.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

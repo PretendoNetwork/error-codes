@@ -1,0 +1,13 @@
+{
+	"105": {
+		"0621": {
+			"name": "Unknown",
+			"message": "The USB storage device could\nnot be recognized.\n\nPlease delete this data in\nDownload Management and\ntry downloading it again.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"162": {
+		"0085": {
+			"name": "Unknown",
+			"message": "The system memory or the USB\nstorage device is full.\n\nIn System Settings, select Data\nManagement ⇒ Copy/Move/Delete Data\nand delete any unnecessary data.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

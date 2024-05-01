@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2574": {
+			"name": "MII_NAME_NOT_ACCEPTABLE",
+			"message": "The nickname you entered\ncannot be used.",
+			"short_description": "The Mii nickname you entered contains rejected text",
+			"long_description": "",
+			"short_solution": "Choose a different nickname",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2612": {
+			"name": "WRONG_MAIL_ADDRESS",
+			"message": "The e-mail address you entered is not\ncorrect.\n\nPlease check the e-mail address\nyou entered and try again.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

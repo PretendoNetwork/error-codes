@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2591": {
+			"name": "REACHED_ASSOCIATION_LIMIT",
+			"message": "This Nintendo Network ID has already\nbeen linked to another Wii U console.\n\nPlease select a different Nintendo\nNetwork ID and try again.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

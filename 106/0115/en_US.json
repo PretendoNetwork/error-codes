@@ -1,0 +1,13 @@
+{
+	"106": {
+		"0115": {
+			"name": "Core::RegistrationError",
+			"message": "",
+			"short_description": "An error occurred during registration",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

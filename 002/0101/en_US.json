@@ -1,0 +1,13 @@
+{
+	"002": {
+		"0101": {
+			"name": "Unknown",
+			"message": "Either the network is experiencing high\ntraffic volumes or the service is down.\nPlease try again later.\n\nFor help, visit support.nintendo.com",
+			"short_description": "Game server is under maintenance",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

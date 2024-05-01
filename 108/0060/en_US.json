@@ -1,0 +1,13 @@
+{
+	"108": {
+		"0060": {
+			"name": "Unknown",
+			"message": "Unable to connect to the server.\n\nPlease try again later.\n\nIf the problem persists, please\nmake a note of the error code and\nvisit support.nintendo.com.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

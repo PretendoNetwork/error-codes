@@ -1,0 +1,13 @@
+{
+	"115": {
+		"5931": {
+			"name": "Unknown",
+			"message": "You cannot comment on this post.",
+			"short_description": "Post could not be commented on",
+			"long_description": "",
+			"short_solution": "Try again later",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

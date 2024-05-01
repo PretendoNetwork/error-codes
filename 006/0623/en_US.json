@@ -1,0 +1,13 @@
+{
+	"006": {
+		"0623": {
+			"name": "DOCore::VersionMismatch",
+			"message": "A communication error has occurred.\n\nIn order to use online services, a newer\nversion of this software is required.\n\nDownload the newest version of this\nsoftware from Nintendo eShop or other\nsupported software",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

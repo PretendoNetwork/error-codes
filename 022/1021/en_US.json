@@ -1,0 +1,13 @@
+{
+	"022": {
+		"1021": {
+			"name": "NOT_NETWORK_ACCOUNT",
+			"message": "There is no Nintendo Network ID\nlinked to this system.\n\nTo link a Nintendo Network ID, go\nto Nintendo Network ID Settings in\nSystem Settings",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

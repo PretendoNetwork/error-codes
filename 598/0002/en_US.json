@@ -1,0 +1,13 @@
+{
+	"598": {
+		"0002": {
+			"name": "598-0002",
+			"message": "",
+			"short_description": "Cannot follow community\nUser either already following it or the database may not be available",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

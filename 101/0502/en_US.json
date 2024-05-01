@@ -1,0 +1,13 @@
+{
+	"101": {
+		"0502": {
+			"name": "TRANSPORT_CONNECTION_FAILURE",
+			"message": "",
+			"short_description": "Couldn't connect to the Friends server.",
+			"long_description": "",
+			"short_solution": "The Pretendo server is likely overloaded. Try again in half an hour.",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

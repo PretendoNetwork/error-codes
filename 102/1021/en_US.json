@@ -1,0 +1,13 @@
+{
+	"102": {
+		"1021": {
+			"name": "NOT_NETWORK_ACCOUNT",
+			"message": "Use of this feature requires a linked\nNintendo Network ID.\n\nYou can link an ID from User Settings.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

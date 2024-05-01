@@ -1,0 +1,13 @@
+{
+	"168": {
+		"1801": {
+			"name": "Unknown",
+			"message": "You need at least 9 MB of free space\nin the system memory to use amiibo.\n\nPlease go to Data Management in\nSystem Settings and free up some\nspace.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

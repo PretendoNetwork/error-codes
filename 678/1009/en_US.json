@@ -1,0 +1,13 @@
+{
+	"678": {
+		"1009": {
+			"name": "678-1009",
+			"message": "",
+			"short_description": "Patch Created a Corrupted File\nYour system has not been modified",
+			"long_description": "",
+			"short_solution": "Try running Martini again.",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

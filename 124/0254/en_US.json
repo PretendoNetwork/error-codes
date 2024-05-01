@@ -1,0 +1,13 @@
+{
+	"124": {
+		"0254": {
+			"name": "Unknown",
+			"message": "You can't add this to the list because it\ncontains items you've already bought.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

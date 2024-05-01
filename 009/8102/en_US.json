@@ -1,0 +1,13 @@
+{
+	"009": {
+		"8102": {
+			"name": "Unknown",
+			"message": "There is not enough free space\nto complete the process.\n\nPlease delete any unnecessary data on\nthe SD Card using Data Management\nin System Settings",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

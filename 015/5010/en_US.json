@@ -1,0 +1,13 @@
+{
+	"015": {
+		"5010": {
+			"name": "Unknown",
+			"message": "You cannot post to Miiverse from\nthis system.\n\nFor details, please start Miiverse",
+			"short_description": "Your console has been banned from Juxtaposition",
+			"long_description": "",
+			"short_solution": "Don't do whatever you did to get banned",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

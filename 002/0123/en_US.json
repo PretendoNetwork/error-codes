@@ -1,0 +1,13 @@
+{
+	"002": {
+		"0123": {
+			"name": "Unknown",
+			"message": "You cannot use online services with this\nGame Card.\n\nFor help, visit support.nintendo.com",
+			"short_description": "Rom id is banned",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

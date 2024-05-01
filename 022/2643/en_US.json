@@ -1,0 +1,13 @@
+{
+	"022": {
+		"2643": {
+			"name": "AUTHENTICATION_REQUIRED",
+			"message": "An error has occurred.\n\nYour session has expired.\nPlease sign in and try again",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

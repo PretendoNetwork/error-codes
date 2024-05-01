@@ -1,0 +1,13 @@
+{
+	"015": {
+		"5901": {
+			"name": "Unknown",
+			"message": "The text you entered contains\ninappropriate words or phrases",
+			"short_description": "Content posted contains text not allowed",
+			"long_description": "",
+			"short_solution": "Edit your post",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

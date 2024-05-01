@@ -1,0 +1,13 @@
+{
+	"006": {
+		"0311": {
+			"name": "RendezVous::MaxConnectionsReached",
+			"message": "Unable to connect to the server.\n\nPlease try again later",
+			"short_description": "Maximum connnection number is reached",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

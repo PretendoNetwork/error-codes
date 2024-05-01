@@ -1,0 +1,13 @@
+{
+	"106": {
+		"0114": {
+			"name": "Core::CallInitiationFailure",
+			"message": "",
+			"short_description": "The call failed to initialize",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"678": {
+		"1004": {
+			"name": "678-1004",
+			"message": "",
+			"short_description": "Failed to mount IOSU",
+			"long_description": "",
+			"short_solution": "Restart your console",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2882": {
+			"name": "SERVICE_CLOSED",
+			"message": "This online service is no longer\navailable.\n\nSorry for the inconvenience.",
+			"short_description": "The server you requested is closed and no longer maintained",
+			"long_description": "",
+			"short_solution": "Self host the server or use another hosted instance",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"001": {
+		"0724": {
+			"name": "Unknown",
+			"message": "You have not yet created\na Personal Mii.\n\nCreate a Personal Mii\nusing Mii Maker",
+			"short_description": "Mii not created",
+			"long_description": "",
+			"short_solution": "Open Mii Maker and follow the instructions\nthe console gives you.",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

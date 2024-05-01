@@ -1,0 +1,13 @@
+{
+	"101": {
+		"0727": {
+			"name": "FPD_INVALID_ACCOUNT",
+			"message": "An error has occurred.\n\nThis user has been deleted or\nis unable to use friend features.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

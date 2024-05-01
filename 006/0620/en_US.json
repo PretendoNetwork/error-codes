@@ -1,0 +1,13 @@
+{
+	"006": {
+		"0620": {
+			"name": "DOCore::FaultRecoveryJobProcessFailed",
+			"message": "A communication error has occurred.\n\nThere may be problems with the network\nor the environment. Please try again\nlater",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

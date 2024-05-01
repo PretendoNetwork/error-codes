@@ -1,0 +1,13 @@
+{
+	"106": {
+		"0510": {
+			"name": "Transport::IncorrectRemoteAuthentication",
+			"message": "",
+			"short_description": "The destination Station did not authenticate itself properly",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

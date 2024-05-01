@@ -1,0 +1,13 @@
+{
+	"022": {
+		"2572": {
+			"name": "ACCOUNT_ID_NOT_ACCEPTABLE",
+			"message": "Choose a different username",
+			"short_description": "The Nintendo Network ID you entered\nincludes text that cannot be used.\n\nPlease try again",
+			"long_description": "",
+			"short_solution": "Missing link",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

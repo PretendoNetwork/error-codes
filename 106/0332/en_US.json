@@ -1,0 +1,13 @@
+{
+	"106": {
+		"0332": {
+			"name": "RendezVous::ConnectionDisconnected",
+			"message": "A communication error has occurred.\n\nThe network may be busy, or the signal\nstrength may be weak. Please try again\nlater",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

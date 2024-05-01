@@ -1,0 +1,13 @@
+{
+	"115": {
+		"5916": {
+			"name": "Unknown",
+			"message": "Communities that you have created\ncannot be removed from your favorites.",
+			"short_description": "Trying to remove a community you created from your favorites",
+			"long_description": "",
+			"short_solution": "Don't do that",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

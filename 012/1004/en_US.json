@@ -1,0 +1,13 @@
+{
+	"012": {
+		"1004": {
+			"name": "SSL_CONNECT_ERROR",
+			"message": "SSL connection failed.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

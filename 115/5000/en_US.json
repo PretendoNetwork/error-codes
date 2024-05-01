@@ -1,0 +1,13 @@
+{
+	"115": {
+		"5000": {
+			"name": "Unknown",
+			"message": "Unable to connect to the server. Please try again later.",
+			"short_description": "Server could not be reached at this time",
+			"long_description": "",
+			"short_solution": "Try again later",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

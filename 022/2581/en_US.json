@@ -1,0 +1,13 @@
+{
+	"022": {
+		"2581": {
+			"name": "ACCOUNT_ID_TOO_MANY_DIGIT",
+			"message": "You can't use more than six\nnumbers in your ID.\n\nPlease try again",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"115": {
+		"5929": {
+			"name": "Unknown",
+			"message": "Either this user does not exist or initial\nsettings haven't been configured for\nMiiverse.",
+			"short_description": "Other users Juxtaposition account not initialized",
+			"long_description": "",
+			"short_solution": "No fix",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

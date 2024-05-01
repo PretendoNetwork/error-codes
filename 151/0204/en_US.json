@@ -1,0 +1,13 @@
+{
+	"151": {
+		"0204": {
+			"name": "Unknown",
+			"message": "This weight is outside the range that\ncan be measured by the Wii Balance\nBoard.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"155": {
+		"0200": {
+			"name": "Unknown",
+			"message": "There is not enough free space to\ncreate save data.\n\nPlease go to Data Management in\nSystem Settings to make space.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

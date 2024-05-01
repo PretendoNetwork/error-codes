@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2662": {
+			"name": "EXCESSIVE_MAIL_SEND_REQUEST",
+			"message": "You cannot perform this operation\nseveral times in a row.\n\nPlease try again later.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

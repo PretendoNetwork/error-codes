@@ -1,0 +1,13 @@
+{
+	"002": {
+		"0120": {
+			"name": "Unknown",
+			"message": "In order to use online services, a newer\nversion of this software is required.\n\nDownload the newest version of this\nsoftware from Nintendo eShop\nor other supported software",
+			"short_description": "Title version is invalid",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

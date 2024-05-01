@@ -1,0 +1,13 @@
+{
+	"160": {
+		"0103": {
+			"name": "Unknown",
+			"message": "There is a problem with the system memory.\n\nFor help, make a note of the error code and visit\nsupport.nintendo.com",
+			"short_description": "MLC corruption error",
+			"long_description": "",
+			"short_solution": "Usually happens on 32GB Wii U models having a Hynix chip,\nthis chip has a problem that slowly corrupts its data overtime,\nthere is nothing much to do except backing up the MLC\nand replacing the Hynix chip entierly.",
+			"long_solution": "",
+			"support_link": "https://github.com/GaryOderNichts/WiiUIdent"
+		}
+	}
+}

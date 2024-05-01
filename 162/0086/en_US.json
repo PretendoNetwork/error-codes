@@ -1,0 +1,13 @@
+{
+	"162": {
+		"0086": {
+			"name": "Unknown",
+			"message": "The USB storage device is\nwrite-protected.\n\nPlease refer to the manual for the\ndevice and disable write-protection.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"108": {
+		"0034": {
+			"name": "Unknown",
+			"message": "The USB storage device could\nnot be accessed.\n\nPlease check that the USB storage\ndevice is connected correctly, and\nthen delete the data in Download\nManagement and download it again.\n\nIf the problem persists, please\nmake a note of the error code and\nvisit support.nintendo.com.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

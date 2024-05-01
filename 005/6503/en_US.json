@@ -1,0 +1,13 @@
+{
+	"005": {
+		"6503": {
+			"name": "Unknown",
+			"message": "The credit-card number you entered is\nnot valid.\n\nPlease confirm the number and try again",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

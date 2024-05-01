@@ -1,0 +1,13 @@
+{
+	"106": {
+		"0502": {
+			"name": "Transport::ConnectionFailure",
+			"message": "",
+			"short_description": "Couldn't connect to the game server",
+			"long_description": "",
+			"short_solution": "The Pretendo server is likely overloaded. Try again in half an hour.",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

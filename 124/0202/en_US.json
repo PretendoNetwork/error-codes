@@ -1,0 +1,13 @@
+{
+	"124": {
+		"0202": {
+			"name": "Unknown",
+			"message": "Unable to connect to the Wi-Fi network.\n\nPlease check that the Wi-Fi network\nis set up for use and that the network\ndevice's IP-address-allocation settings\nare correct. Please also check that the\nIP address and the SSID have been\nset correctly on the Wii U console.\n\nIf the Wi-Fi network is secured using\nWEP, the security key may be incorrect.\n\nYou can check the console IP address,\nSSID, and security settings under the\nInternet option in System Settings.\n\nIf the settings are correct and this\nproblem occurs, the network may be\nbusy or the signal strength may be\npoor. Wait for a few minutes, and then\ntry again, making sure that the console\nis about 6-10 feet away from the\nnetwork device and that there are no\nobstructions between the two.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"101": {
+		"0746": {
+			"name": "FPD_PREFERENCE_NOT_INITIALIZED",
+			"message": "Your friend list hasn't been set up yet.\n\nPlease open your friend list from\nthe HOME Menu and set it up.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

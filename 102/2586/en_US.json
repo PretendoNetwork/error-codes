@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2586": {
+			"name": "MAIL_ADDRESS_DOMAIN_NAME_NOT_RESOLVED",
+			"message": "",
+			"short_description": "The email address entered uses a domain which could not be located",
+			"long_description": "",
+			"short_solution": "Enter a different email address",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"106": {
+		"0811": {
+			"name": "Authentication::UnderMaintenance",
+			"message": "The server is undergoing maintenance.\n\nPlease try again later",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

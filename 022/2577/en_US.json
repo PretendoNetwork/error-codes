@@ -1,0 +1,13 @@
+{
+	"022": {
+		"2577": {
+			"name": "ACCOUNT_ID_PASSWORD_SAME",
+			"message": "You cannot use a password that is\nidentical to your Nintendo Network ID.\n\nPlease use a different password",
+			"short_description": "Your username and password are the same",
+			"long_description": "",
+			"short_solution": "Change either your username or password",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

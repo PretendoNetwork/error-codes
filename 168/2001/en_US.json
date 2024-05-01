@@ -1,0 +1,13 @@
+{
+	"168": {
+		"2001": {
+			"name": "Unknown",
+			"message": "An error has occurred.\n\nPlease try again later.\n\nPlease note, if this error occurred\nwhile data was being written,\namiibo data may have been lost.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

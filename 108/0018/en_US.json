@@ -1,0 +1,13 @@
+{
+	"108": {
+		"0018": {
+			"name": "Unknown",
+			"message": "The storage device is full.\n\nIn System Settings, select Data\nManagement ⇒ Copy/Move/Delete Data\nand delete any unnecessary data.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

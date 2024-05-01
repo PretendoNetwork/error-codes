@@ -1,0 +1,13 @@
+{
+	"598": {
+		"0020": {
+			"name": "598-0020",
+			"message": "",
+			"short_description": "Service token present, unable to parsed (likely a Nintendo Network Account)",
+			"long_description": "",
+			"short_solution": "Check if you are logging into a PNID and ran the patcher",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

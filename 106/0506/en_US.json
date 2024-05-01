@@ -1,0 +1,13 @@
+{
+	"106": {
+		"0506": {
+			"name": "Transport::DuplicateEndpoint",
+			"message": "",
+			"short_description": "The Station is already connected via another EndPoint",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

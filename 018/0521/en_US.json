@@ -1,0 +1,13 @@
+{
+	"018": {
+		"0521": {
+			"name": "Unknown",
+			"message": "Failed to connect to partner's device,\nbecause partner did not respond.\n\nPlease try again later",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"105": {
+		"0606": {
+			"name": "Unknown",
+			"message": "The downloadable content is corrupted\nand cannot be properly installed.\n\nIn System Settings, select Data\nManagement ⇒ Copy/Move/Delete Data\nand delete the downloadable content.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

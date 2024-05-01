@@ -1,0 +1,13 @@
+{
+	"022": {
+		"2611": {
+			"name": "WRONG_ACCOUNT_PASSWORD",
+			"message": "Incorrect password",
+			"short_description": "Incorrect password",
+			"long_description": "",
+			"short_solution": "Enter your password again or reset your password and try again",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

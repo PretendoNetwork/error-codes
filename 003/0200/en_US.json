@@ -1,0 +1,13 @@
+{
+	"003": {
+		"0200": {
+			"name": "Unknown",
+			"message": "Wireless communication is currently\ndisabled. \n\nPlease enable wireless communication",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

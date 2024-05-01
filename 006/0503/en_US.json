@@ -1,0 +1,13 @@
+{
+	"006": {
+		"0503": {
+			"name": "Transport::InvalidUrl",
+			"message": "",
+			"short_description": "The URL contained in the StationURL is invalid. The syntax may be incorrect",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"101": {
+		"0736": {
+			"name": "FPD_FRIEND_REQUEST_BLOCKED",
+			"message": "This user has elected not to receive\nfriend requests.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"115": {
+		"5925": {
+			"name": "Unknown",
+			"message": "The community does not exist.",
+			"short_description": "Community not found",
+			"long_description": "",
+			"short_solution": "Verify the community you are trying to access exists",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

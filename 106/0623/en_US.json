@@ -1,0 +1,13 @@
+{
+	"106": {
+		"0623": {
+			"name": "DOCore::VersionMismatch",
+			"message": "A communication error occurred.\n\nThis software must be updated before\nonline services can be used",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"022": {
+		"2582": {
+			"name": "ACCOUNT_PASSWORD_CHAR_NOT_ACCEPTABLE",
+			"message": "Your entry contains characters\nthat cannot be used.\n\nPlease use a different password",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

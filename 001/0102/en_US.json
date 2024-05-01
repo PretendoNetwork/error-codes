@@ -1,0 +1,13 @@
+{
+	"001": {
+		"0102": {
+			"name": "CORE_UNKNOWN",
+			"message": "Missing message.",
+			"short_description": "Likely a Pretendo server issue",
+			"long_description": "",
+			"short_solution": "Try double checking your internet connection or wait.",
+			"long_solution": "",
+			"support_link": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/17043/~/error-code%3A-001-0102#:~:text=This%20error%20code%20indicates%20you,a%20poor%20wireless%20network%20environment."
+		}
+	}
+}

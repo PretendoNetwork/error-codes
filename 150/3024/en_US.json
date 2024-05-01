@@ -1,0 +1,13 @@
+{
+	"150": {
+		"3024": {
+			"name": "Unknown",
+			"message": "An error has occurred.\n\nIf there is an SD Card in your console,\nplease remove it, turn off the console,\nand then try again.\n\nIf the problem persists, please make\nnote of the error code, and then turn\noff the console's power, unplug the\nWii U console's AC adapter from the\noutlet, and visit support.nintendo.com.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

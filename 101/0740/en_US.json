@@ -1,0 +1,13 @@
+{
+	"101": {
+		"0740": {
+			"name": "FPD_INCOMPATIBLE_ACCOUNT",
+			"message": "You cannot make this user a friend.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

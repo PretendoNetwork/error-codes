@@ -1,0 +1,13 @@
+{
+	"018": {
+		"0702": {
+			"name": "Unknown",
+			"message": "Unable to connect because one or more\nother users are using software that is\nout of date.\n\nOne or more other users must update\ntheir software",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

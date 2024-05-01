@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2633": {
+			"name": "AUTHENTICATION_LOCKED",
+			"message": "Due to repeated incorrect password\nentries, you are temporarily unable\nto sign in to Nintendo Network\n\nPlease try again later.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

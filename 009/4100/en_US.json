@@ -1,0 +1,13 @@
+{
+	"009": {
+		"4100": {
+			"name": "Unknown",
+			"message": "No more data can be downloaded, as\nthe maximum amount that can be saved\nto the SD Card has been reached",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

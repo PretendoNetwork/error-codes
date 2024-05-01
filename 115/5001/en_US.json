@@ -1,0 +1,13 @@
+{
+	"115": {
+		"5001": {
+			"name": "Unknown",
+			"message": "A System update is required. Go to System Settings to perform a system update.",
+			"short_description": "Your console is not up to date",
+			"long_description": "",
+			"short_solution": "Update your console",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

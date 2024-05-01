@@ -1,0 +1,13 @@
+{
+	"006": {
+		"0301": {
+			"name": "RendezVous::ConnectionFailure",
+			"message": "",
+			"short_description": "Connection was unable to be established, either with the Rendez-Vous back end or a Peer",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"106": {
+		"0110": {
+			"name": "Core::OutOfMemory",
+			"message": "",
+			"short_description": "The system could not allocate or access enough memory or disk space to perform the specified operation",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

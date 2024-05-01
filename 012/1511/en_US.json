@@ -1,0 +1,13 @@
+{
+	"012": {
+		"1511": {
+			"name": "SSLMOD_UNABLE_TO_GET_ISSUER_CERT",
+			"message": "Certificate not found.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

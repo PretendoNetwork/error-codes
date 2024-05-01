@@ -1,0 +1,13 @@
+{
+	"101": {
+		"0306": {
+			"name": "RENDEZVOUS_ACCOUNT_DISABLED",
+			"message": "This user cannot use network services.\n\nThe Nintendo Network ID linked to this\nuser has been deleted.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

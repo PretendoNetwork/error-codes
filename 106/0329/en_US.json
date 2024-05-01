@@ -1,0 +1,13 @@
+{
+	"106": {
+		"0329": {
+			"name": "RendezVous::GameServerMaintenance",
+			"message": "The server is currently undergoing\nmaintenance. We apologize for any\ninconvenience. Please try again later.\n\nIf the problem persists, please\nvisit support.nintendo.com",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

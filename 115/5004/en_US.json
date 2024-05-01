@@ -1,0 +1,13 @@
+{
+	"115": {
+		"5004": {
+			"name": "Unknown",
+			"message": "The Miiverse service has ended.\nMiiverse and any software features\nthat make use of Miiverse will no\nlonger be available.\n\nThank you for your interest.",
+			"short_description": "Juxtaposition is shut down",
+			"long_description": "",
+			"short_solution": "Self host, use another Juxtaposition instance, or use https://github.com/rverseTeam",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

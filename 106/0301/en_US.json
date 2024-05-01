@@ -1,0 +1,13 @@
+{
+	"106": {
+		"0301": {
+			"name": "RendezVous::ConnectionFailure",
+			"message": "Unable to connect to the server.\n\nPlease try again later.\n\nIf the problem persists, please make\na note of the error code and visit\nsupport.nintendo.com",
+			"short_description": "Connection was unable to be established, either with the Rendez-Vous back end or a Peer",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

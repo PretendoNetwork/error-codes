@@ -1,0 +1,13 @@
+{
+	"001": {
+		"0721": {
+			"name": "Unknown",
+			"message": "Online Interaction is restricted by\nParental Controls",
+			"short_description": "Online not allowed",
+			"long_description": "",
+			"short_solution": "Reset your parental controls or visit here:\nhttps://en-americas-support.nintendo.com/app/answers/detail/a_id/270/~/how-to-reset-parental-controls",
+			"long_solution": "",
+			"support_link": "https://www.nintendo.com.au/support/articles/001-0721"
+		}
+	}
+}

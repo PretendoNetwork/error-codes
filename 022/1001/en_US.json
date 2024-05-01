@@ -1,0 +1,13 @@
+{
+	"022": {
+		"1001": {
+			"name": "ACCOUNT_NOT_FOUND",
+			"message": "Unable to find the specified user.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

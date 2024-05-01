@@ -1,0 +1,13 @@
+{
+	"199": {
+		"1101": {
+			"name": "Unknown",
+			"message": "This Nintendo Network ID cannot be\nused because its country setting does\nnot match the setting of the console.\n\nPlease check that the country setting in\nSystem Settings ⇒ Console Information\nmatches your country of residence.\n\nIf the country setting is correct, add\na new user to the console and link\na Nintendo Network ID that is valid\nfor your country of residence.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

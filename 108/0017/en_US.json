@@ -1,0 +1,13 @@
+{
+	"108": {
+		"0017": {
+			"name": "Unknown",
+			"message": "The data is corrupted.\n\nPlease delete the data that was\nbeing downloaded and try again.\n\nIf the problem persists, please\nmake a note of the error code and\nvisit support.nintendo.com.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

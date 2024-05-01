@@ -1,0 +1,13 @@
+{
+	"118": {
+		"0501": {
+			"name": "Unknown",
+			"message": "Failed to connect to partner's device,\nbecause partner temporarily could not\naccept your transmission.\n\nPlease try again later.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

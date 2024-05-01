@@ -1,0 +1,13 @@
+{
+	"120": {
+		"9002": {
+			"name": "Unknown",
+			"message": "The connection with the server\ntimed out. Please try again.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

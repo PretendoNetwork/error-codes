@@ -1,0 +1,13 @@
+{
+	"106": {
+		"0520": {
+			"name": "Transport::DnsError",
+			"message": "Unable to connect to the Internet.\n\nThe network may be busy.\nPlease try again later.\n\nIf you are using a Wi-Fi network,\nthe signal strength may be poor.\n\nPlease make sure there are no\nobstructions between the console\nand network device, and then try\nagain.\n\nIf this problem persists, it is possible\nthat the DNS and proxy-server settings\nare incorrect. Please check these\nsettings under the Internet option\nin System Settings",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

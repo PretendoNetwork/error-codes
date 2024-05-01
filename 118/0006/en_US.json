@@ -1,0 +1,13 @@
+{
+	"118": {
+		"0006": {
+			"name": "Unknown",
+			"message": "You do not currently have\nan Internet connection.\n\nPlease try again later.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

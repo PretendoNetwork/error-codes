@@ -1,0 +1,13 @@
+{
+	"006": {
+		"0308": {
+			"name": "RendezVous::ConcurrentLoginDenied",
+			"message": "",
+			"short_description": "The Principal does not have the capabilities to perform concurrent logins, i.e. at any given time only one log-in may be maintained",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

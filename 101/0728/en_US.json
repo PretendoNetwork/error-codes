@@ -1,0 +1,13 @@
+{
+	"101": {
+		"0728": {
+			"name": "FPD_BLACKLISTED_BY_ME",
+			"message": "This is a user you have blocked.\n\nIf you would like to make this user a\nfriend, you must first unblock the user.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"022": {
+		"2583": {
+			"name": "ACCOUNT_PASSWORD_TOO_FEW_CHAR_TYPES",
+			"message": "Your password must contain characters\nfrom at least two of the following\ncategories: letters, numbers, and\npunctuation.\n\nPlease use a different password",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

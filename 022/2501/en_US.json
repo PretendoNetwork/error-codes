@@ -1,0 +1,13 @@
+{
+	"022": {
+		"2501": {
+			"name": "DEVICE_MISMATCH",
+			"message": "You cannot use this Nintendo Network\nID on this system.\n\nPlease make a note of the error code\nand visit support.nintendo.com",
+			"short_description": "The console certificate sent in the request was invalid or missing",
+			"long_description": "",
+			"short_solution": "Ensure your console certificate is untampered with and try again later. If using Citra, dump your system files again",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

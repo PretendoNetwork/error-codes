@@ -1,0 +1,13 @@
+{
+	"006": {
+		"0617": {
+			"name": "DOCore::JobTerminationFailed",
+			"message": "An error has occurred.\nTurn off the power and try again.\n\nFor help, visit support.nintendo.com",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

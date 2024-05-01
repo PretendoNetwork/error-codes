@@ -1,0 +1,13 @@
+{
+	"115": {
+		"5922": {
+			"name": "Unknown",
+			"message": "This user cannot be followed.",
+			"short_description": "Could not follow user",
+			"long_description": "",
+			"short_solution": "No fix",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"678": {
+		"1011": {
+			"name": "678-1011",
+			"message": "",
+			"short_description": ":warning: **PATCH HAS FAILED TO REPLACE CERT\nYOUR SYSTEM MAY HAVE BRICKED**",
+			"long_description": "",
+			"short_solution": "Contact a developer immediately.",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

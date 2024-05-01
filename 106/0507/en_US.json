@@ -1,0 +1,13 @@
+{
+	"106": {
+		"0507": {
+			"name": "Transport::IOError",
+			"message": "",
+			"short_description": "The data could not be sent across the network. This could be due to an invalid message, packet, or buffer",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

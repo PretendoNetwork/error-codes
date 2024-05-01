@@ -1,0 +1,13 @@
+{
+	"009": {
+		"8401": {
+			"name": "Unknown",
+			"message": "The update data is corrupted.\n\nIn System Settings, select Data\nManagement ⇒ Nintendo 3DS ⇒\nDownloadable Content, and then\ndelete the update data.\n\nFor help, visit support.nintendo.com",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2576": {
+			"name": "ACCOUNT_ID_FORMAT_INVALID",
+			"message": "The Nintendo Network ID you\nentered cannot be used.\n\nPlease try again, following the\ninstructions on your TV screen.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

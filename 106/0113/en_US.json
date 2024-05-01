@@ -1,0 +1,13 @@
+{
+	"106": {
+		"0113": {
+			"name": "Core::InitializationFailure",
+			"message": "",
+			"short_description": "Initialization of the component failed",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

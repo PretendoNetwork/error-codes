@@ -1,0 +1,13 @@
+{
+	"005": {
+		"2056": {
+			"name": "Unknown",
+			"message": "There are not enough open blocks\non the SD Card.\n\nUse Data Management in System\nSettings to delete unnecessary\ndata on the SD Card",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

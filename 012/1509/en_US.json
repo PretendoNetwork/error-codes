@@ -1,0 +1,13 @@
+{
+	"012": {
+		"1509": {
+			"name": "SSLMOD_DEPTH_ZERO_SELF_SIGNED_CERT",
+			"message": "Self-signed certificates\ncannot be verified.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

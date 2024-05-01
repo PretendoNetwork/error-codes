@@ -1,0 +1,13 @@
+{
+	"106": {
+		"0501": {
+			"name": "Transport::Unknown",
+			"message": "",
+			"short_description": "The reason for the error is unknown",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

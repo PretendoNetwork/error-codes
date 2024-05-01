@@ -1,0 +1,13 @@
+{
+	"001": {
+		"0112": {
+			"name": "CORE_TIMEOUT",
+			"message": "Unable to connect to the server.\nPlease try again later",
+			"short_description": "Connection timeout",
+			"long_description": "",
+			"short_solution": "Verify your wifi is working. If it is\nworking, then this is a serverside error.\nPlease wait and try again later.",
+			"long_solution": "",
+			"support_link": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/14458/~/error-code%3A-001-0112"
+		}
+	}
+}

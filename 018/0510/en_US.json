@@ -1,0 +1,13 @@
+{
+	"018": {
+		"0510": {
+			"name": "Unknown",
+			"message": "Failed to connect to partner's device.\n\nPlease try again later.\n\nIf the problem persists, something in\nyour network environment may be\ncausing connection issues with your\npartner",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

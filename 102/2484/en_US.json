@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2484": {
+			"name": "GAME_SERVER_ID_UNIQUE_ID_NOT_LINKED",
+			"message": "",
+			"short_description": "The game server ID and title ID were not linked, or the request did not send a game server ID. This error should never happen normally",
+			"long_description": "",
+			"short_solution": "File a bug report with as much detail as possible at https://github.com/PretendoNetwork/account/issues/new",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

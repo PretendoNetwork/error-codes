@@ -1,0 +1,13 @@
+{
+	"678": {
+		"1010": {
+			"name": "678-1010",
+			"message": "",
+			"short_description": ":warning: Patch created a corrupted file\n**YOUR SYSTEM HAS BEEN MODIFIED AND MAY BE IN AN UNSTABLE STATE**",
+			"long_description": "",
+			"short_solution": "Contact a developer immediately.",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

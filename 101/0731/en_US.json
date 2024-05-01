@@ -1,0 +1,13 @@
+{
+	"101": {
+		"0731": {
+			"name": "FPD_MY_FRIEND_LIST_LIMIT_EXCEED",
+			"message": "Your friend list is full.\n\nYou must make space in your friend\nlist before registering new friends.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

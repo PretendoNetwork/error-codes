@@ -1,0 +1,13 @@
+{
+	"155": {
+		"0202": {
+			"name": "Unknown",
+			"message": "Unable to detect USB storage device.\n\nTurn the console off, ensure that the\nUSB device is connected properly, and\nthen try again.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

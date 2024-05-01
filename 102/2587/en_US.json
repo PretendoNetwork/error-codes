@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2587": {
+			"name": "Unknown",
+			"message": "The Nintendo Network ID you entered\nalready exists.\n\nIf you want to use this ID, select \"Link a\nNintendo Network ID\" in User Settings,\nand follow the on-screen instructions.\n\nDuring the process, select \"Yes\" when\nasked \"Do you have a Nintendo Network\nID?\" You will need to enter the e-mail\naddress and password used when you\ninitially created the ID.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

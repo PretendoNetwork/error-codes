@@ -1,0 +1,13 @@
+{
+	"115": {
+		"5917": {
+			"name": "Unknown",
+			"message": "The community code is incorrect.",
+			"short_description": "Invalid community code",
+			"long_description": "",
+			"short_solution": "Verify the community code entered",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

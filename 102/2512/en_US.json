@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2512": {
+			"name": "APPLICATION_UPDATE_REQUIRED",
+			"message": "This software must be updated before\nonline services can be used.\n\nTo update the software, go to the Wii U\nMenu and then start the software again.",
+			"short_description": "Your game is not up to date",
+			"long_description": "",
+			"short_solution": "Update your game",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"103": {
+		"0500": {
+			"name": "Unknown",
+			"message": "No Internet connection has been set up.\n\nPlease set up an Internet connection\nin System Settings ⇒ Internet.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "Make sure your console is in range of your Wi-Fi network, and check the settings are correct. Make sure the 'Default' connection in Internet Settings is set correctly.",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

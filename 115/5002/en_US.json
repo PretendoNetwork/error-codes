@@ -1,0 +1,13 @@
+{
+	"115": {
+		"5002": {
+			"name": "Unknown",
+			"message": "You must have started Miiverse\nat least once before you can\nuse this online service.\n\nPlease start Miiverse from\nthe HOME Menu and set up\nyour user information.",
+			"short_description": "Juxtaposition account not initialized",
+			"long_description": "",
+			"short_solution": "Boot the Miiverse applet from the home screen and complete setup",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

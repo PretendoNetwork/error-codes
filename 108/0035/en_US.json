@@ -1,0 +1,13 @@
+{
+	"108": {
+		"0035": {
+			"name": "Unknown",
+			"message": "An error has occurred.\n\nThe USB storage device may not be\nconnected or may have been removed\nduring use. Turn off the console,\nconnect the USB storage device, and\ntry again.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

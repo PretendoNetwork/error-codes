@@ -1,0 +1,13 @@
+{
+	"009": {
+		"1350": {
+			"name": "Unknown",
+			"message": "The value you entered would cause your\nbalance to exceed the maximum amount\nallowed",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

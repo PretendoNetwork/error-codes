@@ -1,0 +1,13 @@
+{
+	"015": {
+		"5003": {
+			"name": "Unknown",
+			"message": "The server is currently undergoing\nmaintenance. We apologize for any\ninconvenience. Please try again later.\n\nTo learn more about maintenance,\nvisit support.nintendo.com",
+			"short_description": "Juxtaposition is under maintenance",
+			"long_description": "",
+			"short_solution": "Try again later",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

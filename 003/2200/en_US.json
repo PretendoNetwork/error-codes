@@ -1,0 +1,13 @@
+{
+	"003": {
+		"2200": {
+			"name": "Unknown",
+			"message": "Could not connect to the proxy server.\n\n■ Check that your computer can\nconnect to the Internet using the same\nsettings. If not, consult the\nadministrator of the proxy server.\n\n■ The proxy server may have been \nentered incorrectly. Check the setting \nin System Settings ⇒ Internet \nSettings",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

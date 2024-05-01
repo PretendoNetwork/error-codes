@@ -1,0 +1,13 @@
+{
+	"105": {
+		"3172": {
+			"name": "Unknown",
+			"message": "The software data is corrupted.\n\nPlease go to Data Management in\nSystem Settings and view the data\nfor this software. Delete anything that\nshows \"???\" (excluding save data).",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

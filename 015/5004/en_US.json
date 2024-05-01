@@ -1,0 +1,13 @@
+{
+	"015": {
+		"5004": {
+			"name": "Unknown",
+			"message": "This service has been discontinued.\nThank you for using this service",
+			"short_description": "Juxtaposition is shut down",
+			"long_description": "",
+			"short_solution": "Self host, use another Juxtaposition instance, or use https://github.com/rverseTeam",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

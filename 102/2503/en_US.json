@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2503": {
+			"name": "EULA_NOT_ACCEPTED",
+			"message": "To use online services, you must\naccept the terms of the Network\nServices Agreement.\n\nGo to the Wii U Menu and select User\nSettings to agree to the latest terms.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

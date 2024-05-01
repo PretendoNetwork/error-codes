@@ -1,0 +1,13 @@
+{
+	"150": {
+		"1023": {
+			"name": "Unknown",
+			"message": "This USB storage device cannot\nbe used.\n\nFor a list of supported USB\nstorage devices, please visit\nsupport.nintendo.com.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

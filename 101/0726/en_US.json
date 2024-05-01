@@ -1,0 +1,13 @@
+{
+	"101": {
+		"0726": {
+			"name": "FPD_RESERVED_26",
+			"message": "You have not yet configured your\nnotification settings for friends.\n\nConfigure these settings in the\nfriend list",
+			"short_description": "Friend list not configured",
+			"long_description": "",
+			"short_solution": "Go to orange friend icon on the home screen\nand follow the instructions the console gives you.",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

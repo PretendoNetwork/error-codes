@@ -1,0 +1,13 @@
+{
+	"002": {
+		"0150": {
+			"name": "Custom Pretendo Error",
+			"message": "",
+			"short_description": "Serial number mismatch",
+			"long_description": "",
+			"short_solution": "Revert your original serial or report the issue",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

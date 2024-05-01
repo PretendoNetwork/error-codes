@@ -1,0 +1,13 @@
+{
+	"022": {
+		"2884": {
+			"name": "NOT_PROVIDED_COUNTRY",
+			"message": "Online services are not available\nin your country of residence",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

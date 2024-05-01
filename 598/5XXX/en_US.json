@@ -1,0 +1,13 @@
+{
+	"598": {
+		"5XXX": {
+			"name": "598-5XXX",
+			"message": "",
+			"short_description": "Loading community page network error",
+			"long_description": "",
+			"short_solution": "Check your internet connection, if your connection is fine servers may be down",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

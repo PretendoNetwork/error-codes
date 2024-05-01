@@ -1,0 +1,13 @@
+{
+	"005": {
+		"2062": {
+			"name": "Unknown",
+			"message": "There are not enough open blocks\nin the System Memory.\n\nUse Data Management in System\nSettings to delete unnecessary\ndata from the System Memory",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

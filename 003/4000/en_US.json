@@ -1,0 +1,13 @@
+{
+	"003": {
+		"4000": {
+			"name": "Unknown",
+			"message": "A communication error has occurred.\n\nThere may be problems with the \nnetwork or the environment.\nTo ensure an optimal connection \nenvironment, move closer to the \naccess point and make sure that there\nare no obstructions between the\nsystem and the access point.\nIf this does not work, please try \nagain later",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

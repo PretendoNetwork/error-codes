@@ -1,0 +1,13 @@
+{
+	"106": {
+		"0109": {
+			"name": "Core::InvalidIndex",
+			"message": "",
+			"short_description": "The operation specifies or accesses an invalid index",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

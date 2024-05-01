@@ -1,0 +1,13 @@
+{
+	"105": {
+		"0450": {
+			"name": "Unknown",
+			"message": "You have exceeded the number of \nitems that can be downloaded at \nthe same time.\n\nPlease wait and try again later,\nor start Download Management from\nthe HOME Menu and delete an item\nthat is waiting to be downloaded.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

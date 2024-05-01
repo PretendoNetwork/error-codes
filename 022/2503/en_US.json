@@ -1,0 +1,13 @@
+{
+	"022": {
+		"2503": {
+			"name": "EULA_NOT_ACCEPTED",
+			"message": "To use online services, you must\naccept the terms of the Network\nServices Agreement.\n\nSelect Nintendo Network ID Settings\nin System Settings, and agree to the\nterms",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

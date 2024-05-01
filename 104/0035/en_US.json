@@ -1,0 +1,13 @@
+{
+	"104": {
+		"0035": {
+			"name": "Unknown",
+			"message": "An error has occurred.\n\nThe USB storage device is not\nconnected or was removed while\nin use. Turn off your console,\nconnect the USB storage device,\nand try again.\n\nFor a list of supported USB\nstorage devices, please visit\nsupport.nintendo.com.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

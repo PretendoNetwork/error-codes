@@ -1,0 +1,13 @@
+{
+	"598": {
+		"4XXX": {
+			"name": "598-4XXX",
+			"message": "",
+			"short_description": "Loading tab network error",
+			"long_description": "",
+			"short_solution": "Check your internet connection, if your connection is fine servers may be down",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

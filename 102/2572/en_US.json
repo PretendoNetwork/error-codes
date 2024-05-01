@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2572": {
+			"name": "ACCOUNT_ID_NOT_ACCEPTABLE",
+			"message": "The Nintendo Network ID you entered\nincludes text that cannot be used.\n\nPlease enter a different ID.",
+			"short_description": "The username you entered contains rejected text",
+			"long_description": "",
+			"short_solution": "Choose a different username",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

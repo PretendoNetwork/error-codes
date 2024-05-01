@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2677": {
+			"name": "INVALID_POSTAL_CODE",
+			"message": "The information entered is not correct.\nPlease check it and try again.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

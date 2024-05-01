@@ -1,0 +1,13 @@
+{
+	"006": {
+		"0347": {
+			"name": "RendezVous::PartiallyServiceClosed",
+			"message": "This online service has ended.\n\nFor details, please refer to the official\nwebsite for this software",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

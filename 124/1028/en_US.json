@@ -1,0 +1,13 @@
+{
+	"124": {
+		"1028": {
+			"name": "Unknown",
+			"message": "Either there is a problem with Internet\nsettings, the server is experiencing high\ntraffic volumes, or signal strength may\nbe poor. Please try again later.\n\nIf the problem persists, please select\nInternet in System Settings and verify\nyour connection settings.\n\nTo learn more about the server's current\nstatus, visit support.nintendo.com.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

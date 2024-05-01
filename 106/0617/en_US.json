@@ -1,0 +1,13 @@
+{
+	"106": {
+		"0617": {
+			"name": "DOCore::JobTerminationFailed",
+			"message": "An error has occurred.\n\nTurn the Wii U console off,\nand then try again.\n\nIf the problem persists, please\nmake a note of the error code and\nvisit support.nintendo.com",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

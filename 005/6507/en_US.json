@@ -1,0 +1,13 @@
+{
+	"005": {
+		"6507": {
+			"name": "Unknown",
+			"message": "The credit-card details were not entered\ncorrectly.\n\nPlease confirm the details and try again",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

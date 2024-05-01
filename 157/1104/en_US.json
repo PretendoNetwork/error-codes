@@ -1,0 +1,13 @@
+{
+	"157": {
+		"1104": {
+			"name": "Unknown",
+			"message": "Could not start the software.\n\nThis software's region setting is not\ncompatible with your region.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

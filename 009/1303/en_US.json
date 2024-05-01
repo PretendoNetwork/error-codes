@@ -1,0 +1,13 @@
+{
+	"009": {
+		"1303": {
+			"name": "Unknown",
+			"message": "Failed to authenticate stored credit-card\ninformation. The information has been\ndeleted",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

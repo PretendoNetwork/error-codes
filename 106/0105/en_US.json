@@ -1,0 +1,13 @@
+{
+	"106": {
+		"0105": {
+			"name": "Core::OperationAborted",
+			"message": "",
+			"short_description": "The operation was aborted",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

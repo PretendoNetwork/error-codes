@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2834": {
+			"name": "BANNED_DEVICE_IN_NEX_SERVICE_TEMPORARILY",
+			"message": "",
+			"short_description": "Your console is temporarily banned from this game",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": "Wait for the ban to expire"
+		}
+	}
+}

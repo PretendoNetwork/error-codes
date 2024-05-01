@@ -1,0 +1,13 @@
+{
+	"678": {
+		"1007": {
+			"name": "678-1007",
+			"message": "",
+			"short_description": "Failed to create a backup",
+			"long_description": "",
+			"short_solution": "Try again?",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

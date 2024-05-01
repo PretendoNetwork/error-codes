@@ -1,0 +1,13 @@
+{
+	"005": {
+		"5942": {
+			"name": "Unknown",
+			"message": "A connection error has occurred, so\nyour user name could not be\nregistered.\nPlease try again later.\n\nIf the problem persists, please\nvisit support.nintendo.com",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

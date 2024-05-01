@@ -1,0 +1,13 @@
+{
+	"678": {
+		"1003": {
+			"name": "678-1003",
+			"message": "",
+			"short_description": "No compatable CFW found",
+			"long_description": "",
+			"short_solution": "Please have Mocha running before opening Martini",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

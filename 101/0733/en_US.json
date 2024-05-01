@@ -1,0 +1,13 @@
+{
+	"101": {
+		"0733": {
+			"name": "FPD_INVALID_MESSAGE_ID",
+			"message": "This friend request is invalid.\n\nIt may have been canceled.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

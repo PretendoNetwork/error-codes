@@ -1,0 +1,13 @@
+{
+	"005": {
+		"2069": {
+			"name": "Unknown",
+			"message": "This software is corrupted.\n\nGo to System Settings ⇒ Data \nManagement ⇒ Nintendo 3DS ⇒\nSoftware, delete this data, and\nthen download it again.\n\nIf the problem persists, please\nmake a note of the error code and\nvisit support.nintendo.com",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

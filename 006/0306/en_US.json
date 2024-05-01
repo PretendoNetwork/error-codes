@@ -1,0 +1,13 @@
+{
+	"006": {
+		"0306": {
+			"name": "RendezVous::AccountDisabled",
+			"message": "",
+			"short_description": "\tThe Principal's account still exists in the database but the account has been disabled",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

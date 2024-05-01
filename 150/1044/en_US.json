@@ -1,0 +1,13 @@
+{
+	"150": {
+		"1044": {
+			"name": "Unknown",
+			"message": "An error relating to the SD Card has\noccurred.\n\nPlease make a note of the error code,\nremove the SD Card, and then visit\nsupport.nintendo.com.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

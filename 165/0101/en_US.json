@@ -1,0 +1,13 @@
+{
+	"165": {
+		"0101": {
+			"name": "Unknown",
+			"message": "Unable to communicate with the\nWii U GamePad. Please check\nthe Wii U GamePad screen.\n\nIf the Wii U GamePad battery has\nrun low, please recharge it.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

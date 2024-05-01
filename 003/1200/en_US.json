@@ -1,0 +1,13 @@
+{
+	"003": {
+		"1200": {
+			"name": "Unknown",
+			"message": "Another device is using the same\nIP address, so the connection was \nrefused.\n\nGo to System Settings ⇒ Internet \nSettings and change your IP address",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

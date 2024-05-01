@@ -1,0 +1,13 @@
+{
+	"001": {
+		"0803": {
+			"name": "Unknown",
+			"message": "",
+			"short_description": "Likely maintenance or servers are down.",
+			"long_description": "",
+			"short_solution": "Serverside error. Please wait and try again later.",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"101": {
+		"0738": {
+			"name": "FPD_FRIEND_LISTED_BY_ME",
+			"message": "You cannot block users who\nare on your friend list.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"009": {
+		"4072": {
+			"name": "Unknown",
+			"message": "An error has occurred.\n\n■ The SD Card may not be inserted\nor was inserted during use of the\nsystem. Please turn off the power, and\nthen insert the SD Card and try again.\n\n■ Please check that the SD Card is\nnot write-protected",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

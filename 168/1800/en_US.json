@@ -1,0 +1,13 @@
+{
+	"168": {
+		"1800": {
+			"name": "Unknown",
+			"message": "The system memory is corrupted.\n\nPlease turn off the Wii U console\nand try again.\n\nIf the problem persists, please\nmake a note of the error code and\nvisit support.nintendo.com.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

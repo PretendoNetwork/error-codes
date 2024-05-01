@@ -1,0 +1,13 @@
+{
+	"101": {
+		"0744": {
+			"name": "FPD_NOT_NETWORK_ACCOUNT",
+			"message": "There is no Nintendo Network ID\nlinked with the current user.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

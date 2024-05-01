@@ -1,0 +1,13 @@
+{
+	"101": {
+		"0725": {
+			"name": "FPD_ADD_FRIEND_PROHIBITED",
+			"message": "Friend Registration is restricted by\nParental Controls",
+			"short_description": "Operation not allowed",
+			"long_description": "",
+			"short_solution": "Reset your parental controls or visit here:\nhttps://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls-on-wii-u",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

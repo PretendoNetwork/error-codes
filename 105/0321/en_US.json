@@ -1,0 +1,13 @@
+{
+	"105": {
+		"0321": {
+			"name": "Unknown",
+			"message": "The USB storage device could not be\naccessed.\n\nPlease check that the USB storage\ndevice is connected correctly.\n\nIf standby functions are enabled, the\npower LED will turn orange when\ndownloading and installing data after\nthe console is powered down. Do not\ndisconnect the USB storage device\nwhile the power LED is orange.\n\nIf you have confirmed that the USB\nstorage device is connected properly\nbut the problem persists, the issue may\nbe that the USB storage device is not\nreceiving enough power.\n\nIf you think this may be the case,\nplease turn the Wii U console off, and\nthen plug in the USB storage device's\nAC adapter (if included) or connect the\ndevice to the Wii U console using a\nUSB Y cable, as applicable.\n\nIf the problem persists, please make\na note of the error code and visit\nsupport.nintendo.com.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

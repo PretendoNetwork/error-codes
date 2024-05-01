@@ -1,0 +1,13 @@
+{
+	"118": {
+		"0203": {
+			"name": "Unknown",
+			"message": "A communication error has occurred.\n\nThe network may be busy, or the signal\nstrength may be weak. Make sure there\nare no obstructions between the\nconsole and the wireless router or other\nnetwork device, or adjust the wireless\nchannel in your device's settings, and\ntry again.\n\nIf the problem persists, it is possible\nthat the DNS settings are incorrect.\n\nPlease check these settings under the\nInternet option in System Settings.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

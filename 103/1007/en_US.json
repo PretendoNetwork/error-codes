@@ -1,0 +1,13 @@
+{
+	"103": {
+		"1007": {
+			"name": "Unknown",
+			"message": "Could not find any network devices,\nsuch as routers or modems.\n\nThere could be a number of reasons for\nthis, such as the LAN cable not being\nconnected correctly or the network\ndevice not being turned on.\n\nPlease check that the LAN cable and\nother connections are secure and that\nthe network-device settings are correct.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "Make sure your console is in range of your Wi-Fi network, and check the settings are correct. Make sure the 'Default' connection in Internet Settings is set correctly.",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

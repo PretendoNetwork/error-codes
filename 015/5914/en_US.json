@@ -1,0 +1,13 @@
+{
+	"015": {
+		"5914": {
+			"name": "Unknown",
+			"message": "You cannot add any more communities\nfor this game to your favorites.\n\nTo add a new favorite, you must\nremove at least one community for\nthis game from your favorites",
+			"short_description": "Favorites for this game are full",
+			"long_description": "",
+			"short_solution": "Remove a community for this game from your favorites",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

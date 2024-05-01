@@ -1,0 +1,13 @@
+{
+	"030": {
+		"3100": {
+			"name": "Unknown",
+			"message": "The activation code could not be\nrecognized. Please check the\ncode and try entering it again.\n\nIf the problem persists, please\nmake a note of the error code\nand visit support.nintendo.com",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

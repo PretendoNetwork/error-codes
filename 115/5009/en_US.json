@@ -1,0 +1,13 @@
+{
+	"115": {
+		"5009": {
+			"name": "Unknown",
+			"message": "Miiverse functions are unavailable\non this console.\n\nFor details, please start Miiverse.",
+			"short_description": "Your console has been banned from Juxtaposition",
+			"long_description": "",
+			"short_solution": "Don't do whatever you did to get banned",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

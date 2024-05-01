@@ -1,0 +1,13 @@
+{
+	"155": {
+		"9000": {
+			"name": "Unknown",
+			"message": "Save data could not be created.\n\nPlease make note of the error code,\nand then turn off the console's power,\nunplug the Wii U console's AC adapter\nfrom the outlet, and visit\nsupport.nintendo.com.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

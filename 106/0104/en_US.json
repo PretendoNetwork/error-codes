@@ -1,0 +1,13 @@
+{
+	"106": {
+		"0104": {
+			"name": "Core::InvalidPointer",
+			"message": "",
+			"short_description": "\tThe operation specifies or accesses an invalid pointer",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

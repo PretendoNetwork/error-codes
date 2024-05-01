@@ -1,0 +1,13 @@
+{
+	"006": {
+		"0303": {
+			"name": "RendezVous::InvalidUsername",
+			"message": "",
+			"short_description": "The Principal tried to log in with an invalid user name, i.e. the user name does not exist in the database",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

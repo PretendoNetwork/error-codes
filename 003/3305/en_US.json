@@ -1,0 +1,13 @@
+{
+	"003": {
+		"3305": {
+			"name": "Unknown",
+			"message": "This service is not available in your\nlocation. Please use another service",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

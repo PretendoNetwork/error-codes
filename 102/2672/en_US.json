@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2672": {
+			"name": "CREDIT_CARD_DECLINED",
+			"message": "The use of this credit card has\nbeen stopped.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

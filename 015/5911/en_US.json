@@ -1,0 +1,13 @@
+{
+	"015": {
+		"5911": {
+			"name": "Unknown",
+			"message": "You cannot create any more\ncommunities.\n\nTo create a new community, you\nmust delete an existing one first",
+			"short_description": "Cannot create anymore communities due to max being reached",
+			"long_description": "",
+			"short_solution": "Delete an existing community",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

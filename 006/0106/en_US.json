@@ -1,0 +1,13 @@
+{
+	"006": {
+		"0106": {
+			"name": "Core::Exception",
+			"message": "",
+			"short_description": "The operation raised an exception",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

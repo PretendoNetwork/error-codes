@@ -1,0 +1,13 @@
+{
+	"022": {
+		"2593": {
+			"name": "COPPA_NOT_ACCEPTED",
+			"message": "This Nintendo Network ID cannot be\nused because it has not been confirmed\nby a parent or guardian.\n\nPlease have a parent or guardian\nmake a note of the error code and\nvisit support.nintendo.com",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

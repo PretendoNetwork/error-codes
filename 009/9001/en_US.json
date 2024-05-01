@@ -1,0 +1,13 @@
+{
+	"009": {
+		"9001": {
+			"name": "Unknown",
+			"message": "Battery power is running low.\n\nPlease plug in the AC adapter and\nrecharge the system for a short while",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

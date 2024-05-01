@@ -1,0 +1,13 @@
+{
+	"101": {
+		"0724": {
+			"name": "FPD_RESERVED_24",
+			"message": "",
+			"short_description": "User lacks NNID/PNID",
+			"long_description": "",
+			"short_solution": "Link a PNID to your console",
+			"long_solution": "",
+			"support_link": "https://www.nintendo.com/en-gb/Support/Wii-U/Troubleshooting/Error-codes/Error-code-101-0744/Error-code-101-0744-1133482.html"
+		}
+	}
+}

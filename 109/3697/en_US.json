@@ -1,0 +1,13 @@
+{
+	"109": {
+		"3697": {
+			"name": "Unknown",
+			"message": "Unable to connect to the server.\n\nEither the server is experiencing high\ntraffic volumes or a server error has\noccurred. Please try again later.\n\nTo learn more about the server's current\nstatus, visit support.nintendo.com.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

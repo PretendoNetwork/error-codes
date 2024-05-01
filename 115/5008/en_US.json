@@ -1,0 +1,13 @@
+{
+	"115": {
+		"5008": {
+			"name": "Unknown",
+			"message": "You cannot post to Miiverse using\nthis Nintendo Network ID.\n\nFor details, please start Miiverse.",
+			"short_description": "Your PNID has been banned from Juxtaposition",
+			"long_description": "",
+			"short_solution": "Don't do whatever you did to get banned",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

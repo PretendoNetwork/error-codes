@@ -1,0 +1,13 @@
+{
+	"012": {
+		"1510": {
+			"name": "SSLMOD_SELF_SIGNED_CERT_IN_CHAIN",
+			"message": "The certificate\nis self-signed.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

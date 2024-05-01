@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2813": {
+			"name": "BANNED_DEVICE_IN_APPLICATION",
+			"message": "",
+			"short_description": "Your console is permanently banned from this application",
+			"long_description": "",
+			"short_solution": "Don't do whatever you did to get banned",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

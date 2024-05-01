@@ -1,0 +1,13 @@
+{
+	"115": {
+		"9999": {
+			"name": "Unknown",
+			"message": "Unable to connect to the server.\n\nPlease try again later.\n\nIf the problem persists, please\nmake a note of the error code and\nvisit support.nintendo.com.",
+			"short_description": "Connection is unstable",
+			"long_description": "",
+			"short_solution": "Try again later",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

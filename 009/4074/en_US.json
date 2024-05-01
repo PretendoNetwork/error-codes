@@ -1,0 +1,13 @@
+{
+	"009": {
+		"4074": {
+			"name": "Unknown",
+			"message": "Could not access SD Card.\n\n■ Turn off the system, remove\nand reinsert the SD Card, and\nthen try again",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

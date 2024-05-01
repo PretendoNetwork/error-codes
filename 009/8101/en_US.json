@@ -1,0 +1,13 @@
+{
+	"009": {
+		"8101": {
+			"name": "Unknown",
+			"message": "This save data cannot be used because\ndownloadable content that has been\nused with it cannot be found.\n\nTo use this save data, redownload the\ndownloadable content",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

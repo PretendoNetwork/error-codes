@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2673": {
+			"name": "CREDIT_CARD_BLACKLISTED",
+			"message": "This credit card cannot be used.\n\nPlease contact your credit-card\nprovider for more information.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

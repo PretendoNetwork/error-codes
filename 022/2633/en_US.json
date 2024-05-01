@@ -1,0 +1,13 @@
+{
+	"022": {
+		"2633": {
+			"name": "AUTHENTICATION_LOCKED",
+			"message": "This Nintendo Network ID been\ntemporarily locked due to repeated\nincorrect attempts to enter the\npassword.\n\nPlease try again later",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

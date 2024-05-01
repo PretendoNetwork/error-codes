@@ -1,0 +1,13 @@
+{
+	"022": {
+		"2835": {
+			"name": "BANNED_DEVICE_IN_INDEPENDENT_SERVICE_TEMPORARILY",
+			"message": "",
+			"short_description": "Your console is temporarily banned from this service",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": "Wait for the ban to expire"
+		}
+	}
+}

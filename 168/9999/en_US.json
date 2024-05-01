@@ -1,0 +1,13 @@
+{
+	"168": {
+		"9999": {
+			"name": "Unknown",
+			"message": "An error occurred while trying to write\nor read amiibo data. Please turn off\nthe Wii U console and try again.\n\nIf the problem persists, please visit\nsupport.nintendo.com.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

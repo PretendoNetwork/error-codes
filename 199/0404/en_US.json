@@ -1,0 +1,13 @@
+{
+	"199": {
+		"0404": {
+			"name": "Unknown",
+			"message": "There is no free space in Mii Maker.\n\nPlease delete one or more Mii\ncharacters and try again.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

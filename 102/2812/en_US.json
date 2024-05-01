@@ -1,0 +1,13 @@
+{
+	"102": {
+		"2812": {
+			"name": "BANNED_DEVICE_ALL",
+			"message": "Online services are unavailable\non this console.\n\nPlease make a note of the error code\nand visit support.nintendo.com.",
+			"short_description": "Your console is permanently banned from all aspects of the network",
+			"long_description": "",
+			"short_solution": "Don't do whatever you did to get banned",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

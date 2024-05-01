@@ -1,0 +1,13 @@
+{
+	"009": {
+		"9002": {
+			"name": "Unknown",
+			"message": "The number you have entered is invalid.\n\nPlease enter your details again",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

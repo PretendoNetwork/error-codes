@@ -1,0 +1,13 @@
+{
+	"022": {
+		"2631": {
+			"name": "ACCOUNT_ALREADY_DELETED",
+			"message": "You cannot access online services\nbecause the Nintendo Network ID\nformerly linked to this system has\nbeen deleted.\n\nTo create a new ID or link a different\nexisting ID, go to Nintendo Network\nID Settings in System Settings",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

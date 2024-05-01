@@ -1,0 +1,13 @@
+{
+	"006": {
+		"0508": {
+			"name": "Transport::Timeout",
+			"message": "",
+			"short_description": "The operation did not complete within the specified timeout for that operation",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

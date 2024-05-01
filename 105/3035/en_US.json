@@ -1,0 +1,13 @@
+{
+	"105": {
+		"3035": {
+			"name": "Unknown",
+			"message": "The USB storage device\nis write-protected.\n\nPlease check the settings\nof the USB storage device.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"115": {
+		"5003": {
+			"name": "Unknown",
+			"message": "The server is currently undergoing\nmaintenance.\n\nPlease try again later.",
+			"short_description": "Juxtaposition is under maintenance",
+			"long_description": "",
+			"short_solution": "Try again later",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

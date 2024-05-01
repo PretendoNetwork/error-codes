@@ -1,0 +1,13 @@
+{
+	"101": {
+		"0747": {
+			"name": "FPD_FRIEND_REQUEST_NOT_ALLOWED",
+			"message": "Users under the age of 13\ncannot send friend requests.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

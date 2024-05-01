@@ -1,0 +1,13 @@
+{
+	"152": {
+		"0100": {
+			"name": "Unknown",
+			"message": "Communications with the controller have\nbeen interrupted.\nPlease press any button other than the\nPOWER Button. If there is no response,\nreplace or recharge the batteries as\nappropriate and try again.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

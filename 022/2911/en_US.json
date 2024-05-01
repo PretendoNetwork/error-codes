@@ -1,0 +1,13 @@
+{
+	"022": {
+		"2911": {
+			"name": "ON_GAME_INTERNET_COMMUNICATION_RESTRICTED",
+			"message": "Online Interaction has been\nrestricted by Parental Controls",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

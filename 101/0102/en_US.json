@@ -1,0 +1,13 @@
+{
+	"101": {
+		"0102": {
+			"name": "CORE_UNKNOWN",
+			"message": "",
+			"short_description": "Likely a Pretendo server issue",
+			"long_description": "",
+			"short_solution": "Try double checking your internet connection or wait.",
+			"long_solution": "",
+			"support_link": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/17047/~/error-code%3A-101-0102."
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"022": {
+		"2632": {
+			"name": "ACCOUNT_ID_CHANGED",
+			"message": "Your Nintendo Network ID has changed.\n\nPlease approve the change by selecting\nNintendo Network ID Settings in System\nSettings",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

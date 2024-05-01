@@ -1,0 +1,13 @@
+{
+	"101": {
+		"0718": {
+			"name": "FPD_RESERVED_18",
+			"message": "Your friend list is full.\n\nYou cannot add any\nadditional friends",
+			"short_description": "Full friends list",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

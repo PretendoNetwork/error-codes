@@ -1,0 +1,13 @@
+{
+	"150": {
+		"1064": {
+			"name": "Unknown",
+			"message": "This SD Card is write-protected.\n\nPlease move the write-protection\nswitch on the SD Card to the\nunlocked position.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

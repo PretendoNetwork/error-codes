@@ -1,0 +1,13 @@
+{
+	"199": {
+		"0101": {
+			"name": "Unknown",
+			"message": "The text just entered contains\ninappropriate words or phrases.\n\nPlease enter something different.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

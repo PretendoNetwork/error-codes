@@ -1,0 +1,13 @@
+{
+	"168": {
+		"0550": {
+			"name": "Unknown",
+			"message": "This amiibo already has data from\nanother software title written to it.\n\nDo you want to delete that data so\nthat this software can write to it?",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

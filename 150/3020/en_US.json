@@ -1,0 +1,13 @@
+{
+	"150": {
+		"3020": {
+			"name": "Unknown",
+			"message": "An error has occurred.\n\nIf there is a disc in the console, press\nthe EJECT Button and remove the disc,\nthen turn off the Wii U console and try\nagain later.\n\nIf the problem persists, please make\nnote of the error code, and then turn\noff the console's power, unplug the\nWii U console's AC adapter from the\noutlet, and visit support.nintendo.com.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}

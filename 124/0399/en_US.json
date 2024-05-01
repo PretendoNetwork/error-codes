@@ -1,0 +1,13 @@
+{
+	"124": {
+		"0399": {
+			"name": "Unknown",
+			"message": "The server may be temporarily unstable\ndue to high traffic volumes. Please try\nagain later.\n\nTo learn more about the server's current\nstatus, visit support.nintendo.com.",
+			"short_description": "",
+			"long_description": "",
+			"short_solution": "",
+			"long_solution": "",
+			"support_link": ""
+		}
+	}
+}
