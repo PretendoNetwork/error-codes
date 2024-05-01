@@ -72,3 +72,10 @@ Each file starts with 1 or 2 objects, each with 1 key each. The first object key
 | `short_solution`    | A short solution for the error. Intended to be used by the Discord bot. Plain text                                                   |
 | `long_solution`     | A longer, more detailed, solution for the error. Intended to be used by the website. Markdown                                        |
 | `support_link`      | Link to a relevant support page for the error. Typically the website, but does not have to be                                        |
+
+### Utility functions
+The main purpose of this repository is to maintain the JSON translation files. However 2 utility functions are also included for JavaScript/TypeScript projects.
+
+- `getModuleInfo(sysmodule, locale)` - Returns the module information for the locale, or `null` if not found
+- `getErrorInfo(sysmodule, code, locale)` - Returns the error information (including the module information) for the locale. Returns null if either the module or error code is not found
+- `getAllErrors()` - Returns an array of all error codes for all modules in the form `MODULE-CODE`
