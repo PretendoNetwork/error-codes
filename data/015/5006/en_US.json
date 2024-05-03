@@ -1,0 +1,13 @@
+{
+	"015": {
+		"5006": {
+			"name": "Unknown",
+			"message": "You may not post to Miiverse due to a restriction in Parental Controls",
+			"short_description": "Posting blocked by Parental Controls",
+			"long_description": "This error occurs when posting to Miiverse has been disallowed by Parental Controls.",
+			"short_solution": "Disable Parental Controls",
+			"long_solution": "Disable Parental Controls",
+			"support_link": ""
+		}
+	}
+}

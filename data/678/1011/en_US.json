@@ -4,9 +4,9 @@
 			"name": "678-1011",
 			"message": "",
 			"short_description": ":warning: **PATCH HAS FAILED TO REPLACE CERT\nYOUR SYSTEM MAY HAVE BRICKED**",
-			"long_description": "",
+			"long_description": "***Note:*** This error relates to the Martini patches, which are now deprecated.\n\n<div class=\"tip\">\n⚠️ <b>Do not reboot your console or exit Martini!</b>\n</div>\n\nThe patcher encountered an error when applying the patched certificate to your system. Files essential to your Wii U's functionality have been modified and the system may be unbootable. **Immediate action is required to avoid a brick.**",
 			"short_solution": "Contact a developer immediately.",
-			"long_solution": "",
+			"long_solution": "Reach out on our [Discord](https://invite.gg/pretendo). State your error code and that you have a cert brick. Be loud and ping mods. Do not stop pinging until someone responds - this is the only time you're allowed ;)\n\n\nPrecise instructions are not provided here to ensure that you get helpers involved. For helpers and experienced users, however, your best bet from here is to use wupclient (Tiramisu/Aroma) or FTP (Aroma) to download whatever Thwate cert is on the console and inspect it, then upload a clean one. Users who have EnvironmentLoader in H&S can install Tiramisu and should be able to use the boot selector to get to HBL and FTPiiU Everywhere without triggering the brick. Users without a working coldboot setup are SOL if they reboot, though UDPIH might be able to save it.",
 			"support_link": ""
 		}
 	}
