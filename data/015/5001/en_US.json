@@ -1,11 +1,11 @@
 {
 	"015": {
-		"5004": {
+		"5001": {
 			"name": "Unknown",
-			"message": "The Miiverse service has ended. Miiverse and any software features that make use of Miiverse will no longer be available. Thank you for your Interest.",
-			"short_description": "Juxtaposition is shut down",
-			"long_description": "Juxtaposition has stop operation. This error should not occur under normal conditions when connected to Pretendo Network.",
-			"short_solution": "Self host, use another Juxtaposition instance, or use https://github.com/rverseTeam",
+			"message": "A system update is required. Go to System Settings to perform a system update.",
+			"short_description": "A system update must be installed before launch",
+			"long_description": "The title will not launch until a system update is performed. This error should not occur under normal conditions when connected to Pretendo Network.",
+			"short_solution": "Boot the Miiverse applet from the home screen and complete setup",
 			"long_solution": "- **Check that you are patched**\n\n1. Open System Settings on the 3DS HOME Menu.\n2. Click on `Nintendo Network ID Settings`.\n3. Navigate to the 3RD Page, and select `Other`.4. Click on `Network Services Agreement`.\n - If the top of the lower screen says `Pretendo Network Services Agreement`, then you are connected to Pretendo Network.\n - If the top of the lower screen says something else, then you are not connected to Pretendo Network. Follow [these](/docs/install/3ds) instructions to get started.",
 			"support_link": ""
 		}

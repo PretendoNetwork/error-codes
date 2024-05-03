@@ -1,0 +1,13 @@
+{
+	"598": {
+		"0069": {
+			"name": "598-0069",
+			"message": "",
+			"short_description": "Miiverse app is patched with Martini",
+			"long_description": "You have the legacy Martini patches installed into your Miiverse applet. The current version of the Pretendo patchers have a safer version of these patches, so the older ones must be uninstalled.",
+			"short_solution": "Uninstall the Martini patches",
+			"long_solution": "Navigate to the [releases](https://github.com/PretendoNetwork/Martini/releases) page on the Martini GitHub repository.\n\nDownload the latest release and download `martini-juxt-patcher.rpx`.\n\nCopy `martini-juxt-patcher.rpx` and place it on your SD card at `sd:/wiiu/apps/`.\n\nPlace your SD card back into your console and boot like normal. Open the Homebrew Launcher and launch `martini-juxt-patcher.rpx` or select it from the Wii U Menu (Aroma).\n\nAfter confirming the state of the Miiverse applet, press X to remove the patches.\n\nIf you encountered any errors, try [searching](/docs/errors) for the error code. If that doesn't work, get in touch with a developer in our [Discord](https://invite.gg/pretendo).",
+			"support_link": ""
+		}
+	}
+}

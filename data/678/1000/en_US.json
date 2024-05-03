@@ -4,9 +4,9 @@
 			"name": "678-1000",
 			"message": "",
 			"short_description": "Juxtapostion has been installed successfully",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"long_description": "***Note:*** This error relates to the Martini patches, which are now deprecated.\n\nJuxtapostion has been installed successfully.",
+			"short_solution": "N/A",
+			"long_solution": "Not applicable",
 			"support_link": ""
 		}
 	}

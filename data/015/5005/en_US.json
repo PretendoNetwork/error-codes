@@ -1,12 +1,12 @@
 {
-	"115": {
+	"015": {
 		"5005": {
 			"name": "Unknown",
 			"message": "You cannot use Miiverse because it has been restricted in Parental Controls.",
-			"short_description": "Parental Controls have blocked your ability to access Juxtaposition",
+			"short_description": "Access blocked by Parental Controls",
 			"long_description": "This error occurs when Miiverse has been disallowed by Parental Controls.",
-			"short_solution": "Review your Parental Controls settings",
-			"long_solution": "Disable Parental Controls.",
+			"short_solution": "Disable Parental Controls",
+			"long_solution": "Disable Parental Controls",
 			"support_link": ""
 		}
 	}

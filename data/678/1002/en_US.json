@@ -4,9 +4,9 @@
 			"name": "678-1002",
 			"message": "",
 			"short_description": "Could not find Miiverse on your console",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"long_description": "***Note:*** This error relates to the Martini patches, which are now deprecated.\n\nThe patcher could not find a Miiverse applet installed on your console, or you have several Miiverses installed.",
+			"short_solution": "Restore Miiverse",
+			"long_solution": "If missing Miiverse and are on a retail unit, reinstall Miiverse (NAND backup). If you have multiple Miiverse titles installed, or are missing Miiverse on non-retail hardware, get in touch with a developer in our [Discord](https://invite.gg/pretendo) - we'd love to know what kind of devkit you have!",
 			"support_link": ""
 		}
 	}

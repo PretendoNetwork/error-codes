@@ -4,9 +4,9 @@
 			"name": "678-1009",
 			"message": "",
 			"short_description": "Patch Created a Corrupted File\nYour system has not been modified",
-			"long_description": "",
+			"long_description": "***Note:*** This error relates to the Martini patches, which are now deprecated.\n\nThe patcher failed to create a patched version of a file. The original file has not been modified.",
 			"short_solution": "Try running Martini again.",
-			"long_solution": "",
+			"long_solution": "Reboot your console and try again. If the issue persists, this is most likely a bug in the Martini patcher - please get in touch with a developer on our [Discord](https://invite.gg/pretendo).",
 			"support_link": ""
 		}
 	}
