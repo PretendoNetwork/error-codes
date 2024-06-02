@@ -1,0 +1,13 @@
+{
+	"727": {
+		"0001": {
+			"name": "727-0001",
+			"message": "",
+			"short_description": "Changing your PNID country may cause unexpected results.",
+			"long_description": "The Wii U and 3DS family of systems relies on this data to determine the correct region for your account.\n\nChanging this setting may cause unexpected results.",
+			"short_solution": "Re-linking your PNID by deleting and re-adding the account will prevent this issue from occurring.",
+			"long_solution": "### On the Wii U\n1. Navigate to the User Settings Menu on the Wii U Gamepad\n2. Scroll down to \"Delete This User\"\n3. Enter you PNID password\n4. Select \"Next\", and accept the warning prompt\n> Note: Save Data will be lost when removing this user account. Make sure to back up your data with a tool like SaveMii before deleting the account. Once deleted, save data cannot be recovered\n5. Select Next to proceed\n6. Select \"Delete\" on the prompt\n7. Create a new user account and log back into your PNID",
+			"support_link": "https://pretendo.network/docs/install/wiiu#pnid-setup"
+		}
+	}
+}
