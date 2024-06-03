@@ -3,11 +3,11 @@
 		"1000": {
 			"name": "Unknown",
 			"message": "Unable to find a Wi-Fi network.\n\nPlease confirm that your Wi-Fi\nnetwork is set up for use and that\nthe SSID has been set correctly.\nYou can check the Wii U SSID\nsettings under the Internet option\nin System Settings.\n\nIf the Wi-Fi network is secured using\nWEP, the security key you entered\nmay be incorrect.\n\nUnplug your wireless router from the\npower outlet. After a little while, plug\nit back in and try again.\n\nMake sure the Wii U console is within\nrange of your wireless router.\n\nMove any electronics away from the\nWii U console and your wireless\nrouter.\n\nTry changing the wireless channel\nwithin the settings of your wireless\nrouter.\n\nIf you are unable to access or change\nyour wireless-router settings, please\ncontact the manufacturer for support.\n\nIf the problem persists, please visit\nsupport.nintendo.com.",
-			"short_description": "",
-			"long_description": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
 			"short_solution": "Make sure your console is in range of your Wi-Fi network, and check the settings are correct. Make sure the 'Default' connection in Internet Settings is set correctly.",
-			"long_solution": "",
-			"support_link": ""
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/103-1000"
 		}
 	}
 }

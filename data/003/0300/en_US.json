@@ -3,11 +3,11 @@
 		"0300": {
 			"name": "Unknown",
 			"message": "To use this feature, you must accept \nthe terms of the Nintendo 3DS \nService User Agreement.\n\nGo to System Settings ⇒ Internet \nSettings ⇒ Other Information ⇒\nUser Agreement and agree to the terms",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/003-0300"
 		}
 	}
 }

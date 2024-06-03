@@ -3,11 +3,11 @@
 		"1509": {
 			"name": "SSLMOD_DEPTH_ZERO_SELF_SIGNED_CERT",
 			"message": "Self-signed certificates\ncannot be verified.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/012-1509"
 		}
 	}
 }

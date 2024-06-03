@@ -3,11 +3,11 @@
 		"0620": {
 			"name": "DOCore::FaultRecoveryJobProcessFailed",
 			"message": "A communication error has occurred.\n\nThe network may be busy, or the signal\nstrength may be weak. Make sure there\nare no obstructions between the\nconsole and the wireless router or other\nnetwork device, or adjust the wireless\nchannel in your device's settings, and\ntry again",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/106-0620"
 		}
 	}
 }

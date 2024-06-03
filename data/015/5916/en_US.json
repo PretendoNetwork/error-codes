@@ -4,10 +4,10 @@
 			"name": "Unknown",
 			"message": "Communities that you have created\ncannot be removed from your favorites",
 			"short_description": "Trying to remove a community you created from your favorites",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Don't do that",
-			"long_solution": "",
-			"support_link": ""
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/015-5916"
 		}
 	}
 }

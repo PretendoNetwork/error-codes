@@ -3,11 +3,11 @@
 		"0111": {
 			"name": "Unknown",
 			"message": "The online service is unavailable.\nPlease try again later.\n\nFor help, visit support.nintendo.com",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/002-0111"
 		}
 	}
 }

@@ -3,11 +3,11 @@
 		"8001": {
 			"name": "Unknown",
 			"message": "Authentication failed.\n\nPlease view your account activity in\nNintendo eShop and check that the\nproduct has been successfully\nregistered to your account",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/009-8001"
 		}
 	}
 }

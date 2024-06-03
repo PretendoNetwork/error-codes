@@ -3,11 +3,11 @@
 		"0550": {
 			"name": "Unknown",
 			"message": "This amiibo already has data from\nanother software title written to it.\n\nDo you want to delete that data so\nthat this software can write to it?",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/168-0550"
 		}
 	}
 }

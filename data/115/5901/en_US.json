@@ -4,10 +4,10 @@
 			"name": "Unknown",
 			"message": "The text you entered contains\ninappropriate words or phrases.",
 			"short_description": "Content posted contains text not allowed",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Edit your post",
-			"long_solution": "",
-			"support_link": ""
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/115-5901"
 		}
 	}
 }

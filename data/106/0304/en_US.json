@@ -4,10 +4,10 @@
 			"name": "RendezVous::InvalidPassword",
 			"message": "",
 			"short_description": "The Principal either tried to log in with an invalid password for the provided user name or tried to join a Gathering with an invalid password",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/106-0304"
 		}
 	}
 }

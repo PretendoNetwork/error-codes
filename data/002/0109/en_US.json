@@ -4,10 +4,10 @@
 			"name": "Unknown",
 			"message": "An error has occurred.\n\nPlease check if there is corrupted data\nin Data Management ⇒ Nintendo 3DS\nin the System Settings.\n\nIf the problem persists, please\nmake a note of the error code\nand visit support.nintendo.com",
 			"short_description": "Missing or malformed parameter in request",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/002-0109"
 		}
 	}
 }

@@ -3,11 +3,11 @@
 		"0621": {
 			"name": "Unknown",
 			"message": "The USB storage device could\nnot be recognized.\n\nPlease delete this data in\nDownload Management and\ntry downloading it again.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/105-0621"
 		}
 	}
 }

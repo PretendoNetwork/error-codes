@@ -3,11 +3,11 @@
 		"1104": {
 			"name": "Unknown",
 			"message": "Could not connect to the \naccess point.\n\n■ Access via the Nintendo Wi-Fi USB\nConnector may not be granted.\nCheck the settings on your PC.\n\n■ If access has been granted but you\nstill cannot connect, there may be\nproblems with the network or the\nenvironment.\nTo ensure an optimal connection \nenvironment, move closer to the \naccess point and make sure that there\nare no obstructions between the\nsystem and the access point.\nIf this does not work, please try \nagain later",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/003-1104"
 		}
 	}
 }

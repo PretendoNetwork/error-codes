@@ -7,7 +7,7 @@
 			"long_description": "This error occurs when posting to Miiverse has been disallowed by Parental Controls.",
 			"short_solution": "Review your Parental Controls settings",
 			"long_solution": "Disable Parental Controls.",
-			"support_link": ""
+			"support_link": "https://preten.do/115-5006"
 		}
 	}
 }

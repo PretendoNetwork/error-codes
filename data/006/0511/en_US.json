@@ -4,10 +4,10 @@
 			"name": "Transport::ServerRequestError",
 			"message": "",
 			"short_description": "3rd-party server or device answered with an error code according to protocol used e.g. HTTP error code",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/006-0511"
 		}
 	}
 }

@@ -4,10 +4,10 @@
 			"name": "MAIL_ADDRESS_DOMAIN_NAME_NOT_RESOLVED",
 			"message": "The domain name of the e-mail address\nyou entered may be incorrect.\n\nPlease check the e-mail address you\nentered and try again",
 			"short_description": "The email address entered uses a domain which could not be located",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Enter a different email address",
-			"long_solution": "",
-			"support_link": ""
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/022-2586"
 		}
 	}
 }

@@ -4,10 +4,10 @@
 			"name": "WRONG_ACCOUNT_PASSWORD_OR_MAIL_ADDRESS",
 			"message": "The information entered is not correct.\nYou may have entered a Club Nintendo\naccount ID or the ID of another service.\n\nPlease enter the details again, making\nsure that the Nintendo Network ID,\npassword, and e-mail address are\ncorrect",
 			"short_description": "Invalid account information provided. Either your username, password, or email address does not match",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Enter corrected information and try again",
-			"long_solution": "",
-			"support_link": ""
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/022-2613"
 		}
 	}
 }

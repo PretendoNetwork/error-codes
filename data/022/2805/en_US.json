@@ -4,10 +4,10 @@
 			"name": "BANNED_ACCOUNT_IN_INDEPENDENT_SERVICE",
 			"message": "",
 			"short_description": "Your PNID is permanently banned from this service",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Don't do whatever you did to get banned",
-			"long_solution": "",
-			"support_link": ""
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/022-2805"
 		}
 	}
 }

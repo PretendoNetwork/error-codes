@@ -4,10 +4,10 @@
 			"name": "Core::AccessDenied",
 			"message": "",
 			"short_description": "An attempt was made to access data in an incorrect manner. This may be due to inadequate permission or the data, file, etc. not existing",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/006-0107"
 		}
 	}
 }

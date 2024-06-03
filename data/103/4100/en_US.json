@@ -3,11 +3,11 @@
 		"4100": {
 			"name": "Unknown",
 			"message": "A communication error has occurred.\n\nThe wireless-signal strength may\nbe poor. Please make sure that\nthere are no obstructions between\nthe console and the wireless router,\nand try again later.\n\nMake sure your wireless router is set\nup for use and powered on. \n\nUnplug your modem and wireless router\nfrom the power outlet. Wait a little while,\nplug them back in, and try again.\n\nMake sure the Wii U console is within\nrange of your wireless router.\n\nMove any electronics away from the\nWii U console and your wireless router. \n\nTry changing the wireless channel\nwithin the settings of your wireless\nrouter or network device.\n\nIf you are unable to access or change\nyour wireless-router or network-device\nsettings, please contact the\nmanufacturer for support.\n\nIf the problem persists, please visit\nsupport.nintendo.com.",
-			"short_description": "",
-			"long_description": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
 			"short_solution": "Make sure your console is in range of your Wi-Fi network, and check the settings are correct. Make sure the 'Default' connection in Internet Settings is set correctly.",
-			"long_solution": "",
-			"support_link": ""
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/103-4100"
 		}
 	}
 }

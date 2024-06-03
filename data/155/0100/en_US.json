@@ -3,11 +3,11 @@
 		"0100": {
 			"name": "Unknown",
 			"message": "There is not enough free space to\ncreate save data.\n\nPlease go to Data Management in\nSystem Settings to make space.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/155-0100"
 		}
 	}
 }

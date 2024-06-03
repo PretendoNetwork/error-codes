@@ -3,11 +3,11 @@
 		"1104": {
 			"name": "Unknown",
 			"message": "Could not start the software.\n\nThis software's region setting is not\ncompatible with your region.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/157-1104"
 		}
 	}
 }

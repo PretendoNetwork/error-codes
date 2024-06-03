@@ -3,11 +3,11 @@
 		"2662": {
 			"name": "EXCESSIVE_MAIL_SEND_REQUEST",
 			"message": "You cannot perform this operation\nseveral times in a row.\n\nPlease try again later",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/022-2662"
 		}
 	}
 }

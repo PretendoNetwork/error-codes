@@ -4,10 +4,10 @@
 			"name": "TRANSPORT_CONNECTION_FAILURE",
 			"message": "",
 			"short_description": "Couldn't connect to the Friends server.",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "The Pretendo server is likely overloaded. Try again in half an hour.",
-			"long_solution": "",
-			"support_link": ""
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/101-0502"
 		}
 	}
 }

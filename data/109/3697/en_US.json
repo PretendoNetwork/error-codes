@@ -3,11 +3,11 @@
 		"3697": {
 			"name": "Unknown",
 			"message": "Unable to connect to the server.\n\nEither the server is experiencing high\ntraffic volumes or a server error has\noccurred. Please try again later.\n\nTo learn more about the server's current\nstatus, visit support.nintendo.com.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/109-3697"
 		}
 	}
 }

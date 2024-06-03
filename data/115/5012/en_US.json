@@ -4,10 +4,10 @@
 			"name": "Unknown",
 			"message": "The connection with the server was lost.\n\nBefore you can use this online service,\nyou must start Miiverse at least once.\n\nPlease start Miiverse from the\nHOME Menu.",
 			"short_description": "Connection is unstable or Juxtaposition account not initialized",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Boot the Miiverse applet from the home screen and complete setup, then try again",
-			"long_solution": "",
-			"support_link": ""
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/115-5012"
 		}
 	}
 }

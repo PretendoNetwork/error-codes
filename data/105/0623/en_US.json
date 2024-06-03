@@ -3,11 +3,11 @@
 		"0623": {
 			"name": "Unknown",
 			"message": "The console shut down unexpectedly\nwhile software was downloading.\n\nPlease delete the data that was\nbeing downloaded and try again.\n\nIf standby functions are enabled, the\npower LED will turn orange when\ndownloading and installing data after\nthe console is powered down. Do not\ndisconnect the AC adapter while\nthe power LED is orange.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/105-0623"
 		}
 	}
 }

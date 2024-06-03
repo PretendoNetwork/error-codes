@@ -3,11 +3,11 @@
 		"1031": {
 			"name": "Unknown",
 			"message": "The disc could not be read. It might\nbe dirty.\n\nPress the EJECT Button, remove\nthe disc, and clean it gently, using\na soft cloth to wipe outward from\nthe center.\n\nIf that does not resolve the issue,\nmake a note of the error code and\nvisit support.nintendo.com.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/150-1031"
 		}
 	}
 }

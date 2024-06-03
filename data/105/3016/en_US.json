@@ -3,11 +3,11 @@
 		"3016": {
 			"name": "Unknown",
 			"message": "The data is corrupted.\n\nPlease turn off the Wii U console\nand try again.\n\nIf the problem persists, please make\na note of the error code and visit\nsupport.nintendo.com.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/105-3016"
 		}
 	}
 }

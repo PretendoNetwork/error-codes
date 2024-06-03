@@ -3,11 +3,11 @@
 		"1400": {
 			"name": "Unknown",
 			"message": "Could not connect to the \naccess point.\n\n■ The security key may have\nbeen entered incorrectly. Check \nthe setting in System Settings ⇒ \nInternet Settings.\n\n■ There may be problems with the \nnetwork or the environment.\nTo ensure an optimal connection \nenvironment, move closer to the \naccess point and make sure that there\nare no obstructions between the\nsystem and the access point.\nIf this does not work, please try \nagain later",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/003-1400"
 		}
 	}
 }

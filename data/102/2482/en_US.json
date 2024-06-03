@@ -7,7 +7,7 @@
 			"long_description": "This error indicates one of the following:\n\n1. The server you're connecting to is offline for maintenance.\n\n2. Pretendo does not yet support the game or application in question.\n3. The game or application's server is not available for your accounts environment. This typically means the server is in beta testing and is not available to the public. Beta servers are generally only available to [supporters](https://pretendo.network/account/upgrade).",
 			"short_solution": "Check to see if your game is supported at https://pretendo.network/progress. If you're a tester, check your account is set to Beta at https://pretendo.network/account",
 			"long_solution": "- **Check our network status information**\n> Check our [Network Status page](https://stats.uptimerobot.com/R7E4wiGjJq) and ensure that there are no ongoing service outages.\n\n- **Check Pretendo has a server for your game**\n> Check our [Progress page](https://pretendo.network/progress) to see if a server exists and is in development. We don't support everything yet!\n\n- **Upgrade your account**\n> Certain beta and development servers are available to supporters for beta-testing. If you'd like to help test these ahead of a public release, [consider supporting Pretendo](https://pretendo.network/account/upgrade).",
-			"support_link": ""
+			"support_link": "https://preten.do/102-2482"
 		}
 	}
 }

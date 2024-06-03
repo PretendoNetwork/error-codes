@@ -4,10 +4,10 @@
 			"name": "AUTHENTICATION_RESERVED_03",
 			"message": "",
 			"short_description": "Likely maintenance or servers are down.",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Serverside error. Please wait and try again later.",
-			"long_solution": "",
-			"support_link": ""
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/101-0803"
 		}
 	}
 }

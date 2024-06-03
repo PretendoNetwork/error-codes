@@ -7,7 +7,7 @@
 			"long_description": "This typically occurs because you are attempting to connect to Juxtaposition with a **Nintendo Network ID** instead of a **Pretendo Network ID**.\n\nThis can also occur if your Pretendo Network ID has been banned from using Juxtaposition.",
 			"short_solution": "N/A",
 			"long_solution": "For more information, launch the Miiverse app, or request to speak to a moderator in the [Discord server](https://invite.gg/pretendo)",
-			"support_link": ""
+			"support_link": "https://preten.do/015-5007"
 		}
 	}
 }

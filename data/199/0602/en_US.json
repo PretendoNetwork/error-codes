@@ -3,11 +3,11 @@
 		"0602": {
 			"name": "Unknown",
 			"message": "To conserve energy, the Wii U\nconsole has been set to power down\nautomatically if left unused for a set\nperiod of time.\n\nPlease be aware that if the console\npowers down during a game,\nany unsaved data will be lost.\n\nYou can configure this setting in\nSystem Settings ⇒ Power Settings.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/199-0602"
 		}
 	}
 }

@@ -4,10 +4,10 @@
 			"name": "FPD_RESERVED_18",
 			"message": "Your friend list is full.\n\nYou cannot add any\nadditional friends",
 			"short_description": "Full friends list",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/101-0718"
 		}
 	}
 }

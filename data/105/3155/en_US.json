@@ -3,11 +3,11 @@
 		"3155": {
 			"name": "Unknown",
 			"message": "An error has occurred.\n\nThe USB storage device may not be\nreceiving enough power.\n\nPlease turn the Wii U console off, and\nthen plug in the USB storage device's\nAC adapter (if included) or connect the\ndevice to the Wii U console using a USB\nY cable, as applicable.\n\nIf the problem persists, please make\nnote of the error code, and then turn\noff the console's power, unplug the\nWii U console's AC adapter from the\noutlet, and visit support.nintendo.com.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/105-3155"
 		}
 	}
 }

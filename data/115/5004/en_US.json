@@ -7,7 +7,7 @@
 			"long_description": "This error should not occur under normal conditions when connected to Pretendo Network.",
 			"short_solution": "Self host, use another Juxtaposition instance, or use https://github.com/rverseTeam",
 			"long_solution": "- **Check that you are patched**\n\n1. On the Wii U System Menu, click on your Mii in the top left corner.\n2. Scroll down and select `View Network Services Agreement` button.\n3. Select the language of your choice.\n - If the top of the screen says `Pretendo Network Services Agreement`, then you are connected to Pretendo Network.\n - If the top of the screen says something else, then you are not connected to Pretendo Network. Follow [these](/docs/install/wiiu) instructions to get started.",
-			"support_link": ""
+			"support_link": "https://preten.do/115-5004"
 		}
 	}
 }

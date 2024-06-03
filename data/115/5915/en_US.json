@@ -4,10 +4,10 @@
 			"name": "Unknown",
 			"message": "You cannot add any more communities\nto your favorites.\n\nTo add a new favorite, you must\nremove at least one community from\nyour favorites.",
 			"short_description": "Community favorites for are full",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Remove a community from your favorites",
-			"long_solution": "",
-			"support_link": ""
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/115-5915"
 		}
 	}
 }

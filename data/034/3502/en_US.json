@@ -3,11 +3,11 @@
 		"3502": {
 			"name": "Unknown",
 			"message": "A communication error has occurred.\n\nOur network is experiencing high\ntraffic volumes. We apologize for the\ninconvenience. Please try again later",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": ""
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/034-3502"
 		}
 	}
 }
