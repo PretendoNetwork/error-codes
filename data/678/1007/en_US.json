@@ -7,7 +7,7 @@
 			"long_description": "***Note:*** This error relates to the Martini patches, which are now deprecated.\n\nThe patcher failed to write out a backup of your Miiverse applet to NAND. This can be caused by an incompatible CFW or corrupted NAND.",
 			"short_solution": "Try again?",
 			"long_solution": "Try updating to the [latest Tiramisu](https://tiramisu.foryour.cafe) or [latest Aroma](https://aroma.foryour.cafe) build, as these often contain fixes to the CFW.\n\nIf the issue persists, get in touch in our [Discord](https://invite.gg/pretendo).",
-			"support_link": ""
+			"support_link": "https://preten.do/678-1007"
 		}
 	}
 }

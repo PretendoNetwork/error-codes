@@ -4,10 +4,10 @@
 			"name": "BANNED_DEVICE_IN_INDEPENDENT_SERVICE_TEMPORARILY",
 			"message": "",
 			"short_description": "Your console is temporarily banned from this service",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
-			"support_link": "Wait for the ban to expire"
+			"long_description": "Your console is temporarily banned from this service.",
+			"short_solution": "Wait for the ban to expire",
+			"long_solution": "Wait for the ban to expire.",
+			"support_link": "https://preten.do/102-2835"
 		}
 	}
 }

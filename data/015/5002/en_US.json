@@ -7,7 +7,7 @@
 			"long_description": "This error occurs when you have never opened the Miiverse app before attempting to use online features.",
 			"short_solution": "Boot the Miiverse applet from the home screen and complete setup",
 			"long_solution": "Open the Miiverse app from the HOME Menu.",
-			"support_link": ""
+			"support_link": "https://preten.do/015-5002"
 		}
 	}
 }

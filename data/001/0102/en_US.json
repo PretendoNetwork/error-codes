@@ -3,11 +3,11 @@
 		"0102": {
 			"name": "CORE_UNKNOWN",
 			"message": "Missing message.",
-			"short_description": "Likely a Pretendo server issue",
-			"long_description": "",
+			"short_description": "An unknown error has occurred",
+			"long_description": "Your console experienced an unknown error. This error can be caused by many things, from server issues to home network issues.",
 			"short_solution": "Try double checking your internet connection or wait.",
-			"long_solution": "",
-			"support_link": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/17043/~/error-code%3A-001-0102#:~:text=This%20error%20code%20indicates%20you,a%20poor%20wireless%20network%20environment."
+			"long_solution": "Due to the unknown nature of the error, there is not one solution. Try waiting a while and try again. You may also try the steps listed on Nintendo's support page https://en-americas-support.nintendo.com/app/answers/detail/a_id/17043/~/error-code%3A-001-0102#:~:text=This%20error%20code%20indicates%20you,a%20poor%20wireless%20network%20environment.\n\nIf none of these work, report the issue to a developer.",
+			"support_link": "https://preten.do/001-0102"
 		}
 	}
 }

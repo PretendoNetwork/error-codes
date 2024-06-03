@@ -3,11 +3,11 @@
 		"0112": {
 			"name": "CORE_TIMEOUT",
 			"message": "Unable to connect to the server.\nPlease try again later",
-			"short_description": "Connection timeout",
-			"long_description": "",
+			"short_description": "Friends connection timeout",
+			"long_description": "Your connection to either the authentication or secure server for the friends service has timed out.",
 			"short_solution": "Verify your wifi is working. If it is\nworking, then this is a serverside error.\nPlease wait and try again later.",
-			"long_solution": "",
-			"support_link": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/14458/~/error-code%3A-001-0112"
+			"long_solution": "Check your wifi and try again later. Also refer to Nintendo's official support page https://en-americas-support.nintendo.com/app/answers/detail/a_id/14458/~/error-code%3A-001-0112\n\nIf the error persists, it may be an issue with the server. Check the server status or report the issue.",
+			"support_link": "https://preten.do/001-0112"
 		}
 	}
 }
