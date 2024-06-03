@@ -3,10 +3,10 @@
 		"0002": {
 			"name": "Unknown",
 			"message": "Unable to display on the TV screen.\n\nPlease confirm that the HDMI cable is\nproperly connected to both the Wii U\nconsole and TV and that the TV is set\nto display Wii U content, and then\nrestart the software.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/167-0002"
 		}
 	}

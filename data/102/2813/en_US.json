@@ -4,9 +4,9 @@
 			"name": "BANNED_DEVICE_IN_APPLICATION",
 			"message": "",
 			"short_description": "Your console is permanently banned from this application",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Don't do whatever you did to get banned",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/102-2813"
 		}
 	}

@@ -4,9 +4,9 @@
 			"name": "Transport::IOError",
 			"message": "",
 			"short_description": "The data could not be sent across the network. This could be due to an invalid message, packet, or buffer",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/106-0507"
 		}
 	}

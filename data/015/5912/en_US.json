@@ -4,9 +4,9 @@
 			"name": "Unknown",
 			"message": "You cannot create a community because\nyou cannot add any more communities\nfor this game to your favorites.\n\nTo create a new community, you must\nremove at least one community for this\ngame from your favorites",
 			"short_description": "Cannot create anymore communities due to favorites for this game being full",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Remove a community for this game from your favorites",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/015-5912"
 		}
 	}

@@ -3,10 +3,10 @@
 		"0744": {
 			"name": "FPD_NOT_NETWORK_ACCOUNT",
 			"message": "There is no Nintendo Network ID\nlinked with the current user.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/101-0744"
 		}
 	}

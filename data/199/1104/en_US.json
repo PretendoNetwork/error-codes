@@ -3,10 +3,10 @@
 		"1104": {
 			"name": "Unknown",
 			"message": "The password you entered cannot be\nused.\n\nPlease create a password using 6 to\n16 characters from at least two of the\nfollowing categories: uppercase letters,\nlowercase letters, numbers, and\npunctuation.\n\nPlease don't use the same character\nthree or more times in a row.\n\nWe recommend using 8 or more\ncharacters, including punctuation,\nfor greater password security.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/199-1104"
 		}
 	}

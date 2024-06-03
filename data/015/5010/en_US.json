@@ -4,9 +4,9 @@
 			"name": "Unknown",
 			"message": "You cannot post to Miiverse from\nthis system.\n\nFor details, please start Miiverse",
 			"short_description": "Your console has been banned from Juxtaposition",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Don't do whatever you did to get banned",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/015-5010"
 		}
 	}

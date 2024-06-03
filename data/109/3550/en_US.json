@@ -3,10 +3,10 @@
 		"3550": {
 			"name": "Unknown",
 			"message": "Before you can use this online service,\nyou must start Nintendo eShop at least\nonce.\n\nPlease close the software and start\nNintendo eShop.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/109-3550"
 		}
 	}

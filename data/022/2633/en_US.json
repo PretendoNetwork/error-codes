@@ -3,10 +3,10 @@
 		"2633": {
 			"name": "AUTHENTICATION_LOCKED",
 			"message": "This Nintendo Network ID been\ntemporarily locked due to repeated\nincorrect attempts to enter the\npassword.\n\nPlease try again later",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/022-2633"
 		}
 	}

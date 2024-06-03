@@ -4,9 +4,9 @@
 			"name": "Transport::InvalidKey",
 			"message": "",
 			"short_description": "The key used to authenticate a given station is invalid. The secure transport layer uses secret-key based cryptography to ensure the integrity and confidentiality of data sent across the network",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/006-0504"
 		}
 	}

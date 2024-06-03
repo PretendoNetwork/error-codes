@@ -4,9 +4,9 @@
 			"name": "AUTHENTICATION_UNDER_MAINTENANCE",
 			"message": "The server is currently undergoing\nmaintenance. We apologize for any\ninconvenience. Please try again later.\n\nTo learn more about maintenance,\nvisit support.nintendo.com",
 			"short_description": "Server maintenance",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Serverside maintenance. Please wait and try again later.",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/001-0811"
 		}
 	}

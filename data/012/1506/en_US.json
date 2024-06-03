@@ -3,10 +3,10 @@
 		"1506": {
 			"name": "SSLMOD_CERT_HAS_EXPIRED",
 			"message": "The certificate has expired.\n(Please check that date\nand time settings on your\nNintendo 3DS system\nare correct.)",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/012-1506"
 		}
 	}

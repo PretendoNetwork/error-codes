@@ -3,10 +3,10 @@
 		"1303": {
 			"name": "Unknown",
 			"message": "Failed to authenticate stored credit-card\ninformation. The information has been\ndeleted",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/009-1303"
 		}
 	}

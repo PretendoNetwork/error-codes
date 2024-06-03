@@ -4,9 +4,9 @@
 			"name": "ACCOUNT_ID_PASSWORD_SAME",
 			"message": "Your Nintendo Network ID and\npassword are the same.\n\nPlease use a different password.",
 			"short_description": "Your username and password are the same",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Change either your username or password",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/102-2577"
 		}
 	}

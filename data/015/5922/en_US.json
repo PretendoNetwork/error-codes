@@ -4,9 +4,9 @@
 			"name": "Unknown",
 			"message": "This user cannot be followed",
 			"short_description": "Could not follow user",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "No fix",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/015-5922"
 		}
 	}

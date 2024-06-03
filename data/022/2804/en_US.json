@@ -4,9 +4,9 @@
 			"name": "BANNED_ACCOUNT_IN_NEX_SERVICE",
 			"message": "",
 			"short_description": "Your PNID is permanently banned from this game",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Don't do whatever you did to get banned",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/022-2804"
 		}
 	}

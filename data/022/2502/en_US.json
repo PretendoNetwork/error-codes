@@ -3,10 +3,10 @@
 		"2502": {
 			"name": "COUNTRY_MISMATCH",
 			"message": "This Nintendo Network ID cannot be\nused because its region setting does\nnot match the setting of this system.\n\nPlease check Region Settings in System\nSettings ⇒ Other Settings ⇒ Profile, and\nconfirm that this setting matches the ID",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/022-2502"
 		}
 	}

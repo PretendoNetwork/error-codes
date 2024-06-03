@@ -3,10 +3,10 @@
 		"0001": {
 			"name": "Unknown",
 			"message": "There is not enough free space for Wii\nsoftware.\n\nPlease go to Wii Options in the Wii\nMenu and move or delete data in order\nto free up at least one block of space.\n\nIf the problem persists, please make\na note of the error code and visit\nsupport.nintendo.com.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/167-0001"
 		}
 	}

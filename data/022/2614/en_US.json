@@ -4,9 +4,9 @@
 			"name": "WRONG_CONFIRMATION_CODE",
 			"message": "",
 			"short_description": "The email confirmation code entered does not match your account",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Check your confirmation code and try again",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/022-2614"
 		}
 	}

@@ -4,9 +4,9 @@
 			"name": "RendezVous::NotAuthenticated",
 			"message": "",
 			"short_description": "The Principal could not be authenticated by the Authentication Service",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/106-0302"
 		}
 	}

@@ -4,9 +4,9 @@
 			"name": "BANNED_ACCOUNT_ALL_TEMPORARILY",
 			"message": "",
 			"short_description": "Your PNID is temporarily banned from all aspects of the network",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Wait for the ban to expire",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/022-2822"
 		}
 	}

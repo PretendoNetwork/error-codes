@@ -3,10 +3,10 @@
 		"5941": {
 			"name": "Unknown",
 			"message": "The user name and/or password is\nincorrect.\n\nPlease check your user name and\npassword and try again.\n\nIf you have forgotten your user\nname or password, please visit\nclub.nintendo.com and click on\n\"Forgot username?\" or \"Forgot\npassword?\"",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/105-5941"
 		}
 	}

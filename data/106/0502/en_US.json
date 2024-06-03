@@ -4,9 +4,9 @@
 			"name": "Transport::ConnectionFailure",
 			"message": "",
 			"short_description": "Couldn't connect to the game server",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "The Pretendo server is likely overloaded. Try again in half an hour.",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/106-0502"
 		}
 	}

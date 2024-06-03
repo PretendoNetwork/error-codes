@@ -4,9 +4,9 @@
 			"name": "CORE_TIMEOUT",
 			"message": "Unable to connect to the server.\n\nPlease try again later.\n\nIf the problem persists, please\nmake a note of the error code and\nvisit support.nintendo.com.",
 			"short_description": "Connection timeout",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Verify your wifi is working. If it is\nworking, then this is a serverside error.\nPlease wait and try again later.",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/101-0112"
 		}
 	}

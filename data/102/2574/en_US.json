@@ -4,9 +4,9 @@
 			"name": "MII_NAME_NOT_ACCEPTABLE",
 			"message": "The nickname you entered\ncannot be used.",
 			"short_description": "The Mii nickname you entered contains rejected text",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Choose a different nickname",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/102-2574"
 		}
 	}

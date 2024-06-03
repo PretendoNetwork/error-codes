@@ -3,10 +3,10 @@
 		"2000": {
 			"name": "Unknown",
 			"message": "Could not connect to the Internet.\n\n■ The security key or DNS may \nhave been entered incorrectly. Check \nthe setting in System Settings ⇒ \nInternet Settings.\n\n■ There may be problems with the \nnetwork or the environment.\nTo ensure an optimal connection \nenvironment, move closer to the \naccess point and make sure that there\nare no obstructions between the\nsystem and the access point.\nIf this does not work, please try \nagain later.\n\n■ Check that your computer can\nconnect to the Internet using the same\nsettings. If not, refer to the instruction\nbooklet that came with the access\npoint",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/003-2000"
 		}
 	}

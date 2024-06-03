@@ -3,10 +3,10 @@
 		"2503": {
 			"name": "EULA_NOT_ACCEPTED",
 			"message": "To use online services, you must\naccept the terms of the Network\nServices Agreement.\n\nGo to the Wii U Menu and select User\nSettings to agree to the latest terms.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/102-2503"
 		}
 	}

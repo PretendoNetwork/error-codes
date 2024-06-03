@@ -3,10 +3,10 @@
 		"1300": {
 			"name": "Unknown",
 			"message": "Could not connect to the \naccess point.\n\nYou need to change the security\nsettings for this access point.\nChange these settings in System\nSettings ⇒ Internet Settings.\n\nFor help, visit support.nintendo.com",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/003-1300"
 		}
 	}

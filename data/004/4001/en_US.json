@@ -3,10 +3,10 @@
 		"4001": {
 			"name": "Unknown",
 			"message": "An error has occurred.\n\n■ The SD Card may not be inserted.\nPlease turn the power off, insert an\nSD Card, and try again.\n\nFor help, visit support.nintendo.com.\n\n■ The software's extra data may have \nbeen deleted. Please create new extra\ndata",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/004-4001"
 		}
 	}

@@ -3,10 +3,10 @@
 		"2451": {
 			"name": "Unknown",
 			"message": "Unable to connect to the Internet.\n\nThe network may be busy.\nPlease try again later.\n\nIf you are using a Wi-Fi network, the\nsignal strength may be poor. Please\nmake sure there are no obstructions\nbetween the console and network\ndevice, and then try again.\n\nIf this problem persists, it is possible\nthat the DNS and proxy-server settings\nare incorrect. Please check these\nsettings under the Internet option in\nSystem Settings.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/108-2451"
 		}
 	}

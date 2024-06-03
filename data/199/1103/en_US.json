@@ -3,10 +3,10 @@
 		"1103": {
 			"name": "Unknown",
 			"message": "This Nintendo Network ID\nhas been changed.\n\nPlease enter the new\nNintendo Network ID from\nafter the change instead.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/199-1103"
 		}
 	}

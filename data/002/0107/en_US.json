@@ -4,9 +4,9 @@
 			"name": "Unknown",
 			"message": "",
 			"short_description": "Product code is invalid",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/002-0107"
 		}
 	}

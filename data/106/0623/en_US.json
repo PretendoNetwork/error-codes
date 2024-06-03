@@ -3,10 +3,10 @@
 		"0623": {
 			"name": "DOCore::VersionMismatch",
 			"message": "A communication error occurred.\n\nThis software must be updated before\nonline services can be used",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/106-0623"
 		}
 	}

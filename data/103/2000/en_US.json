@@ -3,10 +3,10 @@
 		"2000": {
 			"name": "Unknown",
 			"message": "Unable to connect to the Internet.\n\nAlthough the connection to the wireless\nrouter or network device was\nsuccessful, the connection to the\nInternet failed.\n\nMake sure your wireless router or\nnetwork device is correctly set up for\nuse and that other devices that use the\nwireless network can connect online.\n\nUnplug your modem and wireless router\nor network device from the power outlet.\nWait a little while, plug them back in,\nand try again.\n\nMake sure the Wii U console is within\nrange of your wireless router and there\nare no obstructions between them.\n\nMove any electronics away from the\nWii U console and your wireless router.\n\nIf you are unable to access or change\nthe settings for your wireless router or\nnetwork device, please contact the\nmanufacturer for support.",
-			"short_description": "",
-			"long_description": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
 			"short_solution": "Make sure your console is in range of your Wi-Fi network, and check the settings are correct. Make sure the 'Default' connection in Internet Settings is set correctly.",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/103-2000"
 		}
 	}

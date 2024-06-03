@@ -4,9 +4,9 @@
 			"name": "Core::InvalidArgument",
 			"message": "",
 			"short_description": "Invalid argument were passed with the operation. The argument(s) may be out of range or invalid",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/106-0111"
 		}
 	}

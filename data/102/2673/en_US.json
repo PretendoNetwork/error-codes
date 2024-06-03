@@ -3,10 +3,10 @@
 		"2673": {
 			"name": "CREDIT_CARD_BLACKLISTED",
 			"message": "This credit card cannot be used.\n\nPlease contact your credit-card\nprovider for more information.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/102-2673"
 		}
 	}

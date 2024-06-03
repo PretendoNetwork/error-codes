@@ -4,9 +4,9 @@
 			"name": "Transport::IncorrectRemoteAuthentication",
 			"message": "",
 			"short_description": "The destination Station did not authenticate itself properly",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/006-0510"
 		}
 	}

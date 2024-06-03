@@ -3,10 +3,10 @@
 		"3020": {
 			"name": "Unknown",
 			"message": "An error has occurred.\n\nIf there is a disc in the console, press\nthe EJECT Button and remove the disc,\nthen turn off the Wii U console and try\nagain later.\n\nIf the problem persists, please make\nnote of the error code, and then turn\noff the console's power, unplug the\nWii U console's AC adapter from the\noutlet, and visit support.nintendo.com.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/150-3020"
 		}
 	}

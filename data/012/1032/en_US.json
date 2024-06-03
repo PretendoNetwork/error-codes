@@ -3,10 +3,10 @@
 		"1032": {
 			"name": "UI_Reject_Content_Click",
 			"message": "This file cannot be loaded.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/012-1032"
 		}
 	}

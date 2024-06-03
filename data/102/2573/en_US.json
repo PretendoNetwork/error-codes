@@ -4,9 +4,9 @@
 			"name": "ACCOUNT_PASSWORD_NOT_ACCEPTABLE",
 			"message": "The password you entered\ncannot be used.\n\nPlease try again, following the\ninstructions on your TV screen.",
 			"short_description": "The password entered did not follow the instructions",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Choose a different password",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/102-2573"
 		}
 	}

@@ -4,9 +4,9 @@
 			"name": "Unknown",
 			"message": "You cannot see this user's information\nbecause his or her friend list and\nfollowers are restricted",
 			"short_description": "Other users profile is hidden",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "No fix",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/015-5930"
 		}
 	}

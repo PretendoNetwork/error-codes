@@ -4,9 +4,9 @@
 			"name": "RendezVous::ConnectionFailure",
 			"message": "",
 			"short_description": "Connection was unable to be established, either with the Rendez-Vous back end or a Peer",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/006-0301"
 		}
 	}

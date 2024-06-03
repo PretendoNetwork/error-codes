@@ -3,10 +3,10 @@
 		"0741": {
 			"name": "FPD_BLOCK_SETTING_CHANGE_NOT_ALLOWED",
 			"message": "Users under the age of 13 cannot\nreceive friend requests.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/101-0741"
 		}
 	}

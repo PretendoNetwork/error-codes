@@ -3,10 +3,10 @@
 		"1730": {
 			"name": "Unknown",
 			"message": "There is no YouTube channel\nconnected to this Google Account.\n\nPlease create a YouTube channel.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/125-1730"
 		}
 	}

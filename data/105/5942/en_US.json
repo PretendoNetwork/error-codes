@@ -3,10 +3,10 @@
 		"5942": {
 			"name": "Unknown",
 			"message": "A connection error has occurred, so\nyour Club Nintendo account could not\nbe linked.\n\nPlease try again later.\n\nIf the problem persists, please visit\nsupport.nintendo.com.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/105-5942"
 		}
 	}

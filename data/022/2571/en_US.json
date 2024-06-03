@@ -4,9 +4,9 @@
 			"name": "ACCOUNT_ID_ALREADY_EXISTS",
 			"message": "The Nintendo Network ID you\nentered is already in use.\n\nPlease try again",
 			"short_description": "You are trying to create a PNID using a username that is either already in use by another Pretendo user, or is used by a different NNID on your console",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Choose a different username",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/022-2571"
 		}
 	}

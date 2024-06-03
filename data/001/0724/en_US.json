@@ -4,9 +4,9 @@
 			"name": "Unknown",
 			"message": "You have not yet created\na Personal Mii.\n\nCreate a Personal Mii\nusing Mii Maker",
 			"short_description": "Mii not created",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Open Mii Maker and follow the instructions\nthe console gives you.",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/001-0724"
 		}
 	}

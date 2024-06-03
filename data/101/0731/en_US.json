@@ -3,10 +3,10 @@
 		"0731": {
 			"name": "FPD_MY_FRIEND_LIST_LIMIT_EXCEED",
 			"message": "Your friend list is full.\n\nYou must make space in your friend\nlist before registering new friends.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/101-0731"
 		}
 	}

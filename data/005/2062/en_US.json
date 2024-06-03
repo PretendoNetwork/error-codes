@@ -3,10 +3,10 @@
 		"2062": {
 			"name": "Unknown",
 			"message": "There are not enough open blocks\nin the System Memory.\n\nUse Data Management in System\nSettings to delete unnecessary\ndata from the System Memory",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/005-2062"
 		}
 	}

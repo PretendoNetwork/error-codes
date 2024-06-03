@@ -3,10 +3,10 @@
 		"2128": {
 			"name": "HTTP_OPERATION_TIMEDOUT",
 			"message": "Unable to connect to the server.\n\nEither the server is experiencing high\ntraffic volumes or a server error has\noccurred. Please try again later.\n\nTo learn more about the server's current\nstatus, visit support.nintendo.com.\n\nIf you are using a Wi-Fi network, the\nsignal strength may be too poor. Please\nmove the console closer to the network\ndevice, make sure that there are no\nobstructions between the two, and then\ntry again.\n\nIf this problem persists, please check\nwhether or not you can connect to the\nInternet from a PC or other device using\nthe same settings.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/102-2128"
 		}
 	}

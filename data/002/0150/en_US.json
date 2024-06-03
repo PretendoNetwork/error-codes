@@ -4,9 +4,9 @@
 			"name": "Custom Pretendo Error",
 			"message": "",
 			"short_description": "Serial number mismatch",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Revert your original serial or report the issue",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/002-0150"
 		}
 	}

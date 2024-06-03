@@ -4,9 +4,9 @@
 			"name": "Unknown",
 			"message": "Either the network is experiencing high\ntraffic volumes or the service is down.\nPlease try again later.\n\nFor help, visit support.nintendo.com",
 			"short_description": "Game server is under maintenance",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/002-0101"
 		}
 	}

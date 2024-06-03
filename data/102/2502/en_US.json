@@ -3,10 +3,10 @@
 		"2502": {
 			"name": "COUNTRY_MISMATCH",
 			"message": "Online features cannot be used because\nthe country settings on the Wii U\nconsole and the Nintendo Network ID\ndo not match.\n\nCheck the Wii U System Settings to\nensure that your country of residence\nhas been selected under country\nsettings. \n\nIf the country setting is correct, create\na new user on the Wii U and link it to a\nNintendo Network ID that is valid in\nyour country of residence.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/102-2502"
 		}
 	}

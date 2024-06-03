@@ -4,9 +4,9 @@
 			"name": "BANNED_ACCOUNT_IN_APPLICATION",
 			"message": "Online services cannot be used.\n\nPlease make a note of the error code\nand visit support.nintendo.com",
 			"short_description": "Your PNID is permanently banned from this application",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Don't do whatever you did to get banned",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/022-2803"
 		}
 	}

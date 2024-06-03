@@ -3,10 +3,10 @@
 		"2100": {
 			"name": "Unknown",
 			"message": "Could not connect to the Internet.\n\nThe network may be busy, or there\nmay be problems with the connection\nenvironment. To ensure an optimal\nconnection environment, move closer\nto the access point and make sure that\nthere are no obstructions between\nthe system and the access point.\nIf this does not work, please try\nagain later.\n\n■ Check that your computer can\nconnect to the Internet using the same\nsettings. If not, refer to the instruction\nbooklet that came with your\naccess point.\n\n■ The DNS setting may have been \nentered incorrectly. Check the setting \nin System Settings ⇒ Internet \nSettings.\n\n■ The proxy server may have been\nentered incorrectly. Check the setting\nin System Settings ⇒ Internet \nSettings",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/003-2100"
 		}
 	}

@@ -3,10 +3,10 @@
 		"2576": {
 			"name": "ACCOUNT_ID_FORMAT_INVALID",
 			"message": "The Nintendo Network ID you\nentered cannot be used.\n\nPlease try again, following the\ninstructions on your TV screen.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/102-2576"
 		}
 	}

@@ -3,10 +3,10 @@
 		"2587": {
 			"name": "Unknown",
 			"message": "The Nintendo Network ID you entered\nalready exists.\n\nIf you want to use this ID, please\nreturn to the beginning of the linking\nprocess, select Link an Existing ID,\nand follow the on-screen instructions.\nYou will need to enter the e-mail\naddress and password used when\nyou initially created the ID",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/022-2587"
 		}
 	}

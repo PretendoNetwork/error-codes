@@ -3,10 +3,10 @@
 		"2631": {
 			"name": "ACCOUNT_ALREADY_DELETED",
 			"message": "This user cannot use network services.\n\nThe Nintendo Network ID linked to this\nuser has been deleted.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/102-2631"
 		}
 	}

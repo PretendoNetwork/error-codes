@@ -3,10 +3,10 @@
 		"2585": {
 			"name": "MAIL_ADDRESS_DOMAIN_NAME_NOT_ACCEPTABLE",
 			"message": "The e-mail address you entered cannot\nbe used.\n\nPlease enter a different e-mail address",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/022-2585"
 		}
 	}

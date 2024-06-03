@@ -3,10 +3,10 @@
 		"0510": {
 			"name": "Unknown",
 			"message": "The amiibo data is corrupted.\n\nIf you have used this amiibo on a\nNintendo device before, then you can\nuse that device to restore the data.\nIf not, please reset the amiibo via\nSystem Settings ⇒ amiibo Settings.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/168-0510"
 		}
 	}

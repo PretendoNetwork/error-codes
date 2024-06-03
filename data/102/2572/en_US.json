@@ -4,9 +4,9 @@
 			"name": "ACCOUNT_ID_NOT_ACCEPTABLE",
 			"message": "The Nintendo Network ID you entered\nincludes text that cannot be used.\n\nPlease enter a different ID.",
 			"short_description": "The username you entered contains rejected text",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Choose a different username",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/102-2572"
 		}
 	}

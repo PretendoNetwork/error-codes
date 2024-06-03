@@ -4,9 +4,9 @@
 			"name": "Unknown",
 			"message": "You cannot comment on this post",
 			"short_description": "Post could not be commented on",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Try again later",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/015-5931"
 		}
 	}

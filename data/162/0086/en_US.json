@@ -3,10 +3,10 @@
 		"0086": {
 			"name": "Unknown",
 			"message": "The USB storage device is\nwrite-protected.\n\nPlease refer to the manual for the\ndevice and disable write-protection.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/162-0086"
 		}
 	}

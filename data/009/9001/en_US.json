@@ -3,10 +3,10 @@
 		"9001": {
 			"name": "Unknown",
 			"message": "Battery power is running low.\n\nPlease plug in the AC adapter and\nrecharge the system for a short while",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/009-9001"
 		}
 	}

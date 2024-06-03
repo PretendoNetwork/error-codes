@@ -4,9 +4,9 @@
 			"name": "UNDER_MAINTENANCE",
 			"message": "Due to server maintenance, the service\nyou attempted to access is not available\nat this time.\n\nPlease try again later.",
 			"short_description": "The server you requested is under maintenance",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Try again later",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/102-2881"
 		}
 	}

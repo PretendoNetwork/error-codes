@@ -3,10 +3,10 @@
 		"3551": {
 			"name": "Unknown",
 			"message": "Address information has not been set.\n\nPlease close the software, start\nNintendo eShop, and configure your\nlocation settings.\n\nFor instructions on configuring settings,\nsee the manual for Nintendo eShop.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/109-3551"
 		}
 	}

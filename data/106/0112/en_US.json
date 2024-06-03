@@ -4,9 +4,9 @@
 			"name": "Core::Timeout",
 			"message": "",
 			"short_description": "The operation did not complete within the specified timeout for that operation",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/106-0112"
 		}
 	}

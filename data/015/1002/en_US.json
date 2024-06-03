@@ -3,10 +3,10 @@
 		"1002": {
 			"name": "Unknown",
 			"message": "You cannot use Miiverse because it has\nbeen restricted in Parental Controls",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/015-1002"
 		}
 	}

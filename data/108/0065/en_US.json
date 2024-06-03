@@ -3,10 +3,10 @@
 		"0065": {
 			"name": "Unknown",
 			"message": "Unable to connect to the Internet.\n\nThe network may be busy.\nPlease try again later.\n\nIf you are using a Wi-Fi network, the\nsignal strength may be poor. Please\nensure that the console is about 6-10\nfeet away from the network device,\nmake sure there are no obstructions\nbetween the two, and then try again.\n\nIf this problem persists, please check\nwhether or not you can connect to the\nInternet from a PC or other device\nusing the same settings.",
-			"short_description": "",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/108-0065"
 		}
 	}

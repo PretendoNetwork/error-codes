@@ -4,9 +4,9 @@
 			"name": "Unknown",
 			"message": "The community code is incorrect.",
 			"short_description": "Invalid community code",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Verify the community code entered",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/115-5917"
 		}
 	}

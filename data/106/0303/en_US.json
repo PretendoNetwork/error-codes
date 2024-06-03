@@ -4,9 +4,9 @@
 			"name": "RendezVous::InvalidUsername",
 			"message": "",
 			"short_description": "The Principal tried to log in with an invalid user name, i.e. the user name does not exist in the database",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/106-0303"
 		}
 	}

@@ -4,9 +4,9 @@
 			"name": "RendezVous::MaxConnectionsReached",
 			"message": "Unable to connect because the server\nhas reached its connection limit and\ncannot accept any more connections\nat this time.\n\nPlease try again later",
 			"short_description": "Maximum connnection number is reached",
-			"long_description": "",
-			"short_solution": "",
-			"long_solution": "",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/106-0311"
 		}
 	}

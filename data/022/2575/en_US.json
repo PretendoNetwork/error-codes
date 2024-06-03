@@ -4,9 +4,9 @@
 			"name": "MAIL_ADDRESS_NOT_ACCEPTABLE",
 			"message": "The e-mail address you entered\nis not correct.\n\nPlease check the e-mail address\nyou entered and try again",
 			"short_description": "Invalid email address entered",
-			"long_description": "",
+			"long_description": "Unknown cause.",
 			"short_solution": "Enter a valid email address",
-			"long_solution": "",
+			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/022-2575"
 		}
 	}
