@@ -3,9 +3,9 @@
 		"0132": {
 			"name": "Unknown",
 			"message": "Incorrect PIN.\n\nPlease try again.",
-			"short_description": "Unknown cause.",
+			"short_description": "The PIN you have entered is incorrect.",
 			"long_description": "Unknown cause.",
-			"short_solution": "Unknown solution.",
+			"short_solution": "Enter the correct PIN and try again.",
 			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/199-0132"
 		}

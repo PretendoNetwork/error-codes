@@ -3,9 +3,9 @@
 		"0112": {
 			"name": "Unknown",
 			"message": "You can only use up to two\nnumbers.",
-			"short_description": "Unknown cause.",
+			"short_description": "You have used more than two numbers when the maximum is two.",
 			"long_description": "Unknown cause.",
-			"short_solution": "Unknown solution.",
+			"short_solution": "Don't use more than two numbers.",
 			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/199-0112"
 		}

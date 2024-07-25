@@ -3,9 +3,9 @@
 		"0134": {
 			"name": "Unknown",
 			"message": "Could not find the Nintendo Network ID\nthat was entered.\n\nPlease enter a valid ID.",
-			"short_description": "Unknown cause.",
+			"short_description": "The Nintendo/Pretendo Network ID you entered does not exist.",
 			"long_description": "Unknown cause.",
-			"short_solution": "Unknown solution.",
+			"short_solution": "Enter a valid Nintendo/Pretendo Network ID and try again.",
 			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/199-0134"
 		}

@@ -3,9 +3,9 @@
 		"0117": {
 			"name": "Unknown",
 			"message": "You can only use up to seven\nnumbers.",
-			"short_description": "Unknown cause.",
+			"short_description": "You have used more than seven numbers when the maximum is seven.",
 			"long_description": "Unknown cause.",
-			"short_solution": "Unknown solution.",
+			"short_solution": "Don't use more than seven numbers.",
 			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/199-0117"
 		}

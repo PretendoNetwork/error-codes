@@ -3,9 +3,9 @@
 		"0110": {
 			"name": "Unknown",
 			"message": "You cannot use numbers.",
-			"short_description": "Unknown cause.",
+			"short_description": "You have attempted to use numbers when they are not allowed.",
 			"long_description": "Unknown cause.",
-			"short_solution": "Unknown solution.",
+			"short_solution": "Don't use numbers.",
 			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/199-0110"
 		}

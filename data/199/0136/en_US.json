@@ -3,9 +3,9 @@
 		"0136": {
 			"name": "Unknown",
 			"message": "You cannot use a Wii e-mail address.\nPlease select a different e-mail\naddress.",
-			"short_description": "Unknown cause.",
+			"short_description": "You have attempted to use a Wii e-mail address.",
 			"long_description": "Unknown cause.",
-			"short_solution": "Unknown solution.",
+			"short_solution": "Don't use a Wii e-mail address.",
 			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/199-0136"
 		}

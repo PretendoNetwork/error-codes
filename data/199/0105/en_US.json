@@ -3,9 +3,9 @@
 		"0105": {
 			"name": "Unknown",
 			"message": "You've used too many characters.",
-			"short_description": "Unknown cause.",
+			"short_description": "You have exceeded the maximum amount of characters allowed.",
 			"long_description": "Unknown cause.",
-			"short_solution": "Unknown solution.",
+			"short_solution": "Use less characters.",
 			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/199-0105"
 		}

@@ -5,7 +5,7 @@
 			"message": "The text entered is invalid.",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",
-			"short_solution": "Unknown solution.",
+			"short_solution": "Enter valid text.",
 			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/199-0135"
 		}
