@@ -2,7 +2,7 @@
 	"157": {
 		"9999": {
 			"name": "Unknown",
-			"message": "",
+			"message": "An error has occurred.\n\nPlease turn off the Wii U console and\ntry again.\n\nIf the problem persists, please\nvisit support.nintendo.com.",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",
 			"short_solution": "Unknown solution.",

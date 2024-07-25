@@ -1,0 +1,13 @@
+{
+	"162": {
+		"3006": {
+			"name": "Unknown",
+			"message": "An error has occurred.\nThe console will now restart.\n\nIf the error persists, please\nvisit support.nintendo.com",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.", 
+			"support_link": "https://preten.do/162-3006"
+		}
+	}
+}
