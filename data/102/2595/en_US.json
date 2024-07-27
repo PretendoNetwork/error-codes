@@ -3,7 +3,7 @@
 		"2595": {
 			"name": "MII_NOT_REGISTERED",
 			"message": "You have not registered a Mii.",
-			"short_description": "A Mii has not been registred.",
+			"short_description": "A Mii has not been registred to the account. ",
 			"long_description": "Unknown cause.",
 			"short_solution": "Register a Mii and try again.",
 			"long_solution": "Unknown solution.",

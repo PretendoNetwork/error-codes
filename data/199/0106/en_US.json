@@ -3,7 +3,7 @@
 		"0106": {
 			"name": "Unknown",
 			"message": "You have not entered anything.",
-			"short_description": "You have failed to enter what has been requested.",
+			"short_description": "You attempted to submit an empty input.",
 			"long_description": "Unknown cause.",
 			"short_solution": "Enter something.",
 			"long_solution": "Unknown solution.",
