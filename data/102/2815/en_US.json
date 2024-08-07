@@ -2,7 +2,7 @@
 	"102": {
 		"2815": {
 			"name": "BANNED_DEVICE_IN_INDEPENDENT_SERVICE",
-			"message": "",
+			"message": "Online services cannot be used.\n\nPlease make note of the error code\nand visit support.nintendo.com.",
 			"short_description": "Your console is permanently banned from this service",
 			"long_description": "Unknown cause.",
 			"short_solution": "Don't do whatever you did to get banned",

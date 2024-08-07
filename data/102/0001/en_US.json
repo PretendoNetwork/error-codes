@@ -3,7 +3,7 @@
 		"0001": {
 			"name": "MAIL_ADDRESS_NOT_CONFIRMED",
 			"message": "",
-			"short_description": "Unknown cause.",
+			"short_description": "Unknown cause",
 			"long_description": "Unknown cause.",
 			"short_solution": "Unknown solution.",
 			"long_solution": "Unknown solution.",

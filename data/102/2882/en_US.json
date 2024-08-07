@@ -5,7 +5,7 @@
 			"message": "This online service is no longer\navailable.\n\nSorry for the inconvenience.",
 			"short_description": "The server you requested is closed and no longer maintained",
 			"long_description": "Unknown cause.",
-			"short_solution": "Self host the server or use another hosted instance",
+			"short_solution": "Self host the server or use another hosted instance.",
 			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/102-2882"
 		}

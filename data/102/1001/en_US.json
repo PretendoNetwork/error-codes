@@ -3,7 +3,7 @@
 		"1001": {
 			"name": "ACCOUNT_NOT_FOUND",
 			"message": "Unable to find the specified user.",
-			"short_description": "Unknown cause.",
+			"short_description": "The Nintendo/Pretendo Network ID entered was incorrect or does not exist.",
 			"long_description": "Unknown cause.",
 			"short_solution": "Unknown solution.",
 			"long_solution": "Unknown solution.",
