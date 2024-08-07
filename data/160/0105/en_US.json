@@ -2,8 +2,8 @@
 	"160": {
 		"0105": {
 			"name": "Unknown",
-			"message": "",
-			"short_description": "Unknown cause.",
+			"message": "There is a problem with the USB storage device.\n\nPlease contact the manufacturer of the device.\nCheck the device documentation for contact details.",
+			"short_description": "USB device error",
 			"long_description": "Unknown cause.",
 			"short_solution": "Unknown solution.",
 			"long_solution": "Unknown solution.",
