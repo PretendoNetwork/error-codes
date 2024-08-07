@@ -1,0 +1,13 @@
+{
+	"160": {
+		"0106": {
+			"name": "Unknown",
+			"message": "The USB storage device has been disconnected.\nPress and hold the POWER Button for at least four\nseconds to turn the console off, then make sure the device\nis connected properly.\n\nIf the problem persists, the USB storage device may not\nbe receiving enough power. Please use an AC adapter\nor USB Y cable, as applicable.",
+			"short_description": "USB device error",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/160-0106"
+		}
+	}
+}
