@@ -1,0 +1,13 @@
+{
+	"165": {
+		"9901": {
+			"name": "Unknown",
+			"message": "The update cannot be completed using a\nWii U GamePad designed for a different region.\nPlease check the GamePad screen.\n\nAfter the console has restarted, pair the\nGamePad supplied with your console by pressing the consoles SYNC Button twice.",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/160-9901"
+		}
+	}
+}
