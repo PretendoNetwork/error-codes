@@ -3,8 +3,8 @@
 		"1402": {
 			"name": "Unknown",
 			"message": "There is a problem with the disc drive.\n\nFor help, make a note of the error code and visit\nsupport.nintendo.com.",
-			"short_description": "Disc drive error",
-			"long_description": "Unknown cause.",
+			"short_description": "Optical Disc Drive error",
+			"long_description": "Optical Disc Drive error",
 			"short_solution": "Unknown solution.",
 			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/160-1402"
