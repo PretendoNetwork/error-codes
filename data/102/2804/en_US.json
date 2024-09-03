@@ -3,10 +3,10 @@
 		"2804": {
 			"name": "BANNED_ACCOUNT_IN_NEX_SERVICE",
 			"message": "",
-			"short_description": "Your PNID is permanently banned from this game",
-			"long_description": "Unknown cause.",
+			"short_description": "Your account is permanently banned from this game",
+			"long_description": "Your account is permanently banned from this game",
 			"short_solution": "Don't do whatever you did to get banned",
-			"long_solution": "Unknown solution.",
+			"long_solution": "Don't do whatever you did to get banned",
 			"support_link": "https://preten.do/102-2804"
 		}
 	}
