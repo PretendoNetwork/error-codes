@@ -5,8 +5,8 @@
 			"message": "The information entered is not correct.\nYou may have entered the ID of another\nservice.\n\nPlease enter the details again, making\nsure that the Nintendo Network ID,\npassword, and e-mail address are\ncorrect.",
 			"short_description": "Invalid account information provided. Either your username, password, or email address does not match.",
 			"long_description": "Invalid account information provided. Either your username, password, or email address does not match.",
-			"short_solution": "Enter the correct information and try again. You might also not be connected to Pretendo Network while trying to sign in with an NNID, or Nintendo Network while trying to sign in with a PNID.",
-			"long_solution": "Enter the correct information and try again. Double check if your information is correct by attempting to sign in on the Pretendo website. You might also not be connected to Pretendo Network while trying to sign in with an NNID, or Nintendo Network while trying to sign in with a PNID.",
+			"short_solution": "Enter the correct information and try again. You might also be connected to Pretendo Network while trying to sign in with an NNID, or Nintendo Network while trying to sign in with a PNID.",
+			"long_solution": "Enter the correct information and try again. Double check if your information is correct by attempting to sign in on the Pretendo website. You might also be connected to Pretendo Network while trying to sign in with an NNID, or Nintendo Network while trying to sign in with a PNID.",
 			"support_link": "https://preten.do/102-2613"
 		}
 	}
