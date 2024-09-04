@@ -2,11 +2,11 @@
 	"104": {
 		"2210": {
 			"name": "STOPPED_BY_POLICYLIST",
-			"message": "An error has occurred./n/nPlease try again later./n/nIf the problem persists, please\nmake a note of the error code and\nvisit su",
+			"message": "An error has occurred./n/nPlease try again later./n/nIf the problem persists, please\nmake a note of the error code and\nvisit support.nintendo.com",
 			"short_description": "Related to downloaded BOSS (SpotPass) content",
 			"long_description": "This error is related to your downloaded BOSS (SpotPass) data for the game you are playing. Either the content is missing or downloaded incorrectly. Most often seen in Splatoon.",
-			"short_solution": "Delete shared save data via Sytem Settings > Data Management. This will not delete any of your save data. Also make sure that your installation of Inkay is on the latest version. You can update Inkay via the GitHub page, Homebrew App Store, or the Aroma Updater.",
-			"long_solution": "- Review the [Wii U installation guide](https://pretendo.network/docs/install/wiiu). Ensure that you have installed [Nimble](https://github.com/PretendoNetwork/Nimble) and that the Aroma environment it is installed in is set to auto-boot. Otherwise Nimble may not start in time to patch the policylist request, and all BOSS data will fail to download.\n- If Nimble is installed and working, delete your games shared save data. This data typically contains the downloaded SpotPass content, triggering it to be redownloaded",
+			"short_solution": "Delete shared save data via Sytem Settings > Data Management. This will not delete any of your save data.",
+			"long_solution": "- Review the [Wii U installation guide](https://pretendo.network/docs/install/wiiu). Ensure that you have installed [Nimble](https://github.com/PretendoNetwork/Nimble) and that the Aroma environment it is installed in is set to auto-boot. Otherwise Nimble may not start in time to patch the policylist request, and all BOSS data will fail to download.\n- If Nimble is installed and working, delete your games shared save data. This data typically contains the downloaded SpotPass content, triggering it to be redownloaded. Also make sure that your installation of Inkay is on the latest version. You can update Inkay via the GitHub page, Homebrew App Store, or the Aroma Updater.",
 			"support_link": "https://preten.do/104-2210"
 		}
 	}

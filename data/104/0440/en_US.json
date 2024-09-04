@@ -3,7 +3,7 @@
     "0440": {
         "name": "Unknown",
         "message": "An error has occurred./n/nPlease try again later./n/nIf the problem persists, please\nmake a note of the error code and\nvisit support.nintendo.com.",
-        "short_description": "Unknown cause.",
+        "short_description": "Unknown cause.", 
         "long_description": "Unknown cause.",
         "short_solution": "Unknown solution.",
         "long_solution": "Unknown solution.",
