@@ -1,7 +1,7 @@
 {
 	"118": {
 		"0521": {
-			"name": "Unknown",
+			"name": "nn::pia::ResultNatTraversalRequestTimeout",
 			"message": "Failed to connect to partner's device,\nbecause partner did not respond.\n\nPlease try again later.",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",

@@ -1,7 +1,7 @@
 {
 	"018": {
 		"0501": {
-			"name": "Unknown",
+			"name": "nn::pia::ResultJoinRequestDenied",
 			"message": "Failed to connect to partner's device,\nbecause partner temporarily could not\naccept your transmission.\n\nPlease try again later",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",

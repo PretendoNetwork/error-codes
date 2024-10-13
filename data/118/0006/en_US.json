@@ -1,7 +1,7 @@
 {
 	"118": {
 		"0006": {
-			"name": "Unknown",
+			"name": "nn::pia::ResultNetworkConnectionIsLost",
 			"message": "You do not currently have\nan Internet connection.\n\nPlease try again later.",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",
