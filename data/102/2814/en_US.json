@@ -2,11 +2,11 @@
 	"102": {
 		"2814": {
 			"name": "BANNED_DEVICE_IN_NEX_SERVICE",
-			"message": "",
+			"message": "Online services cannot be used.\n\nPlease make note of the error code\nand visit support.nintendo.com.",
 			"short_description": "Your console is permanently banned from this game",
-			"long_description": "Unknown cause.",
+			"long_description": "Your console is permanently banned from this game",
 			"short_solution": "Don't do whatever you did to get banned",
-			"long_solution": "Unknown solution.",
+			"long_solution": "Don't do whatever you did to get banned",
 			"support_link": "https://preten.do/102-2814"
 		}
 	}

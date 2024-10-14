@@ -3,10 +3,10 @@
 		"0000": {
 			"name": "MY_SUCCESS",
 			"message": "",
-			"short_description": "Unknown cause.",
-			"long_description": "Unknown cause.",
-			"short_solution": "Unknown solution.",
-			"long_solution": "Unknown solution.",
+			"short_description": "Indicates a success.",
+			"long_description": "Indicates a success.",
+			"short_solution": "N/A",
+			"long_solution": "N/A",
 			"support_link": "https://preten.do/102-0000"
 		}
 	}
