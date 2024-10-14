@@ -1,7 +1,7 @@
 {
 	"118": {
 		"0512": {
-			"name": "Unknown",
+			"name": "nn::pia::ResultStationConnectionNatTraversalFailedEdm",
 			"message": "",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",

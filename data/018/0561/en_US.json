@@ -1,7 +1,7 @@
 {
 	"018": {
 		"0561": {
-			"name": "Unknown",
+			"name": "nn::pia::ResultGameServerMaintenance",
 			"message": "The server is currently undergoing\nmaintenance. We apologize for any\ninconvenience. Please try again later.\n\nTo learn more about maintenance,\nvisit support.nintendo.com",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",
