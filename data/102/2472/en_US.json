@@ -2,7 +2,7 @@
 	"102": {
 		"2472": {
 			"name": "INVALID_CLIENT_ID",
-			"message": "",
+			"message": "An error has occurred.\n\nPlease try again later.\n\nIf the problem persists, please\nvisit support.nintendo.com",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",
 			"short_solution": "Unknown solution.",
