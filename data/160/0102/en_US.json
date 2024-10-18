@@ -1,7 +1,7 @@
 {
 	"160": {
 		"0102": {
-			"name": "Unknown",
+			"name": "DATA_CORRUPTED",
 			"message": "",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",
