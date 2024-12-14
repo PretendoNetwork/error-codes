@@ -1,13 +1,13 @@
 {
 	"003": {
-		"1099": {
-			"name": "nn::ac::ResultNotFoundAccessPoint",
+		"3300": {
+			"name": "nn::ac::ResultUnsupportPlace",
 			"message": "",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",
 			"short_solution": "Unknown solution.",
 			"long_solution": "Unknown solution.",
-			"support_link": "https://preten.do/003-1099"
+			"support_link": "https://preten.do/003-3300"
 		}
 	}
 }

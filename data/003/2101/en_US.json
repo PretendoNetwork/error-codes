@@ -1,7 +1,7 @@
 {
 	"003": {
 		"2101": {
-			"name": "Unknown",
+			"name": "nn::ac::ResultFailedConnTest",
 			"message": "",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",
