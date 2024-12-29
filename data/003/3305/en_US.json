@@ -1,7 +1,7 @@
 {
 	"003": {
 		"3305": {
-			"name": "Unknown",
+			"name": "nn::ac::ResultUnsupportPlace",
 			"message": "This service is not available in your\nlocation. Please use another service",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",
