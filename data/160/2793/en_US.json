@@ -3,8 +3,8 @@
 		"2793": {
 			"name": "Unknown",
 			"message": "An error has occured.\n\nPlease press and hold the POWER Button for\nat least four seconds to turn the console off.",
-			"short_description": "Possibly missing files on the vWii",
-			"long_description": "Possibly missing files on the vWii",
+			"short_description": "Possibly missing files on the vWii.",
+			"long_description": "Possibly missing files on the vWii.",
 			"short_solution": "Run vWii decaffinator and then update the console.",
 			"long_solution": "Run vWii decaffinator and then update the console.",
 			"support_link": "https://preten.do/160-2793"

@@ -3,7 +3,7 @@
 		"1400": {
 			"name": "Unknown",
 			"message": "There is a problem with the disc drive.\n\nFor help, make a note of the error code and visit\nsupport.nintendo.com.",
-			"short_description": "Optical Disc Drive error",
+			"short_description": "Optical Disc Drive error.",
 			"long_description": "Optical Disc Drive error - Likely an issue with the Common Mode Filter.",
 			"short_solution": "To fix this requires soldering. Visit the support page for more information.",
 			"long_solution": "To fix this requires soldering. See https://gbatemp.net/threads/572879/ for more. (Thanks, Homebrew Discord. Speak to them for further assistance.)",

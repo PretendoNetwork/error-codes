@@ -3,9 +3,9 @@
 		"0103": {
 			"name": "MLC_DATA_CORRUPTED",
 			"message": "There is a problem with the system memory.\n\nFor help, make a note of the error code and visit\nsupport.nintendo.com",
-			"short_description": "MLC corruption error",
+			"short_description": "MLC corruption error.",
 			"long_description": "There was a problem with your systems memory. This is most often caused by failing NAND chips, but may also be due to corrupted title installations, or even unknown random MLC errors.",
-			"short_solution": "See support page",
+			"short_solution": "See support page.",
 			"long_solution": "Use https://github.com/GaryOderNichts/WiiUIdent immediately to identify which manufacturer produced your NAND chip. If you have a Hynix chip, your chip is likely failing. Your only solution is to try and backup your NAND entirely and move it to another device/chip.\n\nIf you do not have a Hynix chip, a title you tried to launch is likely corrupted. Try reinstalling the title.",
 			"support_link": "https://preten.do/160-0103"
 		}
