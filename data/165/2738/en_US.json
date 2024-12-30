@@ -1,0 +1,13 @@
+{
+	"165": {
+		"2738": {
+			"name": "Unknown",
+			"message": "An error has occurred with the Wii U GamePad.\nPlease hold down the POWER Button on the\nGamePad to turn it off, and then turn it on again.\n\nIf the problem persists, please make note of the\nerror code and visit support.nintendo.com.",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/165-2738"
+		}
+	}
+}

@@ -1,7 +1,7 @@
 {
 	"018": {
 		"0542": {
-			"name": "Unknown",
+			"name": "nn::pia::ResultMatchmakeSessionIsFull",
 			"message": "Failed to connect to partner's device,\nbecause the current session is full.\n\nPlease try again later",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",

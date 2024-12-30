@@ -1,7 +1,7 @@
 {
 	"018": {
 		"0547": {
-			"name": "Unknown",
+			"name": "nn::pia::ResultMeshConnectionIsLost",
 			"message": "A communication error has occurred.\n\nThere may be problems with the\nnetwork or the environment. To\nensure an optimal connection\nenvironment, move closer to the\naccess point and make sure that\nthere are no obstructions between\nyour system and the access point.\nIf this does not work, please try\nagain later",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",

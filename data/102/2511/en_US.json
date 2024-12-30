@@ -3,10 +3,10 @@
 		"2511": {
 			"name": "SYSTEM_UPDATE_REQUIRED",
 			"message": "In order to use online services, a\nsystem update is required.\n\nGo to System Settings to perform a\nsystem update.",
-			"short_description": "Your console is not up to date",
-			"long_description": "Unknown cause.",
-			"short_solution": "Update your console",
-			"long_solution": "Unknown solution.",
+			"short_description": "Your console is not up to date.",
+			"long_description": "Your console is not up to date.",
+			"short_solution": "Update your console.",
+			"long_solution": "Update your console.",
 			"support_link": "https://preten.do/102-2511"
 		}
 	}
