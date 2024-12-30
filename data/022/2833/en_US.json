@@ -2,11 +2,11 @@
 	"022": {
 		"2833": {
 			"name": "BANNED_DEVICE_IN_APPLICATION_TEMPORARILY",
-			"message": "",
+			"message": "Online services cannot be used.\n\nPlease make a note of the error code\nand visit support.nintendo.com.",
 			"short_description": "Your console is temporarily banned from this application",
-			"long_description": "Your console is temporarily banned from this application.",
+			"long_description": "Your console has been temporarily banned from this application for breaking the rules.",
 			"short_solution": "Wait for the ban to expire",
-			"long_solution": "Wait for the ban to expire.",
+			"long_solution": "Wait for the ban to expire or appeal it on the forum.",
 			"support_link": "https://preten.do/022-2833"
 		}
 	}
