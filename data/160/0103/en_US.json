@@ -1,7 +1,7 @@
 {
 	"160": {
 		"0103": {
-			"name": "Unknown",
+			"name": "MLC_DATA_CORRUPTED",
 			"message": "There is a problem with the system memory.\n\nFor help, make a note of the error code and visit\nsupport.nintendo.com",
 			"short_description": "MLC corruption error",
 			"long_description": "There was a problem with your systems memory. This is most often caused by failing NAND chips, but may also be due to corrupted title installations, or even unknown random MLC errors.",
