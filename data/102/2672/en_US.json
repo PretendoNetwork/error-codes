@@ -3,7 +3,7 @@
 		"2672": {
 			"name": "CREDIT_CARD_DECLINED",
 			"message": "The use of this credit card has\nbeen stopped.",
-			"short_description": "Unknown cause.",
+			"short_description": "The credit card has been declined.",
 			"long_description": "Unknown cause.",
 			"short_solution": "Unknown solution.",
 			"long_solution": "Unknown solution.",
