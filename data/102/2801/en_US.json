@@ -3,10 +3,10 @@
 		"2801": {
 			"name": "BANNED_ACCOUNT",
 			"message": "",
-			"short_description": "Your account has been banned",
-			"long_description": "Your account has been banned",
-			"short_solution": "Don't do whatever you did to get banned",
-			"long_solution": "Don't do whatever you did to get banned",
+			"short_description": "Your account has been banned.",
+			"long_description": "Your account has been banned.",
+			"short_solution": "Don't do whatever you did to get banned.",
+			"long_solution": "Don't do whatever you did to get banned.",
 			"support_link": "https://preten.do/102-2801"
 		}
 	}

@@ -4,9 +4,9 @@
 			"name": "ACCOUNT_ALREADY_DELETED",
 			"message": "This user cannot use network services.\n\nThe Nintendo Network ID linked to this\nuser has been deleted.",
 			"short_description": "The account linked to the user has been deleted.",
-			"long_description": "Unknown cause.",
+			"long_description": "The account linked to the user has been deleted.",
 			"short_solution": "Link a new Nintendo/Pretendo Network ID to the user.",
-			"long_solution": "Unknown solution.",
+			"long_solution": "Link a new Nintendo/Pretendo Network ID to the user.",
 			"support_link": "https://preten.do/102-2631"
 		}
 	}

@@ -4,9 +4,9 @@
 			"name": "INVALID_CREDIT_CARD_NUMBER",
 			"message": "Please check the credit-card\nnumber and try entering it again.",
 			"short_description": "The entered credit card number is incorrect.",
-			"long_description": "Unknown cause.",
+			"long_description": "The entered credit card number is incorrect.",
 			"short_solution": "Enter the correct credit card number.",
-			"long_solution": "Unknown solution.",
+			"long_solution": "Enter the correct credit card number.",
 			"support_link": "https://preten.do/102-2674"
 		}
 	}

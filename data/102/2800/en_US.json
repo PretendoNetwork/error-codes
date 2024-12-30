@@ -3,10 +3,10 @@
 		"2800": {
 			"name": "BANNED",
 			"message": "",
-			"short_description": "Either your account or console has been banned",
-			"long_description": "Either your account or console has been banned",
-			"short_solution": "Don't do whatever you did to get banned",
-			"long_solution": "Don't do whatever you did to get banned",
+			"short_description": "Either your account or console has been banned.",
+			"long_description": "Either your account or console has been banned.",
+			"short_solution": "Don't do whatever you did to get banned.",
+			"long_solution": "Don't do whatever you did to get banned.",
 			"support_link": "https://preten.do/102-2800"
 		}
 	}

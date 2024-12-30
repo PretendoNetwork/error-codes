@@ -3,10 +3,10 @@
 		"2821": {
 			"name": "BANNED_ACCOUNT_TEMPORARILY",
 			"message": "",
-			"short_description": "Your account has been temporarily banned",
-			"long_description": "Your account has been temporarily banned",
-			"short_solution": "Wait for the ban to expire, and don't do whatever you did to get banned",
-			"long_solution": "Wait for the ban to expire, and don't do whatever you did to get banned",
+			"short_description": "Your account has been temporarily banned.",
+			"long_description": "Your account has been temporarily banned.",
+			"short_solution": "Wait for the ban to expire, and don't do whatever you did to get banned.",
+			"long_solution": "Wait for the ban to expire, and don't do whatever you did to get banned.",
 			"support_link": "https://preten.do/102-2821"
 		}
 	}
