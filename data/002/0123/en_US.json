@@ -2,11 +2,11 @@
 	"002": {
 		"0123": {
 			"name": "Unknown",
-			"message": "You cannot use online services with this\nGame Card.\n\nFor help, visit support.nintendo.com",
-			"short_description": "Rom id is banned",
-			"long_description": "Unknown cause.",
-			"short_solution": "Unknown solution.",
-			"long_solution": "Unknown solution.",
+			"message": "You cannot use online services with this\nGame Card.\n\nFor help, visit support.nintendo.com.",
+			"short_description": "Rom ID is banned",
+			"long_description": "Rom ID is banned.\nOriginally caused by multiple sessions being online with the same card header on Nintendo Network. Anti-piracy measure involving banning game cards from online play.",
+			"short_solution": "This error is very unlikely to be used on Pretendo Network.",
+			"long_solution": "This error is very unlikely to be used on Pretendo Network.",
 			"support_link": "https://preten.do/002-0123"
 		}
 	}
