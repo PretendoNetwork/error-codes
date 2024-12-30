@@ -1,0 +1,13 @@
+{
+	"002": {
+		"3504": {
+			"name": "Unknown",
+			"message": "",
+			"short_description": "HTTP Error 504",
+			"long_description": "Unknown cause.",
+			"short_solution": "Unknown solution.",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/002-3504"
+		}
+	}
+}
