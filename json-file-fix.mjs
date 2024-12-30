@@ -37,13 +37,8 @@ fs.readdirSync(arg, { recursive: true, withFileTypes: true }).forEach(file => {
 		return;
 	}
 
-	if (errorObject["short_description"] === "N/A") errorObject["short_description"] = "Unknown cause.";
-	if (errorObject["long_description"] === "N/A") errorObject["long_description"] = "Unknown cause.";
-	if (errorObject["short_solution"] === "N/A") errorObject["short_solution"] = "Unknown solution.";
-	if (errorObject["long_solution"] === "N/A") errorObject["long_solution"] = "Unknown solution.";
-
-	const { 
-		short_description, 
+	const {
+		short_description,
 		long_description,
 		short_solution,
 		long_solution,
@@ -72,5 +67,5 @@ fs.readdirSync(arg, { recursive: true, withFileTypes: true }).forEach(file => {
 		}
 	});
 
-	fs.writeFileSync(fullPath, JSON.stringify(json, null, "\t"));	
+	fs.writeFileSync(fullPath, JSON.stringify(json, null, "\t"));
 });
