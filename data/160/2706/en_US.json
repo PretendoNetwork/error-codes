@@ -3,8 +3,8 @@
 		"2706": {
 			"name": "Unknown",
 			"message": "An error has occured.\n\nPlease press and hold the POWER Button for\nat least four seconds to turn the console off.",
-			"short_description": "Unknown cause.",
-			"long_description": "Unknown cause.",
+			"short_description": "An error occurred that requires a restart.",
+			"long_description": "A error occurred which cannot be resolved. The console must be restarted.",
 			"short_solution": "Unknown solution.",
 			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/160-2706"
