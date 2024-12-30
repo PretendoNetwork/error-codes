@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# This script processes all files in the data directory using jq to:
+# - Ensure all JSON files are formatted correctly with tabs
+# - Catch any JSON files with syntax errors and log them to error.log for fixing
+
 # Remove any existing error log
 rm -f error.log
 
