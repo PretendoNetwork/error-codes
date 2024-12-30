@@ -3,10 +3,10 @@
 		"2586": {
 			"name": "MAIL_ADDRESS_DOMAIN_NAME_NOT_RESOLVED",
 			"message": "",
-			"short_description": "The email address entered uses a domain which could not be located",
-			"long_description": "Unknown cause.",
-			"short_solution": "Enter a different email address",
-			"long_solution": "Unknown solution.",
+			"short_description": "The email address entered uses a domain which could not be located.",
+			"long_description": "The email address entered uses a domain which could not be located.",
+			"short_solution": "Enter a different email address.",
+			"long_solution": "Enter a different email address.",
 			"support_link": "https://preten.do/102-2586"
 		}
 	}

@@ -1,0 +1,13 @@
+{
+	"160": {
+		"1402": {
+			"name": "Unknown",
+			"message": "There is a problem with the disc drive.\n\nFor help, make a note of the error code and visit\nsupport.nintendo.com.",
+			"short_description": "Optical Disc Drive error.",
+			"long_description": "Optical Disc Drive error - may indicate a scratched or dirty disc, or a problem with the disc drive itself.",
+			"short_solution": "Make sure the optical disc is inserted correctly and is clean.",
+			"long_solution": "Make sure the optical disc is inserted correctly and is clean. Also ensure the disc drive is not blocked or obstructed and spins the disc properly.",
+			"support_link": "https://preten.do/160-1402"
+		}
+	}
+}

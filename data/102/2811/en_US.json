@@ -3,10 +3,10 @@
 		"2811": {
 			"name": "BANNED_DEVICE",
 			"message": "",
-			"short_description": "Unknown cause.",
-			"long_description": "Unknown cause.",
-			"short_solution": "Unknown solution.",
-			"long_solution": "Unknown solution.",
+			"short_description": "Your console has been banned.",
+			"long_description": "Your console has been banned.",
+			"short_solution": "Don't do whatever you did to get banned.",
+			"long_solution": "Don't do whatever you did to get banned.",
 			"support_link": "https://preten.do/102-2811"
 		}
 	}

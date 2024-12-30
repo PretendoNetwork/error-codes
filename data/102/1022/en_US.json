@@ -3,10 +3,10 @@
 		"1022": {
 			"name": "NOT_LOCAL_ACCOUNT",
 			"message": "The current user already has\na Nintendo Network ID.",
-			"short_description": "Unknown cause.",
-			"long_description": "Unknown cause.",
-			"short_solution": "Unknown solution.",
-			"long_solution": "Unknown solution.",
+			"short_description": "The user you are attempting to link an Nintendo/Pretendo Network ID to already has one linked.",
+			"long_description": "The user you are attempting to link an Nintendo/Pretendo Network ID to already has one linked.",
+			"short_solution": "Unlink the account or make a new user.",
+			"long_solution": "Unlink the account or make a new user.",
 			"support_link": "https://preten.do/102-1022"
 		}
 	}

@@ -3,10 +3,10 @@
 		"2575": {
 			"name": "MAIL_ADDRESS_NOT_ACCEPTABLE",
 			"message": "The e-mail address you entered is not\ncorrect.\n\nPlease check the e-mail address\nyou entered and try again.",
-			"short_description": "Invalid email address entered",
-			"long_description": "Unknown cause.",
-			"short_solution": "Enter a valid email address",
-			"long_solution": "Unknown solution.",
+			"short_description": "Invalid email address entered.",
+			"long_description": "Invalid email address entered.",
+			"short_solution": "Enter a valid email address.",
+			"long_solution": "Enter a valid email address.",
 			"support_link": "https://preten.do/102-2575"
 		}
 	}

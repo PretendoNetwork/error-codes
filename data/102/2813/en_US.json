@@ -3,10 +3,10 @@
 		"2813": {
 			"name": "BANNED_DEVICE_IN_APPLICATION",
 			"message": "",
-			"short_description": "Your console is permanently banned from this application",
-			"long_description": "Unknown cause.",
-			"short_solution": "Don't do whatever you did to get banned",
-			"long_solution": "Unknown solution.",
+			"short_description": "Your console is permanently banned from this application.",
+			"long_description": "Your console is permanently banned from this application.",
+			"short_solution": "Don't do whatever you did to get banned.",
+			"long_solution": "Don't do whatever you did to get banned.",
 			"support_link": "https://preten.do/102-2813"
 		}
 	}
