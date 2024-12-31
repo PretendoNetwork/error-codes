@@ -4,9 +4,9 @@
 			"name": "Unknown",
 			"message": "Miiverse functions are unavailable\non this system.\n\nFor details, please start Miiverse",
 			"short_description": "Your console has been banned from Juxtaposition",
-			"long_description": "Unknown cause.",
+			"long_description": "Your console has been banned from Juxtaposition.\n\nThis typically occurs because of a violation of the Code of Conduct, or other offenses on the Network or the Discord server.",
 			"short_solution": "Don't do whatever you did to get banned",
-			"long_solution": "Unknown solution.",
+			"long_solution": "For more information, launch the Miiverse app, or request to speak to a moderator in the [Discord server](https://discord.gg/pretendo).",
 			"support_link": "https://preten.do/015-5009"
 		}
 	}
