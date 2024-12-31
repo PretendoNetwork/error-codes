@@ -2,7 +2,7 @@
 	"022": {
 		"2800": {
 			"name": "BANNED",
-			"message": "",
+			"message": "An error has occured.\nPlease try again later.\n\nIf the problem persists, please\nmake a note of the error code and\nvisit support.nintendo.com.",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",
 			"short_solution": "Unknown solution.",

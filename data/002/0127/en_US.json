@@ -2,9 +2,9 @@
 	"002": {
 		"0127": {
 			"name": "Unknown",
-			"message": "",
-			"short_description": "Key hash is invalid",
-			"long_description": "Unknown cause.",
+			"message": "The online service is unavailable.\nPlease try again later.\n\nFor help, visit support.nintendo.com.",
+			"short_description": "Key hash is invalid.",
+			"long_description": "Key hash is invalid.",
 			"short_solution": "Unknown solution.",
 			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/002-0127"
