@@ -1,13 +1,13 @@
-	{
-	"598": {
-		"0011": {
-			"name": "598-0011",
-			"message": "",
-			"short_description": "User permanently banned",
-			"long_description": "Your Pretendo Network ID has been permanently banned from Juxtaposition.\n\nThis typically occurs because of a violation of the Code of Conduct, or other offenses on the Network or the Discord server.",
-			"short_solution": "Contact a moderator to appeal",
-			"long_solution": "For more information, launch the Miiverse app, or request to speak to a moderator in the [Discord server](https://discord.gg/pretendo).",
-			"support_link": "https://preten.do/598-0011"
+{
+	"015": {
+		"5011": {
+			"name": "Unknown",
+			"message": "In order to use this online service,\nthe other person must first set up\nMiiverse",
+			"short_description": "Juxtaposition account not initialized",
+			"long_description": "Unknown cause.",
+			"short_solution": "Boot the Miiverse applet from the home screen and complete setup",
+			"long_solution": "Unknown solution.",
+			"support_link": "https://preten.do/015-5011"
 		}
 	}
 }
