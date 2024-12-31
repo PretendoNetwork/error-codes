@@ -3,7 +3,7 @@
 		"0127": {
 			"name": "Unknown",
 			"message": "The online service is unavailable.\nPlease try again later.\n\nFor help, visit support.nintendo.com.",
-			"short_description": "Key hash is invalid",
+			"short_description": "Key hash is invalid.",
 			"long_description": "Unknown cause.",
 			"short_solution": "Unknown solution.",
 			"long_solution": "Unknown solution.",
