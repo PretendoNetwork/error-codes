@@ -3,7 +3,7 @@
 		"0102": {
 			"name": "Unknown",
 			"message": "This device's access to online services\nhas been restricted by Nintendo.\n\nFor help, visit support.nintendo.com.",
-			"short_description": "Device is banned",
+			"short_description": "Device is banned.",
 			"long_description": "Your account or Nintendo 3DS console has been banned from online play.",
 			"short_solution": "Don't do whatever you did to get banned.",
 			"long_solution": "Appeal the ban on the forum.",
