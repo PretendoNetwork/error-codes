@@ -5,7 +5,7 @@
 			"message": "The online service is unavailable.\nPlease try again later.\n\nFor help, visit support.nintendo.com.",
 			"short_description": "Serial number mismatch.",
 			"long_description": "Serial number mismatch: your console files used for online play have been tampered.",
-			"short_solution": "Revert your original serial or LocalFriendCodeSeed_B or report the issue",
+			"short_solution": "Revert your original serial or LocalFriendCodeSeed_B or report the issue.",
 			"long_solution": "Usually a result after bypassing a Nintendo Network ban by changing the LocalFriendCodeSeed_B. Revert the original LocalFriendCodeSeed_B or NAND backup. If you don't have a backup, join the Discord server for help.",
 			"support_link": "https://preten.do/002-0150"
 		}
