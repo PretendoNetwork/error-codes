@@ -4,7 +4,7 @@
 			"name": "Unknown",
 			"message": "This device's access to online services\nhas been restricted by Nintendo.\n\nFor help, visit support.nintendo.com.",
 			"short_description": "Product code is invalid.",
-			"long_description": "Unknown cause.",
+			"long_description": "Product code is invalid.",
 			"short_solution": "Unknown solution.",
 			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/002-0107"

@@ -4,7 +4,7 @@
 			"name": "Custom Pretendo Error",
 			"message": "The online service is unavailable.\nPlease try again later.\n\nFor help, visit support.nintendo.com.",
 			"short_description": "Error when registering new account.",
-			"long_description": "Unknown cause.",
+			"long_description": "Error when registering new account.",
 			"short_solution": "Try again later",
 			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/002-0151"
