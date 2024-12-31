@@ -3,7 +3,7 @@
 		"0107": {
 			"name": "Unknown",
 			"message": "This device's access to online services\nhas been restricted by Nintendo.\n\nFor help, visit support.nintendo.com.",
-			"short_description": "Product code is invalid",
+			"short_description": "Product code is invalid.",
 			"long_description": "Unknown cause.",
 			"short_solution": "Unknown solution.",
 			"long_solution": "Unknown solution.",
