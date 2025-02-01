@@ -1,4 +1,6 @@
 # Error Codes
+[![NPM Version](https://img.shields.io/npm/v/%40pretendonetwork%2Ferror-codes)](https://www.npmjs.com/package/@pretendonetwork/error-codes)
+
 Translated JSON files for known error codes used by the Wii U and 3DS
 
 ## Path Structure
