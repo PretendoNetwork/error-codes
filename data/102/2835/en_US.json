@@ -2,11 +2,11 @@
 	"102": {
 		"2835": {
 			"name": "BANNED_DEVICE_IN_INDEPENDENT_SERVICE_TEMPORARILY",
-			"message": "",
-			"short_description": "Your console is temporarily banned from this service.",
-			"long_description": "Your console is temporarily banned from this service.",
-			"short_solution": "Wait for the ban to expire and don't do whatever you did to get banned.",
-			"long_solution": "Wait for the ban to expire and don't do whatever you did to get banned.",
+			"message": "Online services cannot be used.\n\nPlease make a note of the error code\nand visit support.nintendo.com.",
+			"short_description": "Your console is temporarily banned from this service",
+			"long_description": "Your console has been temporarily banned from this service for breaking the rules.",
+			"short_solution": "Wait for the ban to expire",
+			"long_solution": "Wait for the ban to expire or appeal it on the forum.",
 			"support_link": "https://preten.do/102-2835"
 		}
 	}

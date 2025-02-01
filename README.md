@@ -47,8 +47,8 @@ Each file starts with 1 or 2 objects, each with 1 key each. The first object key
 			"message": "This Nintendo Network ID\ncannot be used.\n\nPlease make a note of the error code\nand visit support.nintendo.com.",
 			"short_description": "Your account is permanently banned from all aspects of the network.",
 			"long_description": "The account you are trying to use has been permanently banned from all aspects of the network. This includes, but is not limited to:\n\n- Miiverse\n- Game servers\n- 3rd party services which opt-in to respecting network bans",
-			"short_solution": "Not applicable.",
-			"long_solution": "Not applicable.",
+			"short_solution": "Don't do whatever you did to get banned",
+			"long_solution": "Appeal the ban on the forum.",
 			"support_link": "https://preten.do/102-2802"
 		}
 	}
