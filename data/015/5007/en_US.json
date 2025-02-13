@@ -3,10 +3,10 @@
 		"5007": {
 			"name": "Unknown",
 			"message": "Miiverse functions are unavailable\nto this Nintendo Network ID.\n\nFor details, please start Miiverse",
-			"short_description": "Your PNID has been banned from Juxtaposition",
-			"long_description": "This typically occurs because you are attempting to connect to Juxtaposition with a **Nintendo Network ID** instead of a **Pretendo Network ID**.\n\nThis can also occur if your Pretendo Network ID has been banned from using Juxtaposition.",
-			"short_solution": "N/A",
-			"long_solution": "For more information, launch the Miiverse app, or request to speak to a moderator in the [Discord server](https://invite.gg/pretendo)",
+			"short_description": "Your PNID has been banned from Juxtaposition.",
+			"long_description": "Your Pretendo Network ID has been banned from Juxtaposition.\n\nThis typically occurs because of a violation of the Code of Conduct, or other offenses on the Network or the Discord server.",
+			"short_solution": "Don't do whatever you did to get banned",
+			"long_solution": "For more information, launch the Miiverse app, or request to speak to a moderator in the [Discord server](https://discord.gg/pretendo).",
 			"support_link": "https://preten.do/015-5007"
 		}
 	}

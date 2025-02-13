@@ -2,11 +2,11 @@
 	"102": {
 		"2832": {
 			"name": "BANNED_DEVICE_ALL_TEMPORARILY",
-			"message": "",
-			"short_description": "Your console is temporarily banned from all aspects of the network.",
-			"long_description": "Your console has been temporarily banned from all aspects of the network. This includes, but is not limited to:\n\n- Miiverse\n- Game servers\n- 3rd party services which opt-in to respecting network bans.",
-			"short_solution": "Wait for the ban to expire.",
-			"long_solution": "Wait for the ban to expire.",
+			"message": "Online services are unavailable\non this console.\n\nPlease make a note of the error code\nand visit support.nintendo.com.",
+			"short_description": "Your console is temporarily banned from all aspects of the network",
+			"long_description": "Your console has been temporarily banned from all aspects of the network. This includes, but is not limited to:\n\n- Miiverse\n- Game servers\n- 3rd party services which opt-in to respecting network bans",
+			"short_solution": "Wait for the ban to expire",
+			"long_solution": "Wait for the ban to expire or appeal it on the forum.",
 			"support_link": "https://preten.do/102-2832"
 		}
 	}
