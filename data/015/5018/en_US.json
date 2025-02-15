@@ -1,0 +1,13 @@
+{
+	"015": {
+		"5018": {
+			"name": "Custom Pretendo Error",
+			"message": "Unable to connect to the server. Please try again later. If the problem persists, please make a note of the error code and visit support.nintendo.com.",
+			"short_description": "The provided Param Pack was invalid.",
+			"long_description": "The provided Param Pack was invalid.",
+			"short_solution": "Missing fix.",
+			"long_solution": "Missing fix.",
+			"support_link": "https://preten.do/015-5018"
+		}
+	}
+}

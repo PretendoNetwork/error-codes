@@ -1,12 +1,12 @@
 {
 	"115": {
 		"5015": {
-			"name": "Unknown",
+			"name": "Custom Pretendo Error",
 			"message": "Unable to connect to the server. Please try again later. If the problem persists, please make a note of the error code and visit support.nintendo.com.",
-			"short_description": "Server error",
-			"long_description": "This error indicates a connection problem with the server.",
-			"short_solution": "Check server status and try again later",
-			"long_solution": "- **Check our network status information**\n - Check our [Network Status page](https://stats.uptimerobot.com/R7E4wiGjJq) and ensure that there are no ongoing service outages.\n\n- **Ensure your Wii U can connect to the internet and try again**\n - Try performing a connection test in system settings. If the connection test fails, there is likely another issues on your network",
+			"short_description": "No Service Token was provided",
+			"long_description": "No Service Token was provided. Usually indicates your PNID is not linked to your console.",
+			"short_solution": "Make sure your PNID is actually linked to your user account.",
+			"long_solution": "Make sure your PNID is linked to your console. If it's not linked yet, make a new user on your console, add the account and try again. If this error code persists, join the [Pretendo Discord](https://invite.gg/pretendo) for help.",
 			"support_link": "https://preten.do/115-5015"
 		}
 	}

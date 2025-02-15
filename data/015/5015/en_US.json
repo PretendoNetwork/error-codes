@@ -1,12 +1,12 @@
 {
 	"015": {
 		"5015": {
-			"name": "Unknown",
+			"name": "Custom Pretendo Error",
 			"message": "Unable to connect to the server. Please try again later. If the problem persists, please make a note of the error code and visit support.nintendo.com.",
-			"short_description": "No Service Token was provided (custom Pretendo error)",
-			"long_description": "No Service Token was provided (custom Pretendo error). Usually indicates your PNID is not linked to your console.",
+			"short_description": "No Service Token was provided.",
+			"long_description": "No Service Token was provided. Usually indicates your PNID is not linked to your console.",
 			"short_solution": "Link your PNID on your console and try again.",
-			"long_solution": "Link your Pretendo Network ID.\n\nSteps:\n1. Open System Settings\n2. Select Nintendo Network ID.\n3. Go through the process and select existing ID if the account was already created in the past, otherwise select new ID. Note: if you see your NNID, follow this [link](https://preten.do/022-5432).\n4. Enter your credentials and select the Mii you want to use for your PNID. If you get error code 022-5432, follow the link in step 3.\n5. Open Miiverse, it will ask for your password the first time and confirm your email for your PNID if necessary. If Juxtaposition loads, congratulations, you have successfully set up your account!
+			"long_solution": "Link your Pretendo Network ID.\n\nSteps:\n1. Open System Settings\n2. Select Nintendo Network ID.\n3. Go through the process and select existing ID if the account was already created in the past, otherwise select new ID. Note: if you see your NNID, follow this [link](https://preten.do/022-5432).\n4. Enter your credentials and select the Mii you want to use for your PNID. If you get error code 022-5432, follow the link in step 3.\n5. Open Miiverse, it will ask for your password the first time and confirm your email for your PNID if necessary. If Juxtaposition loads, congratulations, you have successfully set up your account!",
 			"support_link": "https://preten.do/015-5015"
 		}
 	}
