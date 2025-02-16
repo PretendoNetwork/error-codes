@@ -5,7 +5,7 @@
 			"message": "Unable to parse service Token. Are you using a Nintendo Network ID?",
 			"short_description": "Service token present, unable to parsed (likely a Nintendo Network Account)",
 			"long_description": "The server could not correctly parse the service token. This typically occurs because you are attempting to connect to Juxtaposition with a **Nintendo Network ID** instead of a **Pretendo Network ID**.",
-			"short_solution": "Check if you are logging into a PNID and ran the patcher",
+			"short_solution": "Check if you are logging into a PNID and ran the patcher.",
 			"long_solution": "Ensure that the account you are using is a Pretendo Network ID, and that you have followed the setup guide for your console.",
 			"support_link": "https://preten.do/598-0020"
 		}
