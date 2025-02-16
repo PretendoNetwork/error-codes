@@ -1,5 +1,5 @@
 {
-	"115": {
+	"015": {
 		"1009": {
 			"name": "Unknown",
 			"message": "Miiverse functions are unavailable\non this console",
@@ -7,7 +7,7 @@
 			"long_description": "Your console has been permanently banned from Juxtaposition.\n\nThis typically occurs because of a violation of the Code of Conduct, or other offenses on the Network or the Discord server.",
 			"short_solution": "Don't do whatever you did to get banned.",
 			"long_solution": "Appeal the ban by requesting to speak to a moderator in the [Discord server](https://discord.gg/pretendo).",
-			"support_link": "https://preten.do/115-1009"
+			"support_link": "https://preten.do/015-1009"
 		}
 	}
 }

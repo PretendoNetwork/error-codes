@@ -1,5 +1,5 @@
 {
-	"115": {
+	"015": {
 		"1002": {
 			"name": "Unknown",
 			"message": "You cannot use Miiverse because it has\nbeen restricted in Parental Controls.",
@@ -7,7 +7,7 @@
 			"long_description": "Unknown cause.",
 			"short_solution": "Unknown solution.",
 			"long_solution": "Unknown solution.",
-			"support_link": "https://preten.do/115-1002"
+			"support_link": "https://preten.do/015-1002"
 		}
 	}
 }

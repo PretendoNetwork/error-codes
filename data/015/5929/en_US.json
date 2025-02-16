@@ -1,5 +1,5 @@
 {
-	"115": {
+	"015": {
 		"5929": {
 			"name": "Unknown",
 			"message": "Either this user does not exist or initial\nsettings haven't been configured for\nMiiverse.",
@@ -7,7 +7,7 @@
 			"long_description": "This user either didn't set up Juxtaposition or doesn't exist.",
 			"short_solution": "No fix.",
 			"long_solution": "No solution. Make sure the user you are attempting to enter exists.",
-			"support_link": "https://preten.do/115-5929"
+			"support_link": "https://preten.do/015-5929"
 		}
 	}
 }

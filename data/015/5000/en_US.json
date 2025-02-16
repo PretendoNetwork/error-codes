@@ -1,5 +1,5 @@
 {
-	"115": {
+	"015": {
 		"5000": {
 			"name": "Unknown",
 			"message": "Unable to connect to the server. Please try again later.",
@@ -7,7 +7,7 @@
 			"long_description": "Server could not be reached at this time.",
 			"short_solution": "Try again later.",
 			"long_solution": "Juxtaposition is down. Please try again later.",
-			"support_link": "https://preten.do/115-5000"
+			"support_link": "https://preten.do/015-5000"
 		}
 	}
 }

@@ -1,5 +1,5 @@
 {
-	"115": {
+	"015": {
 		"5921": {
 			"name": "Unknown",
 			"message": "No more comments can be added\nto this post.",
@@ -7,7 +7,7 @@
 			"long_description": "The post has received the limit amount of comments.",
 			"short_solution": "No fix.",
 			"long_solution": "No solution, you are not able to leave more comments to that post anymore.",
-			"support_link": "https://preten.do/115-5921"
+			"support_link": "https://preten.do/015-5921"
 		}
 	}
 }

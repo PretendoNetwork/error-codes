@@ -1,5 +1,5 @@
 {
-	"115": {
+	"015": {
 		"5008": {
 			"name": "Unknown",
 			"message": "You cannot post to Miiverse using\nthis Nintendo Network ID.\n\nFor details, please start Miiverse.",
@@ -7,7 +7,7 @@
 			"long_description": "Your Pretendo Network ID has been restricted from posting on Juxtaposition.\n\nThis typically occurs because of a violation of the Code of Conduct, or other offenses on the Network or the Discord server.",
 			"short_solution": "Contact a moderator to appeal.",
 			"long_solution": "For more information, launch the Miiverse app, or request to speak to a moderator in the [Discord server](https://discord.gg/pretendo).",
-			"support_link": "https://preten.do/115-5008"
+			"support_link": "https://preten.do/015-5008"
 		}
 	}
 }

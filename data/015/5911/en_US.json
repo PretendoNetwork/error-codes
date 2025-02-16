@@ -1,5 +1,5 @@
 {
-	"115": {
+	"015": {
 		"5911": {
 			"name": "Unknown",
 			"message": "You cannot create any more\ncommunities.\n\nTo create a new community, you\nmust delete an existing one first.",
@@ -7,7 +7,7 @@
 			"long_description": "The maximum of communities has been reached, making impossible the creation of new ones.",
 			"short_solution": "Delete an existing community.",
 			"long_solution": "Delete an existing community to make space for new ones and try again.",
-			"support_link": "https://preten.do/115-5911"
+			"support_link": "https://preten.do/015-5911"
 		}
 	}
 }

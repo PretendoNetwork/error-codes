@@ -1,5 +1,5 @@
 {
-	"115": {
+	"015": {
 		"5913": {
 			"name": "Unknown",
 			"message": "You cannot create a community because\nyou cannot add any more communities \nto your favorites.\n\nTo create a new community, you must\nremove at least one community from\nyour favorites.",
@@ -7,7 +7,7 @@
 			"long_description": "The maximum of communities from your favourites has been reached, making impossible the creation of new ones.",
 			"short_solution": "Remove a community from your favorites",
 			"long_solution": "Remove an existing community from your favourites and try again.",
-			"support_link": "https://preten.do/115-5913"
+			"support_link": "https://preten.do/015-5913"
 		}
 	}
 }

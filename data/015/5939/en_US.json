@@ -1,5 +1,5 @@
 {
-	"115": {
+	"015": {
 		"5939": {
 			"name": "Unknown",
 			"message": "Unable to connect to the server. Please try again later. If the problem persists, please make a note of the error code and visit support.nintendo.com.",
@@ -7,7 +7,7 @@
 			"long_description": "Missing description.",
 			"short_solution": "Missing fix.",
 			"long_solution": "Missing fix.",
-			"support_link": "https://preten.do/115-5939"
+			"support_link": "https://preten.do/015-5939"
 		}
 	}
 }
