@@ -3,7 +3,7 @@
 		"5015": {
 			"name": "Custom Pretendo Error",
 			"message": "Unable to connect to the server. Please try again later. If the problem persists, please make a note of the error code and visit support.nintendo.com.",
-			"short_description": "No Service Token was provided",
+			"short_description": "No Service Token was provided.",
 			"long_description": "No Service Token was provided. Usually indicates your PNID is not linked to your console.",
 			"short_solution": "Make sure your PNID is actually linked to your user account.",
 			"long_solution": "Make sure your PNID is linked to your console. If it's not linked yet, make a new user on your console, add the account and try again. If this error code persists, join the [Pretendo Discord](https://invite.gg/pretendo) for help.",

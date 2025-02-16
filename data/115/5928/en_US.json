@@ -3,7 +3,7 @@
 		"5928": {
 			"name": "Unknown",
 			"message": "You cannot add this community to\nyour favorites.",
-			"short_description": "Community could not be added to your favorites",
+			"short_description": "Community could not be added to your favorites.",
 			"long_description": "This community you were attempting cannot be added to your favorites.",
 			"short_solution": "Try again later.",
 			"long_solution": "Try again later.",

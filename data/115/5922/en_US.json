@@ -3,7 +3,7 @@
 		"5922": {
 			"name": "Unknown",
 			"message": "This user cannot be followed.",
-			"short_description": "Could not follow user",
+			"short_description": "Could not follow user.",
 			"long_description": "This user can't be followed because they don't allow followers.",
 			"short_solution": "No fix.",
 			"long_solution": "No solution, this user won't accept new followers.",

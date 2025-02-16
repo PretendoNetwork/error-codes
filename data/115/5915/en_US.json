@@ -3,9 +3,9 @@
 		"5915": {
 			"name": "Unknown",
 			"message": "You cannot add any more communities\nto your favorites.\n\nTo add a new favorite, you must\nremove at least one community from\nyour favorites.",
-			"short_description": "Community favorites are full",
+			"short_description": "Community favorites are full.",
 			"long_description": "Your community favourite section is full.",
-			"short_solution": "Remove a community from your favorites",
+			"short_solution": "Remove a community from your favorites.",
 			"long_solution": "Remove a community from your favourites and try again.",
 			"support_link": "https://preten.do/115-5915"
 		}
