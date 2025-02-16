@@ -2,11 +2,11 @@
 	"015": {
 		"5932": {
 			"name": "Unknown",
-			"message": "Post does not exist",
-			"short_description": "Post not found",
-			"long_description": "Unknown cause.",
-			"short_solution": "Verify the post you are trying to access exists",
-			"long_solution": "Unknown solution.",
+			"message": "This post does not exist.",
+			"short_description": "Post not found.",
+			"long_description": "The post you were tring to view can't be found.",
+			"short_solution": "Verify the post you are trying to access exists.",
+			"long_solution": "Make sure the post you were trying to access exists. If it doesn't, it could either be removed by a moderator for violating the Juxt Code of Conduct or just removed by the OP.",
 			"support_link": "https://preten.do/015-5932"
 		}
 	}

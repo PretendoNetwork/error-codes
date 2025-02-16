@@ -3,10 +3,10 @@
 		"5926": {
 			"name": "Unknown",
 			"message": "You cannot Yeah! your own post.",
-			"short_description": "Trying to Yeah! your own post",
-			"long_description": "Unknown cause.",
-			"short_solution": "Don't do that",
-			"long_solution": "Unknown solution.",
+			"short_description": "Trying to Yeah! your own post.",
+			"long_description": "You are attempting to leave a Yeah! on your own post.",
+			"short_solution": "Don't do that.",
+			"long_solution": "No solution. Yeah! other people's posts instead.",
 			"support_link": "https://preten.do/115-5926"
 		}
 	}

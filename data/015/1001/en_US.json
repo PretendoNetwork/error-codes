@@ -2,7 +2,7 @@
 	"015": {
 		"1001": {
 			"name": "Unknown",
-			"message": "A system update is required.\n\nTo perform a system update, select\nSystem Update from Other Settings\nin System Settings",
+			"message": "A system update is required.\n\nGo to System Settings to perform\na system update.",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",
 			"short_solution": "Unknown solution.",

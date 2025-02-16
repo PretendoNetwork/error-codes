@@ -3,10 +3,10 @@
 		"2611": {
 			"name": "WRONG_ACCOUNT_PASSWORD",
 			"message": "Incorrect password",
-			"short_description": "Incorrect password",
-			"long_description": "Unknown cause.",
-			"short_solution": "Enter your password again or reset your password and try again",
-			"long_solution": "Unknown solution.",
+			"short_description": "Incorrect password.",
+			"long_description": "Incorrect password.",
+			"short_solution": "Enter your password again or reset your password and try again.",
+			"long_solution": "Enter your password again or reset your password and try again.",
 			"support_link": "https://preten.do/022-2611"
 		}
 	}

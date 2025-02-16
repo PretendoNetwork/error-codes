@@ -3,10 +3,10 @@
 		"2641": {
 			"name": "ACCOUNT_TOKEN_EXPIRED",
 			"message": "",
-			"short_description": "The token provided is expired",
-			"long_description": "Unknown cause.",
-			"short_solution": "Log in again or restart your application or console and try again",
-			"long_solution": "Unknown solution.",
+			"short_description": "The token provided is expired.",
+			"long_description": "The token provided is expired.",
+			"short_solution": "Log in again or restart your application or console and try again.",
+			"long_solution": "Log in again or restart your application or console and try again.",
 			"support_link": "https://preten.do/022-2641"
 		}
 	}

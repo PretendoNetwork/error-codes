@@ -2,11 +2,11 @@
 	"022": {
 		"2804": {
 			"name": "BANNED_ACCOUNT_IN_NEX_SERVICE",
-			"message": "",
-			"short_description": "Your PNID is permanently banned from this game",
-			"long_description": "Unknown cause.",
-			"short_solution": "Don't do whatever you did to get banned",
-			"long_solution": "Unknown solution.",
+			"message": "Online services cannot be used.\n\nPlease make a note of the error code\nand visit support.nintendo.com.",
+			"short_description": "Your PNID is permanently banned from this game.",
+			"long_description": "The account you are trying to use has been permanently banned from this game for breaking the rules.",
+			"short_solution": "Appeal the ban on the forum.",
+			"long_solution": "Appeal the ban on the [forum](https://forum.pretendo.network).",
 			"support_link": "https://preten.do/022-2804"
 		}
 	}

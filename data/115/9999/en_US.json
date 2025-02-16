@@ -3,10 +3,10 @@
 		"9999": {
 			"name": "Unknown",
 			"message": "Unable to connect to the server.\n\nPlease try again later.\n\nIf the problem persists, please\nmake a note of the error code and\nvisit support.nintendo.com.",
-			"short_description": "Connection is unstable",
-			"long_description": "Unknown cause.",
-			"short_solution": "Try again later",
-			"long_solution": "Unknown solution.",
+			"short_description": "Connection is unstable.",
+			"long_description": "Your connection may be unstable.",
+			"short_solution": "Try again later.",
+			"long_solution": "Try again later. If the error persists, check your Internet connection or check the Pretendo status page.",
 			"support_link": "https://preten.do/115-9999"
 		}
 	}

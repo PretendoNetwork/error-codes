@@ -3,10 +3,10 @@
 		"2881": {
 			"name": "UNDER_MAINTENANCE",
 			"message": "The server is currently undergoing\nmaintenance. We apologize for any\ninconvenience. Please try again later.\n\nTo learn more about maintenance,\nvisit support.nintendo.com",
-			"short_description": "The server you requested is under maintenance",
-			"long_description": "Unknown cause.",
-			"short_solution": "Try again later",
-			"long_solution": "Unknown solution.",
+			"short_description": "The server you requested is under maintenance.",
+			"long_description": "The server you requested is under maintenance.",
+			"short_solution": "Try again later.",
+			"long_solution": "Try again later.",
 			"support_link": "https://preten.do/022-2881"
 		}
 	}

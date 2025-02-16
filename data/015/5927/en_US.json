@@ -2,11 +2,11 @@
 	"015": {
 		"5927": {
 			"name": "Unknown",
-			"message": "You cannot Yeah! this post",
-			"short_description": "The post being Yeah!ed cannot be Yeah!ed",
-			"long_description": "Unknown cause.",
-			"short_solution": "Try again later",
-			"long_solution": "Unknown solution.",
+			"message": "You cannot Yeah! this post.",
+			"short_description": "The post being Yeah!ed cannot be Yeah!ed.",
+			"long_description": "The post you were attempting to interact cannot be Yeah!ed.",
+			"short_solution": "Try again later.",
+			"long_solution": "Try again later.",
 			"support_link": "https://preten.do/015-5927"
 		}
 	}

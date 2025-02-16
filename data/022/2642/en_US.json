@@ -3,10 +3,10 @@
 		"2642": {
 			"name": "INVALID_ACCOUNT_TOKEN",
 			"message": "",
-			"short_description": "The login token provided is invalid",
-			"long_description": "Unknown cause.",
-			"short_solution": "Restart your application or console and try again",
-			"long_solution": "Unknown solution.",
+			"short_description": "The login token provided is invalid.",
+			"long_description": "The login token provided is invalid.",
+			"short_solution": "Restart your application or console and try again.",
+			"long_solution": "Restart your application or console and try again.",
 			"support_link": "https://preten.do/022-2642"
 		}
 	}

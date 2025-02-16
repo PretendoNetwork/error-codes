@@ -3,10 +3,10 @@
 		"5929": {
 			"name": "Unknown",
 			"message": "Either this user does not exist or initial\nsettings haven't been configured for\nMiiverse.",
-			"short_description": "Other users Juxtaposition account not initialized",
-			"long_description": "Unknown cause.",
-			"short_solution": "No fix",
-			"long_solution": "Unknown solution.",
+			"short_description": "This account doesn't exist on Juxtaposition.",
+			"long_description": "This user either didn't set up Juxtaposition or doesn't exist.",
+			"short_solution": "No fix.",
+			"long_solution": "No solution. Make sure the user you are attempting to enter exists.",
 			"support_link": "https://preten.do/115-5929"
 		}
 	}

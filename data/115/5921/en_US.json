@@ -3,10 +3,10 @@
 		"5921": {
 			"name": "Unknown",
 			"message": "No more comments can be added\nto this post.",
-			"short_description": "Post cannot receive anymore comments",
-			"long_description": "Unknown cause.",
-			"short_solution": "No fix",
-			"long_solution": "Unknown solution.",
+			"short_description": "Post cannot receive anymore comments.",
+			"long_description": "The post has received the limit amount of comments.",
+			"short_solution": "No fix.",
+			"long_solution": "No solution, you are not able to leave more comments to that post anymore.",
 			"support_link": "https://preten.do/115-5921"
 		}
 	}

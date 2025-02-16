@@ -2,11 +2,11 @@
 	"015": {
 		"5901": {
 			"name": "Unknown",
-			"message": "The text you entered contains\ninappropriate words or phrases",
-			"short_description": "Content posted contains text not allowed",
-			"long_description": "Unknown cause.",
-			"short_solution": "Edit your post",
-			"long_solution": "Unknown solution.",
+			"message": "The text you entered contains\ninappropriate words or phrases.",
+			"short_description": "Content posted contains text not allowed.",
+			"long_description": "The post you have been trying to submit contains invalid words or text.",
+			"short_solution": "Edit your post.",
+			"long_solution": "Edit your post. Make sure you are following [Juxt Code of Conduct](https://forum.pretendo.network/t/juxtaposition-code-of-conduct/8407) before submitting. Attempting to bypass the filter is considered a violation of Juxt Code of Conduct Rule 7 and can result in actions taken by the moderators.",
 			"support_link": "https://preten.do/015-5901"
 		}
 	}
