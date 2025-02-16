@@ -5,7 +5,7 @@
 			"message": "You cannot access Nintendo Network\nservices using this system. \n\nPlease make a note of the error code\nand visit support.nintendo.com.",
 			"short_description": "Your console is permanently banned from all aspects of the network.",
 			"long_description": "Your console has been permanently banned from all aspects of the network. This includes, but is not limited to:\n\n- Miiverse\n- Game servers\n- 3rd party services which opt-in to respecting network bans.",
-			"short_solution": "Don't do whatever you did to get banned",
+			"short_solution": "Don't do whatever you did to get banned.",
 			"long_solution": "Appeal the ban on the forum.",
 			"support_link": "https://preten.do/022-2812"
 		}

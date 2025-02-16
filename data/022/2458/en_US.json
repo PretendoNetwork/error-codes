@@ -3,10 +3,10 @@
 		"2458": {
 			"name": "UNAUTHORIZED_CLIENT",
 			"message": "",
-			"short_description": "The HTTP client was not authorized to make the request",
-			"long_description": "Unknown cause.",
-			"short_solution": "Try again later or on a different device",
-			"long_solution": "Unknown solution.",
+			"short_description": "The HTTP client was not authorized to make the request.",
+			"long_description": "The HTTP client was not authorized to make the request.",
+			"short_solution": "Try again later or on a different device.",
+			"long_solution": "Try again later or on a different device.",
 			"support_link": "https://preten.do/022-2458"
 		}
 	}
