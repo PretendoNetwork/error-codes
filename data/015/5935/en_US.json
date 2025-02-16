@@ -1,0 +1,13 @@
+{
+	"115": {
+		"5935": {
+			"name": "Unknown",
+			"message": "You cannot comment on this post.",
+			"short_description": "Post could not be commented on.",
+			"long_description": "This post can't be commented on. Probably the comments for that posts are disabled.",
+			"short_solution": "No fix.",
+			"long_solution": "No solution.",
+			"support_link": "https://preten.do/115-5935"
+		}
+	}
+}

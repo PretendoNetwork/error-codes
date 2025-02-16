@@ -1,13 +1,13 @@
 {
-	"015": {
+	"115": {
 		"5911": {
 			"name": "Unknown",
-			"message": "You cannot create any more\ncommunities.\n\nTo create a new community, you\nmust delete an existing one first",
-			"short_description": "Cannot create anymore communities due to max being reached",
-			"long_description": "Unknown cause.",
-			"short_solution": "Delete an existing community",
-			"long_solution": "Unknown solution.",
-			"support_link": "https://preten.do/015-5911"
+			"message": "You cannot create any more\ncommunities.\n\nTo create a new community, you\nmust delete an existing one first.",
+			"short_description": "Cannot create anymore communities due to max being reached.",
+			"long_description": "The maximum of communities has been reached, making impossible the creation of new ones.",
+			"short_solution": "Delete an existing community.",
+			"long_solution": "Delete an existing community to make space for new ones and try again.",
+			"support_link": "https://preten.do/115-5911"
 		}
 	}
 }

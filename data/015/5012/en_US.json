@@ -1,13 +1,13 @@
 {
-	"015": {
+	"115": {
 		"5012": {
 			"name": "Unknown",
-			"message": "Disconnected from the server.\n\nYou must have started Miiverse\nat least once before you can\nuse this online service.\n\nPlease start Miiverse from\nthe HOME Menu",
+			"message": "The connection with the server was lost.\n\nBefore you can use this online service,\nyou must start Miiverse at least once.\n\nPlease start Miiverse from the\nHOME Menu.",
 			"short_description": "Connection is unstable or Juxtaposition account not initialized",
-			"long_description": "Unknown cause.",
-			"short_solution": "Boot the Miiverse applet from the home screen and complete setup, then try again",
-			"long_solution": "Unknown solution.",
-			"support_link": "https://preten.do/015-5012"
+			"long_description": "Your connection is unstable or your Juxtaposition account has been not initialized.",
+			"short_solution": "Boot the Miiverse applet from the home screen and complete setup, then try again.",
+			"long_solution": "Boot the Miiverse applet from the home screen and complete setup, then try again.",
+			"support_link": "https://preten.do/115-5012"
 		}
 	}
 }

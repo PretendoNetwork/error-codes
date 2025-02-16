@@ -1,13 +1,13 @@
 {
-	"015": {
+	"115": {
 		"5919": {
 			"name": "Unknown",
-			"message": "The community does not exist",
+			"message": "The community does not exist.",
 			"short_description": "Community not found",
-			"long_description": "Unknown cause.",
-			"short_solution": "Verify the community you are trying to access exists",
-			"long_solution": "Unknown solution.",
-			"support_link": "https://preten.do/015-5919"
+			"long_description": "The community you are trying to access does not exist.",
+			"short_solution": "Verify the community you are trying to access exists.",
+			"long_solution": "Make sure the community you are trying to enter exists.",
+			"support_link": "https://preten.do/115-5919"
 		}
 	}
 }

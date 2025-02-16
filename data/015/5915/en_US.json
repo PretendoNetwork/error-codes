@@ -1,13 +1,13 @@
 {
-	"015": {
+	"115": {
 		"5915": {
 			"name": "Unknown",
-			"message": "You cannot add any more communities\nto your favorites.\n\nTo add a new favorite, you must\nremove at least one community from\nyour favorites",
-			"short_description": "Community favorites for are full",
-			"long_description": "Unknown cause.",
+			"message": "You cannot add any more communities\nto your favorites.\n\nTo add a new favorite, you must\nremove at least one community from\nyour favorites.",
+			"short_description": "Community favorites are full",
+			"long_description": "Your community favourite section is full.",
 			"short_solution": "Remove a community from your favorites",
-			"long_solution": "Unknown solution.",
-			"support_link": "https://preten.do/015-5915"
+			"long_solution": "Remove a community from your favourites and try again.",
+			"support_link": "https://preten.do/115-5915"
 		}
 	}
 }
