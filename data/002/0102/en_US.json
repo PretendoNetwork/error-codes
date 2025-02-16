@@ -5,7 +5,7 @@
 			"message": "This device's access to online services\nhas been restricted by Nintendo.\n\nFor help, visit support.nintendo.com.",
 			"short_description": "Device is banned.",
 			"long_description": "Your account or Nintendo 3DS console has been banned from online play.",
-			"short_solution": "Don't do whatever you did to get banned.",
+			"short_solution": "Appeal the ban in the Discord server.",
 			"long_solution": "Appeal the ban by requesting to speak to a moderator in the [Discord server](https://invite.gg/pretendo).",
 			"support_link": "https://preten.do/002-0102"
 		}

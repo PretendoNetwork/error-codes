@@ -5,8 +5,8 @@
 			"message": "Online services cannot be used.\n\nPlease make a note of the error code\nand visit support.nintendo.com.",
 			"short_description": "Your console is permanently banned from this application.",
 			"long_description": "Your console has been permanently banned from this application for breaking the rules.",
-			"short_solution": "Don't do whatever you did to get banned.",
-			"long_solution": "Appeal the ban on the forum.",
+			"short_solution": "Appeal the ban on the forum.",
+			"long_solution": "Appeal the ban on the [forum](https://forum.pretendo.network).",
 			"support_link": "https://preten.do/102-2813"
 		}
 	}
