@@ -2,7 +2,7 @@
 	"015": {
 		"5015": {
 			"name": "Custom Pretendo Error",
-			"message": "Unable to connect to the server. Please try again later. If the problem persists, please make a note of the error code and visit support.nintendo.com.",
+			"message": "An error has occured. Please try again later. If the problem persists, please make a note of the error code and visit support.nintendo.com.",
 			"short_description": "No Service Token was provided.",
 			"long_description": "No Service Token was provided. Usually indicates your PNID is not linked to your console.",
 			"short_solution": "Link your PNID on your console and try again.",

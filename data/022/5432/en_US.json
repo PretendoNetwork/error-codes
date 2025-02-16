@@ -2,7 +2,7 @@
 	"022": {
 		"5432": {
 			"name": "Unknown",
-			"message": "",
+			"message": "An error has occured. Please try again later. If the problem persists, please make a note of the error code and visit support.nintendo.com.",
 			"short_description": "Unknown cause.",
 			"long_description": "Unknown cause.",
 			"short_solution": "Open Nimbus and switch to Nintendo servers, then open the Nintendo eShop. After it loads or returns and error code, come back to Pretendo servers and try again.",
