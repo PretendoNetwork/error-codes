@@ -3,7 +3,7 @@
 		"0101": {
 			"name": "Unknown",
 			"message": "Either the network is experiencing high\ntraffic volumes or the service is down.\nPlease try again later.\n\nFor help, visit support.nintendo.com",
-			"short_description": "Game server is under maintenance",
+			"short_description": "Game server is under maintenance.",
 			"long_description": "The game server you have been trying to connect is currently under maintenance.",
 			"short_solution": "Try again later.",
 			"long_solution": "Check our [Network Status page](https://stats.uptimerobot.com/R7E4wiGjJq) or join our [Discord server](https://invite.gg/pretendo) for updates.",
