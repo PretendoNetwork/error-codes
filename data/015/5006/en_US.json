@@ -3,9 +3,9 @@
 		"5006": {
 			"name": "Unknown",
 			"message": "You may not post to Miiverse due to a restriction in Parental Controls.",
-			"short_description": "Parental Controls have blocked your ability to post on Juxtaposition",
+			"short_description": "Parental Controls have blocked your ability to post on Juxtaposition.",
 			"long_description": "This error occurs when posting to Miiverse has been disallowed by Parental Controls.",
-			"short_solution": "Review your Parental Controls settings",
+			"short_solution": "Review your Parental Controls settings.",
 			"long_solution": "Disable Parental Controls.",
 			"support_link": "https://preten.do/015-5006"
 		}

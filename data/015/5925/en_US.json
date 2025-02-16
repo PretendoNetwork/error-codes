@@ -3,7 +3,7 @@
 		"5925": {
 			"name": "Unknown",
 			"message": "The community does not exist.",
-			"short_description": "Community not found",
+			"short_description": "Community not found.",
 			"long_description": "The community you are trying to access does not exist.",
 			"short_solution": "Verify the community you are trying to access exists.",
 			"long_solution": "Make sure the community you are trying to enter exists.",
