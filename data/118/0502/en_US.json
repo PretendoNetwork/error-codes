@@ -3,10 +3,10 @@
 		"0502": {
 			"name": "nn::pia::ResultStationConnectionFailed",
 			"message": "Failed to connect to partner's device,\nbecause partner did not respond.\n\nPlease try again later.",
-			"short_description": "Unknown cause.",
-			"long_description": "Unknown cause.",
-			"short_solution": "Unknown solution.",
-			"long_solution": "Unknown solution.",
+			"short_description": "Could not connect to the game servers.",
+			"long_description": "There was a problem connecting to the game servers. This is most likely due to the servers being unstable or overloaded.",
+			"short_solution": "The game servers are most likely unstable or overloaded. If this issue persists, please check the server status for maintenance, or try again later.",
+			"long_solution": "You can simply try again, but if this issue persists, please check the server status at https://status.pretendo.zip/ and check for any maintenance.",
 			"support_link": "https://preten.do/118-0502"
 		}
 	}
