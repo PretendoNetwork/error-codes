@@ -5,7 +5,7 @@
 			"message": "Could not connect to the server. \n\nPlease try again later.",
 			"short_description": "Couldn't connect to the Friends server.",
 			"long_description": "There was a problem connecting to the Friends server. This is most likely due to the servers being unstable or overloaded.",
-			"short_solution": "The game servers are likely unstable or overloaded. If this issue persists, please check the server status for maintenance, or try again later.",
+			"short_solution": "The Friends server is most likely unstable or overloaded. If this issue persists, please check the server status for maintenance, or try again later.",
 			"long_solution": "You can simply try again, but if this issue persists, please check the server status at https://status.pretendo.zip/ and check for any maintenance.",
 			"support_link": "https://preten.do/101-0502"
 		}
