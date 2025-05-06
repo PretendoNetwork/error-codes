@@ -2,11 +2,11 @@
 	"103": {
 		"1607": {
 			"name": "Unknown",
-			"message": "",
-			"short_description": "Unknown cause.",
-			"long_description": "Unknown cause.",
-			"short_solution": "Make sure your console is in range of your Wi-Fi network, and check the settings are correct. Make sure the 'Default' connection in Internet Settings is set correctly.",
-			"long_solution": "Unknown solution.",
+			"message": "Could not find any network devices, such as routers or modems. There could be a number of reasons for this, such as the LAN cable not being connected correctly or the network device not being turned on. Please check that the LAN cable and other connections are secure and that the network-device settings are correct.",
+			"short_description": "The Wii LAN Adapter could not find a network device.",
+			"long_description": "The WII LAN Adapter could not find a network device.",
+			"short_solution": "Ensure that the network device is powered on and that the Wii LAN Adapter is correctly connected to the Wii U console and the network device.",
+			"long_solution": "Ensure that the router/modem is powered on, and if so, power cycle. Ensure that the LAN Adapter is correctly connected to the console and network device.",
 			"support_link": "https://preten.do/103-1607"
 		}
 	}

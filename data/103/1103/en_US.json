@@ -2,11 +2,11 @@
 	"103": {
 		"1103": {
 			"name": "Unknown",
-			"message": "",
-			"short_description": "Unknown cause.",
-			"long_description": "Unknown cause.",
-			"short_solution": "Make sure your console is in range of your Wi-Fi network, and check the settings are correct. Make sure the 'Default' connection in Internet Settings is set correctly.",
-			"long_solution": "Unknown solution.",
+			"message": "Unable to connect to the Wi-Fi network.\n\nThe security key you entered may not\nbe correct. \n\nReview the security settings for your\nwireless router, and enter the security\nkey again. The Wii U security settings\ncan be found under the Internet option\nin System Settings.\n\nMake sure the Wii U console is within\nrange of your wireless router.\n\nMove any electronics away from the\nWii U console and your wireless router. \n\nTry changing the wireless channel\nwithin the settings of your wireless\nrouter.\n\nIf you are unable to access or change\nyour wireless-router settings, please\ncontact the manufacturer for support.",
+			"short_description": "The Wi-Fi password has most likely been entered incorrectly.",
+			"long_description": "(CONNECTION SLOT 3) The Wi-Fi password has been entered incorrectly, the network has reached the maximum amount of devices connected at once, or the connection strength is poor.",
+			"short_solution": "Ensure that the correct password is being entered, power cycle the modem/router or try again later.",
+			"long_solution": "Ensure that the correct password is being entered, power cycle the modem/router or try again later. Also ensure that there arent too many devices connected at once and that there aren't any large objects containing metals or other electronic devices between the console and the router that could interfere with connection.",
 			"support_link": "https://preten.do/103-1103"
 		}
 	}

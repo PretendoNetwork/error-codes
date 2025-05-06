@@ -3,10 +3,10 @@
 		"1600": {
 			"name": "Unknown",
 			"message": "Unable to find a Wi-Fi network.\n\nPlease confirm that your Wi-Fi\nnetwork is set up for use and that\nthe SSID has been set correctly.\nYou can check the Wii U SSID\nsettings under the Internet option\nin System Settings.\n\nIf the settings are correct and this\nproblem occurs, the network may be\nbusy or the signal strength may be\npoor. Wait for a few minutes, and then\ntry again, making sure that there are no\nobstructions between the console and\nthe network device.",
-			"short_description": "Unknown cause.",
-			"long_description": "Unknown cause.",
-			"short_solution": "Make sure your console is in range of your Wi-Fi network, and check the settings are correct. Make sure the 'Default' connection in Internet Settings is set correctly.",
-			"long_solution": "Unknown solution.",
+			"short_description": "There is likely a poor wireless signal between the console and the Wi-Fi router.",
+			"long_description": "(UNKNOWN CONNECTION TYPE) There may be a poor wireless signal between the console and the Wi-Fi router or the SSID has been entered incorrectly.",
+			"short_solution": "Make sure your console is in range of your Wi-Fi network, and check the settings are correct. Make sure the 'Default' connection in Internet Settings is set correctly. Power cycle the modem/router or try again later.",
+			"long_solution": "Make sure your console is in range of your Wi-Fi network, and check the settings are correct. Make sure the 'Default' connection in Internet Settings is set correctly. Power cycle the modem/router or try again later. Also ensure that there aren't too many devices connected at once and that there aren't any large objects containing metals or other electronic devices between the console and the router that could interfere with connection.",
 			"support_link": "https://preten.do/103-1600"
 		}
 	}

@@ -1,12 +1,12 @@
 {
 	"103": {
 		"1405": {
-			"name": "Unknown",
-			"message": "",
-			"short_description": "Unknown cause.",
-			"long_description": "Unknown cause.",
-			"short_solution": "Make sure your console is in range of your Wi-Fi network, and check the settings are correct. Make sure the 'Default' connection in Internet Settings is set correctly.",
-			"long_solution": "Unknown solution.",
+			"name": "FAILED_DHCP",
+			"message": "Unable to connect to the Wi-Fi network.\n\nPlease check that the Wi-Fi network\nis set up for use and that the network\ndevice's IP-address-allocation settings\nare correct. Please also check that the\nIP address and the SSID have been\nset correctly on the Wii U console.\n\nIf the Wi-Fi network is secured using\nWEP, the security key may be incorrect.\n\nYou can check the console IP address,\nSSID, and security settings under the\nInternet option in System Settings.\n\nIf the settings are correct and this\nproblem occurs, the network may be\nbusy or the signal strength may be\npoor. Wait for a few minutes, and then\ntry again, making sure there are no\nobstructions between the console\nand the network device.",
+			"short_description": "The console failed the Dynamic Host Configuration Protocol and was unable to obtain an IP address.",
+			"long_description": "(CONNECTION SLOT 5) The console failed the Dynamic Host Configuration Protocol and was unable to obtain an IP address.",
+			"short_solution": "Make sure your console is in range of your Wi-Fi network, and check the settings are correct. Power cycle your modem/router.",
+			"long_solution": "Make sure your console is in range of your Wi-Fi network, and check the settings are correct. Make sure the 'Default' connection in Internet Settings is set correctly. Power cycle your modem/router and also ensure that there aren't too many devices connected at once and that there aren't any large objects containing metals or other electronic devices between the console and the router that could interfere with connection. You may also need to manually set the IP address for the console in connection slot 5.",
 			"support_link": "https://preten.do/103-1405"
 		}
 	}

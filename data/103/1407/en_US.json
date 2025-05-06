@@ -1,12 +1,12 @@
 {
 	"103": {
 		"1407": {
-			"name": "Unknown",
+			"name": "FAILED_DHCP",
 			"message": "Unable to connect to a network\ndevice, such as a router or modem.\n\nPlease check whether the IP-address\nsettings are correct under the Internet\noption in System Settings.\n\nPlease refer to the manual for your\nnetwork device and check that the\nIP-address-allocation settings are\ncorrect as well.",
-			"short_description": "Unknown cause.",
-			"long_description": "Unknown cause.",
-			"short_solution": "Make sure your console is in range of your Wi-Fi network, and check the settings are correct. Make sure the 'Default' connection in Internet Settings is set correctly.",
-			"long_solution": "Unknown solution.",
+			"short_description": "The console failed the Dynamic Host Configuration Protocol and was unable to obtain an IP address.",
+			"long_description": "(WII LAN ADAPTER) The console failed the Dynamic Host Configuration Protocol and was unable to obtain an IP address.",
+			"short_solution": "Check the Wi-Fi settings are correct. Make sure the 'Default' connection in Internet Settings is set correctly. Power cycle your modem/router.",
+			"long_solution": "Check the Wi-Fi settings are correct. Make sure the 'Default' connection in Internet Settings is set correctly. Power cycle your modem/router. Ensure the Wii LAN Adapter is installed correctly. You may also need to manually set an IP address for the console.",
 			"support_link": "https://preten.do/103-1407"
 		}
 	}

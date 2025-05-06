@@ -2,11 +2,11 @@
 	"103": {
 		"2104": {
 			"name": "Unknown",
-			"message": "",
-			"short_description": "Unknown cause.",
-			"long_description": "Unknown cause.",
-			"short_solution": "Make sure your console is in range of your Wi-Fi network, and check the settings are correct. Make sure the 'Default' connection in Internet Settings is set correctly.",
-			"long_solution": "Unknown solution.",
+			"message": "Unable to connect to the Internet.\n\nPlease check that the proxy-server\nsettings on your Wii U console are\ncorrect.\n\nTo do so, select System Settings ⇒\nInternet ⇒ Connect to the Internet, and\nthen open the Connections list. Next,\nselect the appropriate network from that\nlist, and then select Change Settings ⇒\nProxy Settings to check your settings.\nEnsure these settings are correct. If a\nproxy server is not in use, disable this\noption.\n\nUnplug your modem and wireless router\nor network device from the power outlet.\nWait a little while, plug them back in,\nand try again.\n\nMake sure the Wii U console is within\nrange of your wireless router and there\nare no obstructions between them.\n\nMove any electronics away from the\nWii U console and your wireless router. \n\nIf you are unable to access or change\nsettings in your wireless router or\nnetwork device, please contact the\nmanufacturer for support.",
+			"short_description": "The console could not connect to the CONNTEST server.",
+			"long_description": "(CONNECTION SLOT 4) The console could not connect to the CONNTEST server. This may be a result of invalid proxy settings or the URL being blocked by the network.",
+			"short_solution": "Ensure that the proxy settings are correct.",
+			"long_solution": "Ensure that the proxy settings are correct and that the network is not blocking http://conntest.nintendowifi.net/.",
 			"support_link": "https://preten.do/103-2104"
 		}
 	}

@@ -1,12 +1,12 @@
 {
 	"103": {
 		"1202": {
-			"name": "Unknown",
-			"message": "",
-			"short_description": "Unknown cause.",
-			"long_description": "Unknown cause.",
-			"short_solution": "Make sure your console is in range of your Wi-Fi network, and check the settings are correct. Make sure the 'Default' connection in Internet Settings is set correctly.",
-			"long_solution": "Unknown solution.",
+			"name": "CONFLICT_IP_ADDRESS",
+			"message": "Unable to connect to the network\nbecause the Wii U console and another\ndevice are using the same IP address.\n\nSelect Connect to the Internet under the\nInternet option in System Settings, and\nthen select Connections and choose\nthe appropriate network. Next, select\nChange Settings. Select IP Address,\nand confirm that Auto-obtain has been\nselected.\n\nIf the network requires a manual IP\naddress, select IP Address then select\nDon't Auto-obtain. You will be prompted\nto enter an IP address manually.",
+			"short_description": "The Wii U console and another device on the network are using the same IP address.",
+			"long_description": "(CONNECTION SLOT 2) The Wii U console and another device on the network are using the same IP address.",
+			"short_solution": "Change the IP address or set the IP address to auto-obtain.",
+			"long_solution": "Change the IP address or set the IP address to auto-obtain. Alternatively, change the IP address being used by the conflicting device.",
 			"support_link": "https://preten.do/103-1202"
 		}
 	}

@@ -1,12 +1,12 @@
 {
 	"103": {
 		"2203": {
-			"name": "Unknown",
-			"message": "",
-			"short_description": "Unknown cause.",
-			"long_description": "Unknown cause.",
-			"short_solution": "Make sure your console is in range of your Wi-Fi network, and check the settings are correct. Make sure the 'Default' connection in Internet Settings is set correctly.",
-			"long_solution": "Unknown solution.",
+			"name": "INVALID_PROXY",
+			"message": "Unable to connect to the proxy server.\n\nPlease check that the proxy-server\nsettings on your Wii U console are\ncorrect.\n\nTo do so, select System Settings ⇒\nInternet ⇒ Connect to the Internet, and\nthen open the Connections list. Next,\nselect the appropriate network from that\nlist, and then select Change Settings ⇒\nProxy Settings to check your settings.\n\nIf it is not possible to connect using\na PC or other device with the same\nsettings, the settings on the proxy\nserver itself may be incorrect, so\nplease check them as well.",
+			"short_description": "The console cannot connect to specified proxy server.",
+			"long_description": "(CONNECTION SLOT 3) The console cannot connect to specified proxy server.",
+			"short_solution": "Ensure the proxy settings are correct.",
+			"long_solution": "Ensure the proxy settings are correct.",
 			"support_link": "https://preten.do/103-2203"
 		}
 	}

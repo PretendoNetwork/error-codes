@@ -2,11 +2,11 @@
 	"103": {
 		"1107": {
 			"name": "Unknown",
-			"message": "",
-			"short_description": "Unknown cause.",
-			"long_description": "Unknown cause.",
-			"short_solution": "Make sure your console is in range of your Wi-Fi network, and check the settings are correct. Make sure the 'Default' connection in Internet Settings is set correctly.",
-			"long_solution": "Unknown solution.",
+			"message": "Could not find any network devices, such as routers or modems. There could be a number of reasons for this, such as the LAN cable not being connected correctly or the network device not being turned on. Please check that the LAN cable and other connections are secure and that the network-device settings are correct.",
+			"short_description": "The Wi-Fi password has most likely been entered incorrectly.",
+			"long_description": "(WII LAN ADAPTER) The Wi-Fi password has been entered incorrectly, the network has reached the maximum amount of devices connected at once, or the Wii LAN Adapter hasn't been installed properly.",
+			"short_solution": "Ensure that the correct password is being entered, power cycle the modem/router or try again later.",
+			"long_solution": "Ensure that the correct password is being entered, power cycle the modem/router or try again later. Also ensure that there arent too many devices connected at once and that the Wii LAN Adapter has been installed correctly.",
 			"support_link": "https://preten.do/103-1107"
 		}
 	}
