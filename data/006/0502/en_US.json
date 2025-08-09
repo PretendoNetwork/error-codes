@@ -6,7 +6,7 @@
 			"short_description": "Could not connect to the game servers.",
 			"long_description": "There was a problem connecting to the game servers. This is most likely due to the servers being unstable or overloaded.",
 			"short_solution": "The game servers are most likely unstable or overloaded. If this issue persists, please check the server status for maintenance, or try again later.",
-			"long_solution": "You can simply try again, but if this issue persists, please check the server status at https://status.pretendo.zip/ and check for any maintenance.",
+			"long_solution": "The game servers are most likely unstable or overloaded. If this issue persists, please check the server status for maintenance, or try again later.",
 			"support_link": "https://preten.do/006-0502"
 		}
 	}
