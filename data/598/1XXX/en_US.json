@@ -3,10 +3,10 @@
 		"1XXX": {
 			"name": "598-1XXX",
 			"message": "",
-			"short_description": "Back button network error",
-			"long_description": "Unknown cause.",
-			"short_solution": "Check your internet connection, if your connection is fine servers may be down",
-			"long_solution": "Unknown solution.",
+			"short_description": "Back button network error.",
+			"long_description": "Back button network error.",
+			"short_solution": "Check your internet connection, if your connection is fine servers may be down.",
+			"long_solution": "Check your internet connection, if your connection is fine servers may be down.",
 			"support_link": "https://preten.do/598-1XXX"
 		}
 	}

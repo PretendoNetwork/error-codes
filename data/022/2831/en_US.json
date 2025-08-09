@@ -2,11 +2,11 @@
 	"022": {
 		"2831": {
 			"name": "BANNED_DEVICE_TEMPORARILY",
-			"message": "",
-			"short_description": "Unknown cause.",
-			"long_description": "Unknown cause.",
-			"short_solution": "Unknown solution.",
-			"long_solution": "Unknown solution.",
+			"message": "Online services cannot be used.",
+			"short_description": "Your console is temporarily banned from Pretendo Network.",
+			"long_description": "Your console has been temporarily banned from Pretendo Network.",
+			"short_solution": "Wait for the ban to expire.",
+			"long_solution": "Wait for the ban to expire.",
 			"support_link": "https://preten.do/022-2831"
 		}
 	}

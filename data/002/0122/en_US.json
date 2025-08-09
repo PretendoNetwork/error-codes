@@ -2,9 +2,9 @@
 	"002": {
 		"0122": {
 			"name": "Unknown",
-			"message": "",
-			"short_description": "PID HMAC is invalid",
-			"long_description": "Unknown cause.",
+			"message": "This device's access to online services\nhas been restricted by Nintendo.\n\nFor help, visit support.nintendo.com.",
+			"short_description": "PID HMAC is invalid.",
+			"long_description": "PID HMAC is invalid.",
 			"short_solution": "Unknown solution.",
 			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/002-0122"

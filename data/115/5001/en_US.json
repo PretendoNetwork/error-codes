@@ -3,10 +3,10 @@
 		"5001": {
 			"name": "Unknown",
 			"message": "A System update is required. Go to System Settings to perform a system update.",
-			"short_description": "Your console is not up to date",
+			"short_description": "Your console is not up to date.",
 			"long_description": "This error should not occur under normal conditions when connected to Pretendo Network.",
-			"short_solution": "Update your console",
-			"long_solution": "- **Check that you are patched**\n\n1. On the Wii U System Menu, click on your Mii in the top left corner.\n2. Scroll down and select `View Network Services Agreement` button.\n3. Select the language of your choice.\n - If the top of the screen says `Pretendo Network Services Agreement`, then you are connected to Pretendo Network.\n - If the top of the screen says something else, then you are not connected to Pretendo Network. Follow [these](/docs/install/wiiu) instructions to get started.\n\n- **Update your console**\n - As of now, version 5.5.6 is safe to update for homebrew.\n - By default, modern homebrew environments block updates to ensure patches are not broken. You can follow [this](https://wiiu.hacks.guide/#/unblock-updates) guide to unblock updates.",
+			"short_solution": "Update your console.",
+			"long_solution": "- **Check that you are patched**\n\n1. On the Wii U System Menu, click on your Mii in the top left corner.\n2. Scroll down and select `View Network Services Agreement` button.\n3. Select the language of your choice.\n - If the top of the screen says `Pretendo Network Services Agreement`, then you are connected to Pretendo Network.\n - If the top of the screen says something else, then you are not connected to Pretendo Network. Follow [these](/docs/install/wiiu) instructions to get started.\n\n- **Update your console**\n - As of now, versions 5.5.5 and 5.5.6 is safe to update for homebrew.\n - By default, modern homebrew environments block updates to ensure patches are not broken. You can follow [this](https://wiiu.hacks.guide/#/unblock-updates) guide to unblock updates.",
 			"support_link": "https://preten.do/115-5001"
 		}
 	}

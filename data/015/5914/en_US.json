@@ -2,11 +2,11 @@
 	"015": {
 		"5914": {
 			"name": "Unknown",
-			"message": "You cannot add any more communities\nfor this game to your favorites.\n\nTo add a new favorite, you must\nremove at least one community for\nthis game from your favorites",
-			"short_description": "Favorites for this game are full",
-			"long_description": "Unknown cause.",
-			"short_solution": "Remove a community for this game from your favorites",
-			"long_solution": "Unknown solution.",
+			"message": "You cannot add any more communities\nfor this game to your favorites.\n\nTo add a new favorite, you must\nremove at least one community for\nthis game from your favorites.",
+			"short_description": "Favorites for this game are full.",
+			"long_description": "The maximum of communities from your favourites has been reached, making impossible adding new ones.",
+			"short_solution": "Remove a community for this game from your favorites.",
+			"long_solution": "Remove an existing community for this game from your favourites and try again.",
 			"support_link": "https://preten.do/015-5914"
 		}
 	}

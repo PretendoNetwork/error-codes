@@ -2,11 +2,11 @@
 	"015": {
 		"1009": {
 			"name": "Unknown",
-			"message": "Miiverse functions are unavailable\non this system",
-			"short_description": "Unknown cause.",
-			"long_description": "Unknown cause.",
-			"short_solution": "Unknown solution.",
-			"long_solution": "Unknown solution.",
+			"message": "Miiverse functions are unavailable\non this console",
+			"short_description": "Your console has been permanently banned from Juxtaposition.",
+			"long_description": "Your console has been permanently banned from Juxtaposition.\n\nThis typically occurs because of a violation of the Code of Conduct, or other offenses on the Network or the Discord server.",
+			"short_solution": "Appeal the ban in the Discord server.",
+			"long_solution": "Appeal the ban by requesting to speak to a moderator in the [Discord server](https://discord.gg/pretendo).",
 			"support_link": "https://preten.do/015-1009"
 		}
 	}

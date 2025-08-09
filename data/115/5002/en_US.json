@@ -3,9 +3,9 @@
 		"5002": {
 			"name": "Unknown",
 			"message": "You must have started Miiverse\nat least once before you can\nuse this online service.\n\nPlease start Miiverse from\nthe HOME Menu and set up\nyour user information.",
-			"short_description": "Juxtaposition account not initialized",
+			"short_description": "Juxtaposition account not initialized.",
 			"long_description": "This error occurs when you have never opened the Miiverse app before attempting to use online features.",
-			"short_solution": "Boot the Miiverse applet from the home screen and complete setup",
+			"short_solution": "Boot the Miiverse applet from the home screen and complete setup.",
 			"long_solution": "Open the Miiverse app from the HOME Menu.",
 			"support_link": "https://preten.do/115-5002"
 		}

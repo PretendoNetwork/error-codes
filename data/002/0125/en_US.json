@@ -2,9 +2,9 @@
 	"002": {
 		"0125": {
 			"name": "Unknown",
-			"message": "",
-			"short_description": "Game id is invalid",
-			"long_description": "Unknown cause.",
+			"message": "This device's access to online services\nhas been restricted by Nintendo.\n\nFor help, visit support.nintendo.com.",
+			"short_description": "Rom ID is invalid.",
+			"long_description": "Rom ID is invalid.",
 			"short_solution": "Unknown solution.",
 			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/002-0125"

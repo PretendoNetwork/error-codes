@@ -1,0 +1,13 @@
+{
+	"022": {
+		"5432": {
+			"name": "Unknown",
+			"message": "An error has occured. Please try again later. If the problem persists, please make a note of the error code and visit support.nintendo.com.",
+			"short_description": "Unknown cause.",
+			"long_description": "Unknown cause.",
+			"short_solution": "Open Nimbus and switch to Nintendo servers, then open the Nintendo eShop. After it loads or returns and error code, come back to Pretendo servers and try again.",
+			"long_solution": "Follow this fix:\n\n1. Open Nimbus;\n2. Switch to Nintendo servers by tapping on Nintendo;\n3. Open the Nintendo eShop or another application that uses the NNID (e.g. Pokémon Bank) and wait until it loads or returns an error code;\n4. Once it's done, exit the eShop or the application you used for this fix;\n5. Open Nimbus again;\n6. Switch to Pretendo servers by tapping on Pretendo;\n7. Should be fixed! Attempt again at making/linking your PNID or whatever you were attempting to perform on Pretendo servers.",
+			"support_link": "https://preten.do/022-5432"
+		}
+	}
+}

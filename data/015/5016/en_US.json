@@ -1,0 +1,13 @@
+{
+	"015": {
+		"5016": {
+			"name": "Custom Pretendo Error",
+			"message": "Unable to connect to the server. Please try again later. If the problem persists, please make a note of the error code and visit support.nintendo.com.",
+			"short_description": "Invalid Service Token.",
+			"long_description": "Invalid Service Token. Usually indicates the token is expired.",
+			"short_solution": "Reboot your console and try again.",
+			"long_solution": "Try again. If the error code still persists reboot your console.",
+			"support_link": "https://preten.do/015-5016"
+		}
+	}
+}

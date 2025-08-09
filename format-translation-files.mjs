@@ -28,12 +28,12 @@ fs.readdirSync(arg, { recursive: true, withFileTypes: true }).forEach(file => {
 
 	const errorObject = json[key1][key2];
 	if (!errorObject || typeof errorObject !== "object") {
-		console.log(`No error object found in ${fullPath}`);
+		console.error(`No error object found in ${fullPath}`);
 		return;
 	}
 
 	if (!errorObject["short_description"] || !errorObject["long_description"] || !errorObject["short_solution"] || !errorObject["long_solution"]) {
-		console.log(`Missing fields in ${fullPath}`);
+		console.error(`Missing fields in ${fullPath}`);
 		return;
 	}
 

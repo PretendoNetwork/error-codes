@@ -3,8 +3,8 @@
 		"0112": {
 			"name": "Unknown",
 			"message": "",
-			"short_description": "SVC is invalid",
-			"long_description": "Unknown cause.",
+			"short_description": "SVC is invalid.",
+			"long_description": "SVC is invalid.",
 			"short_solution": "Unknown solution.",
 			"long_solution": "Unknown solution.",
 			"support_link": "https://preten.do/002-0112"

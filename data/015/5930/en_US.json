@@ -2,11 +2,11 @@
 	"015": {
 		"5930": {
 			"name": "Unknown",
-			"message": "You cannot see this user's information\nbecause his or her friend list and\nfollowers are restricted",
-			"short_description": "Other users profile is hidden",
-			"long_description": "Unknown cause.",
-			"short_solution": "No fix",
-			"long_solution": "Unknown solution.",
+			"message": "You cannot see this user's information\nbecause his or her friend list and\nfollowers are restricted.",
+			"short_description": "Other users profile is hidden.",
+			"long_description": "This user has hidden their information, making friend list and follower list private.",
+			"short_solution": "No fix.",
+			"long_solution": "No solution. They have hidden their information for privacy reasons.",
 			"support_link": "https://preten.do/015-5930"
 		}
 	}

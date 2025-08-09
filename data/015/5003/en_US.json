@@ -2,10 +2,10 @@
 	"015": {
 		"5003": {
 			"name": "Unknown",
-			"message": "The server is currently undergoing\nmaintenance. We apologize for any\ninconvenience. Please try again later.\n\nTo learn more about maintenance,\nvisit support.nintendo.com",
-			"short_description": "Juxtaposition is under maintenance",
+			"message": "The server is currently undergoing\nmaintenance.\n\nPlease try again later.",
+			"short_description": "Juxtaposition is under maintenance.",
 			"long_description": "Juxtaposition is currently undergoing maintenance.",
-			"short_solution": "Try again later",
+			"short_solution": "Try again later.",
 			"long_solution": "Check our [Network Status page](https://stats.uptimerobot.com/R7E4wiGjJq) or join our [Discord server](https://invite.gg/pretendo) for updates.",
 			"support_link": "https://preten.do/015-5003"
 		}
