@@ -6,7 +6,7 @@
 			"short_description": "Game server requires custom patches.",
 			"long_description": "The game server you are trying to connect to requires custom patches to protect its users against security vulnerabilities.",
 			"short_solution": "Download the latest version of Nimbus.",
-			"long_solution": "Since Nimbus 2.0.0, a new plugin containing custom patches for games is bundled with it. Download the latest version of Nimbus available to get the latest set of patches",
+			"long_solution": "Since Nimbus 2.0.0, a new plugin containing custom patches for games is bundled with it. Download the latest version of Nimbus available to get the latest set of patches.",
 			"support_link": "https://preten.do/002-0152"
 		}
 	}
