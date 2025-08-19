@@ -2,7 +2,7 @@
 	"104": {
 		"2210": {
 			"name": "STOPPED_BY_POLICYLIST",
-			"message": "An error has occurred./n/nPlease try again later./n/nIf the problem persists, please\nmake a note of the error code and\nvisit support.nintendo.com",
+			"message": "An error has occurred.\n\nPlease try again later.\n\nIf the problem persists, please\nmake a note of the error code and\nvisit support.nintendo.com",
 			"short_description": "Related to downloaded BOSS (SpotPass) content.",
 			"long_description": "This error is related to your downloaded BOSS (SpotPass) data for the game you are playing. Either the content is missing or downloaded incorrectly. Most often seen in Splatoon.",
 			"short_solution": "Delete shared save data via Sytem Settings > Data Management. This will not delete any of your save data.",
