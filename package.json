@@ -1,8 +1,9 @@
 {
 	"name": "@pretendonetwork/error-codes",
-	"version": "1.2.0",
+	"version": "1.2.1",
 	"description": "Translated error code information for the Wii U and 3DS",
 	"main": "index.js",
+	"repository": "github:PretendoNetwork/error-codes",
 	"files": [
 		"index.js",
 		"data"
