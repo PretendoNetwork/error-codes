@@ -3,7 +3,10 @@
 	"version": "1.2.1",
 	"description": "Translated error code information for the Wii U and 3DS",
 	"main": "index.js",
-	"repository": "github:PretendoNetwork/error-codes",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/PretendoNetwork/error-codes.git"
+	},
 	"files": [
 		"index.js",
 		"data"
