@@ -1,0 +1,13 @@
+{
+	"002": {
+		"0153": {
+			"name": "Custom Pretendo Error",
+			"message": "The online service is unavailable.\nPlease try again later.\n\nFor help, visit support.nintendo.com.",
+			"short_description": "Legacy uidhmac being used.",
+			"long_description": "Your console is using a uidhmac value that is no longer compatible with our services.",
+			"short_solution": "You must repair your uidhmac using the latest version of Nimbus.",
+			"long_solution": "Download the latest version of Nimbus and launch it. Press the START button. This will automatically apply the fix and reboot your console.",
+			"support_link": "https://preten.do/002-0153"
+		}
+	}
+}
